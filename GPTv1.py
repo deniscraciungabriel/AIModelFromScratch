@@ -20,8 +20,9 @@ device = 'cuda' if torch.cuda.is_available() else 'cpu'
 # batch_size = args.batch_size # to use the batch_size cmd arg -> python file_name.py -batch_size 32
 batch_size = 2
 block_size = 2
-max_iters = 100
-learning_rate = 2e-5
+max_iters = 10000
+# 2e-5 is also a nice one
+learning_rate = 3e-4
 eval_iters = 100
 n_embd = 20
 n_head = 1
