@@ -15,7 +15,7 @@ args = parser.parse_args()
 
 # Now we can use the argument value in our program.
 print(f'batch size: {args.batch_size}')
-device = 'cuda' if torch.cuda.is_available() else 'cpu'
+device = 'mps' if torch.backends.mps.is_available() else 'cuda' if torch.cuda.is_available() else 'cpu'
 
 batch_size = int(args.batch_size)
 block_size = 128

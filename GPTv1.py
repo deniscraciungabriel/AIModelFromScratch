@@ -5,6 +5,10 @@ import mmap
 import random
 import pickle
 import argparse
+import time
+
+# Start the timer
+start_time = time.time()
 
 parser = argparse.ArgumentParser(description='This is a demonstration program')
 
@@ -15,18 +19,19 @@ parser = argparse.ArgumentParser(description='This is a demonstration program')
 
 # Now we can use the argument value in our program.
 # print(f'batch size: {args.batch_size}')
-device = 'cuda' if torch.cuda.is_available() else 'cpu'
+device = 'mps' if torch.backends.mps.is_available() else 'cuda' if torch.cuda.is_available() else 'cpu'
+# device = 'cpu'
 
 # batch_size = args.batch_size # to use the batch_size cmd arg -> python file_name.py -batch_size 32
-batch_size = 2
-block_size = 2
-max_iters = 10000
-# 2e-5 is also a nice one
-learning_rate = 3e-4
+batch_size = 16
+block_size = 64
+max_iters = 100
+# 2e-5 or 3e-4 are nice ones
+learning_rate = 2e-5
 eval_iters = 100
-n_embd = 20
-n_head = 1
-n_layer = 3
+n_embd = 384
+n_head = 4
+n_layer = 4
 dropout = 0.2
 
 print(device)
@@ -257,6 +262,11 @@ print(loss.item())
 with open('model-01.pkl', 'wb') as f:
     pickle.dump(model, f)
 print('model saved')
+
+# End the timer and print the total runtime
+end_time = time.time()
+total_time = end_time - start_time
+print(f"Total runtime: {total_time:.2f} seconds")
 
 prompt = 'Hello! Can you see me?'
 context = torch.tensor(encode(prompt), dtype=torch.long, device=device)
