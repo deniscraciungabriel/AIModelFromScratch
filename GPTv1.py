@@ -5,10 +5,10 @@ import mmap
 import random
 import pickle
 import argparse
-import time
+# import time
 
 # Start the timer
-start_time = time.time()
+# start_time = time.time()
 
 parser = argparse.ArgumentParser(description='This is a demonstration program')
 
@@ -25,7 +25,7 @@ device = 'mps' if torch.backends.mps.is_available() else 'cuda' if torch.cuda.is
 # batch_size = args.batch_size # to use the batch_size cmd arg -> python file_name.py -batch_size 32
 batch_size = 16
 block_size = 64
-max_iters = 100
+max_iters = 10000
 # 2e-5 or 3e-4 are nice ones
 learning_rate = 2e-5
 eval_iters = 100
@@ -70,9 +70,13 @@ def get_random_chunk(split):
             
     return data
 
-
+data = torch.tensor(encode(text), dtype=torch.long)
+n = int(0.8*len(data))
+train_data = data[:n]
+val_data = data[n:]
 def get_batch(split):
-    data = get_random_chunk(split)
+    # data = get_random_chunk(split)            #useful for big files
+    data = train_data if split == 'train' else val_data
     ix = torch.randint(len(data) - block_size, (batch_size,))
     x = torch.stack([data[i:i+block_size] for i in ix])
     y = torch.stack([data[i+1:i+block_size+1] for i in ix])
@@ -219,10 +223,10 @@ class GPTLanguageModel(nn.Module):
         return index
 
 model = GPTLanguageModel(vocab_size)
-# print('loading model parameters...')
-# with open('model-01.pkl', 'rb') as f:
-#     model = pickle.load(f)
-# print('loaded successfully!')
+print('loading model parameters...')
+with open('model-01.pkl', 'rb') as f:
+    model = pickle.load(f)
+print('loaded successfully!')
 m = model.to(device)
 
 @torch.no_grad()
@@ -264,9 +268,9 @@ with open('model-01.pkl', 'wb') as f:
 print('model saved')
 
 # End the timer and print the total runtime
-end_time = time.time()
-total_time = end_time - start_time
-print(f"Total runtime: {total_time:.2f} seconds")
+# end_time = time.time()
+# total_time = end_time - start_time
+# print(f"Total runtime: {total_time:.2f} seconds")
 
 prompt = 'Hello! Can you see me?'
 context = torch.tensor(encode(prompt), dtype=torch.long, device=device)
