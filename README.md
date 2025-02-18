@@ -30,12 +30,12 @@ This project demonstrates how to build an AI model from scratch using PyTorch. I
    docker-compose up --build
    ```
 
-## Usage
+## GPTv1.py
 
-### Training the Model
+This file contains a model around 7M parameters that uses character level tokenisation.
+It should be trained on small files
 
-To train the model, run the `training.py` script inside the Docker container:
+## GPTv2.py
 
-```sh
-docker-compose run app python training.py -batch_size 32
-```
+This file contains a model around 50M parameters that uses word level tokenisation
+It should be trained on bigger files to prevent overfitting

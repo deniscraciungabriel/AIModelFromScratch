@@ -4,6 +4,7 @@ from torch.nn import functional as F
 import random
 import pickle
 import argparse
+import pandas as pd
 
 # Device selection
 device = 'mps' if torch.backends.mps.is_available() else 'cuda' if torch.cuda.is_available() else 'cpu'
@@ -20,12 +21,19 @@ n_head = 8
 n_layer = 12
 dropout = 0.2
 
-# Read and tokenize text at the word level
-with open('conversation.txt', 'r', encoding='utf-8') as f:
-    text = f.read()
+# ---------------- Data Loading from CSV ---------------- #
+# Load CSV files for training and validation data
+df_train = pd.read_csv("Synthetic-Persona-Chat_train.csv")
+df_val   = pd.read_csv("Synthetic-Persona-Chat_val.csv")
 
-# Tokenize by splitting on whitespace
-words = text.split()
+# Assuming the conversation text is in a column named 'text'
+# Convert all entries to strings in case there are any non-string values
+train_text = " ".join(df_train["text"].astype(str).tolist())
+val_text   = " ".join(df_val["text"].astype(str).tolist())
+
+# Combine both texts to build a unified vocabulary
+full_text = train_text + " " + val_text
+words = full_text.split()
 vocab = sorted(set(words))
 vocab_size = len(vocab)
 print(f"Vocabulary size: {vocab_size}")
@@ -42,13 +50,9 @@ def decode(vector):
     """Decodes a list of integers back into a string."""
     return " ".join(idx_to_word[i] for i in vector)
 
-# Create data tensor from the full text (word indices)
-data = torch.tensor([word_to_idx[w] for w in words], dtype=torch.long)
-
-# Split data into training and validation sets (80/20 split)
-split_index = int(0.8 * len(data))
-training_data = data[:split_index]
-validation_data = data[split_index:]
+# Create data tensors from the CSV texts
+training_data = torch.tensor(encode(train_text), dtype=torch.long)
+validation_data = torch.tensor(encode(val_text), dtype=torch.long)
 
 def get_batch(split):
     """Generates a batch of inputs and targets for training."""
