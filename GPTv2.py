@@ -24,7 +24,7 @@ dropout = 0.2
 # ---------------- Data Loading from CSV ---------------- #
 # Load CSV files for training and validation data
 df_train = pd.read_csv("Synthetic-Persona-Chat_train.csv")
-df_val   = pd.read_csv("Synthetic-Persona-Chat_val.csv")
+df_val   = pd.read_csv("Synthetic-Persona-Chat_valid.csv")
 
 # Assuming the conversation text is in a column named 'text'
 # Convert all entries to strings in case there are any non-string values
