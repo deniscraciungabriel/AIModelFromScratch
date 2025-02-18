@@ -26,10 +26,9 @@ dropout = 0.2
 df_train = pd.read_csv("Synthetic-Persona-Chat_train.csv")
 df_val   = pd.read_csv("Synthetic-Persona-Chat_valid.csv")
 
-# Assuming the conversation text is in a column named 'text'
-# Convert all entries to strings in case there are any non-string values
-train_text = " ".join(df_train["text"].astype(str).tolist())
-val_text   = " ".join(df_val["text"].astype(str).tolist())
+# Extract conversation text from the correct column
+train_text = " ".join(df_train["Best Generated Conversation"].astype(str).tolist())
+val_text   = " ".join(df_val["Best Generated Conversation"].astype(str).tolist())
 
 # Combine both texts to build a unified vocabulary
 full_text = train_text + " " + val_text
