@@ -36,22 +36,24 @@ dropout = 0.2
 
 print(device)
 
-with open('wizard_of_oz.txt', 'r', encoding='utf-8') as f:
+with open('conversation.txt', 'r', encoding='utf-8') as f:
     text = f.read()
 
 chars = sorted(set(text))
 print(chars)
 vocab_size = len(chars)
 
-string_to_int = { ch:i for i,ch in enumerate(chars) }
-int_to_string = { i:ch for i,ch in enumerate(chars) }
-encode = lambda s: [string_to_int[c] for c in s]
-decode = lambda l: ''.join([int_to_string[i] for i in l])
+def encode(word):
+    return [chars.index(char) for char in word]
+
+
+def decode(vector):
+    return "".join(chars[i] for i in vector)
 
 
 # memory map for using small snippets of text from a single file of any size
 def get_random_chunk(split):
-    filename = "wizard_of_oz.txt" if split == 'train' else "wizard_of_oz.txt"
+    filename = "conversation.txt" if split == 'train' else "conversation.txt"
     with open(filename, 'rb') as f:
         with mmap.mmap(f.fileno(), 0, access=mmap.ACCESS_READ) as mm:
             # Determine the file size and a random position to start reading
@@ -70,18 +72,28 @@ def get_random_chunk(split):
             
     return data
 
-data = torch.tensor(encode(text), dtype=torch.long)
-n = int(0.8*len(data))
-train_data = data[:n]
-val_data = data[n:]
-def get_batch(split):
-    # data = get_random_chunk(split)            #useful for big files
-    data = train_data if split == 'train' else val_data
-    ix = torch.randint(len(data) - block_size, (batch_size,))
+data = torch.tensor(encode(text))
+
+split_index = int(0.8 * len(data))
+training_data = data[:split_index]
+validation_data = data[split_index:]
+
+
+def get_batch(action):
+    data = training_data if action == "training" else validation_data
+    ix = torch.randint(len(data) - block_size, (batch_size, ))
     x = torch.stack([data[i:i+block_size] for i in ix])
     y = torch.stack([data[i+1:i+block_size+1] for i in ix])
     x, y = x.to(device), y.to(device)
     return x, y
+
+# def get_batch(split):
+#     data = get_random_chunk(split)
+#     ix = torch.randint(len(data) - block_size, (batch_size,))
+#     x = torch.stack([data[i:i+block_size] for i in ix])
+#     y = torch.stack([data[i+1:i+block_size+1] for i in ix])
+#     x, y = x.to(device), y.to(device)
+#     return x, y
 
 class Head(nn.Module):
     """ one head of self-attention """
@@ -272,7 +284,7 @@ print('model saved')
 # total_time = end_time - start_time
 # print(f"Total runtime: {total_time:.2f} seconds")
 
-prompt = 'Hello! Can you see me?'
+prompt = '[user]:\n hello! how are you?\n\n[ai]:\n'
 context = torch.tensor(encode(prompt), dtype=torch.long, device=device)
 generated_chars = decode(m.generate(context.unsqueeze(0), max_new_tokens=100)[0].tolist())
 print(generated_chars)

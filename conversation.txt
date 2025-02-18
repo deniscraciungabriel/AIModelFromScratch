@@ -1,0 +1,11172 @@
+[user]:
+hi, how are you doing?
+
+[ai]:
+i'm fine. how about yourself?
+
+[user]:
+i'm pretty good. thanks for asking.
+
+[ai]:
+no problem. so how have you been?
+
+[user]:
+i've been great. what about you?
+
+[ai]:
+i've been good. i'm in school right now.
+
+[user]:
+what school do you go to?
+
+[ai]:
+i go to pcc.
+
+[user]:
+do you like it there?
+
+[ai]:
+it's okay. it's a really big campus.
+
+[user]:
+good luck with school.
+
+[ai]:
+thank you very much.
+
+[user]:
+i'm doing well. how about you?
+
+[ai]:
+never better, thanks.
+
+[user]:
+so how have you been lately?
+
+[ai]:
+i've actually been pretty good. you?
+
+[user]:
+i'm actually in school right now.
+
+[ai]:
+which school do you attend?
+
+[user]:
+i'm attending pcc right now.
+
+[ai]:
+are you enjoying it there?
+
+[user]:
+it's not bad. there are a lot of people there.
+
+[ai]:
+good luck with that.
+
+[user]:
+how are you doing today?
+
+[ai]:
+i'm doing great. what about you?
+
+[user]:
+i'm absolutely lovely, thank you.
+
+[ai]:
+everything's been good with you?
+
+[user]:
+i haven't been better. how about yourself?
+
+[ai]:
+i started school recently.
+
+[user]:
+where are you going to school?
+
+[ai]:
+i'm going to pcc.
+
+[user]:
+how do you like it so far?
+
+[ai]:
+i like it so far. my classes are pretty good right now.
+
+[user]:
+it's an ugly day today.
+
+[ai]:
+i know. i think it may rain.
+
+[user]:
+it's the middle of summer, it shouldn't rain today.
+
+[ai]:
+that would be weird.
+
+[user]:
+yeah, especially since it's ninety degrees outside.
+
+[ai]:
+i know, it would be horrible if it rained and it was hot outside.
+
+[user]:
+yes, it would be. 
+
+[ai]:
+i really wish it wasn't so hot every day. 
+
+[user]:
+me too. i can't wait until winter.
+
+[ai]:
+i like winter too, but sometimes it gets too cold.
+
+[user]:
+i'd rather be cold than hot.
+
+[ai]:
+me too.
+
+[user]:
+you're right. i think it's going to rain later.
+
+[ai]:
+in the middle of the summer, it shouldn't be raining.
+
+[user]:
+that wouldn't seem right.
+
+[ai]:
+considering that it's over ninety degrees outside, that would be weird.
+
+[user]:
+exactly, it wouldn't be nice if it started raining. it's too hot.
+
+[ai]:
+i know, you're absolutely right.
+
+[user]:
+i wish it would cool off one day.
+
+[ai]:
+that's how i feel, i want winter to come soon.
+
+[user]:
+i enjoy the winter, but it gets really cold sometimes.
+
+[ai]:
+i know what you mean, but i'd rather be cold than hot.
+
+[user]:
+i wish it was a nicer day today.
+
+[ai]:
+that is true. i hope it doesn't rain.
+
+[user]:
+it wouldn't rain in the middle of the summer.
+
+[ai]:
+it wouldn't seem right if it started raining right now.
+
+[user]:
+it would be weird if it started raining in ninety degree weather.
+
+[ai]:
+any rain right now would be pointless.
+
+[user]:
+that's right, it really would be.
+
+[ai]:
+i want it to cool down some.
+
+[user]:
+i know what you mean, i can't wait until it's winter.
+
+[ai]:
+winter is great. i wish it didn't get so cold sometimes though.
+
+[user]:
+it's such a nice day.
+
+[ai]:
+yes, it is.
+
+[user]:
+it looks like it may rain soon.
+
+[ai]:
+yes, and i hope that it does.
+
+[user]:
+why is that?
+
+[ai]:
+i really love how rain clears the air.
+
+[user]:
+me too. it always smells so fresh after it rains.
+
+[ai]:
+yes, but i love the night air after it rains.
+
+[user]:
+really? why is it?
+
+[ai]:
+because you can see the stars perfectly.
+
+[user]:
+i really hope it rains today.
+
+[ai]:
+yeah, me too.
+
+[user]:
+it really is.
+
+[ai]:
+it seems that it may rain today.
+
+[user]:
+hopefully it will.
+
+[ai]:
+how come?
+
+[user]:
+i like how clear the sky gets after it rains.
+
+[ai]:
+i feel the same way. it smells so good after it rains.
+
+[user]:
+i especially love the night air when it rains.
+
+[ai]:
+really? why?
+
+[user]:
+the stars look so much closer after it rains.
+
+[ai]:
+i really want it to rain today.
+
+[user]:
+don't you think it's nice out?
+
+[ai]:
+yes, i think so too.
+
+[user]:
+i think that it's going to rain.
+
+[ai]:
+i hope that it does rain.
+
+[user]:
+you like the rain?
+
+[ai]:
+the sky looks so clean after it rains. i love it.
+
+[user]:
+i understand. rain does make it smell cleaner.
+
+[ai]:
+i love most how it is at night after it rains.
+
+[user]:
+how come?
+
+[ai]:
+you can see the stars so much more clearly after it rains.
+
+[user]:
+i really want to go to the beach this weekend.
+
+[ai]:
+that sounds like fun. what's the weather going to be like?
+
+[user]:
+i heard that it's going to be warm this weekend.
+
+[ai]:
+is it going to be perfect beach weather?
+
+[user]:
+i believe so.
+
+[ai]:
+good. i hope it doesn't cool off this weekend.
+
+[user]:
+i know. i really want to go to the beach.
+
+[ai]:
+but you know that california weather is really unpredictable.
+
+[user]:
+you're right. one minute it's hot, and then the next minute it's cold.
+
+[ai]:
+i really wish the weather would just stay the same.
+
+[user]:
+i do too. that way we can have our activities planned ahead of time.
+
+[ai]:
+yeah, that would make things a lot easier.
+
+[user]:
+a trip to the beach would be fun. how is the weather going to be?
+
+[ai]:
+the forecast says that it will be warm on the weekend.
+
+[user]:
+so do you think it'll be perfect weather for the beach?
+
+[ai]:
+it sounds like it will be.
+
+[user]:
+i really hope it doesn't get cold.
+
+[ai]:
+that would ruin things, i want to go so badly.
+
+[user]:
+the weather in california is unpredictable, so you never know.
+
+[ai]:
+that is true. the weather is constantly changing.
+
+[user]:
+it would be nice if the weather would never change.
+
+[ai]:
+that would be great, then we could plan things sooner.
+
+[user]:
+it would be nice to go to the beach sometime this weekend.
+
+[ai]:
+what's the weather going to be like? i may want to go too.
+
+[user]:
+the weather this weekend is supposed to be warm.
+
+[ai]:
+will it be good beach weather?
+
+[user]:
+i think it will be.
+
+[ai]:
+it wouldn't be good if it got cold this weekend.
+
+[user]:
+i want this trip to be perfect, i hope it stays warm.
+
+[ai]:
+this california weather is so uncertain, it's impossible to know what'll happen.
+
+[user]:
+i know. every day the weather seems different.
+
+[ai]:
+i would love it if it wasn't always so unpredictable.
+
+[user]:
+hello, may i speak to alice please?
+
+[ai]:
+this is she. how's it going?
+
+[user]:
+i've been trying to call you all day.
+
+[ai]:
+sorry about that. i was cleaning up.
+
+[user]:
+it's okay.
+
+[ai]:
+so what were you calling me about?
+
+[user]:
+oh, i just wanted to see if you wanted to hang out tomorrow.
+
+[ai]:
+sure, what did you want to do?
+
+[user]:
+maybe we can go see a movie or something.
+
+[ai]:
+that sounds like fun. let's do it.
+
+[user]:
+i'll see you tomorrow then.
+
+[ai]:
+see you then. goodbye.
+
+[user]:
+speaking. what's up?
+
+[ai]:
+why haven't you answered the phone?
+
+[user]:
+my bad, i had chores to do.
+
+[ai]:
+that's all right.
+
+[user]:
+what was the reason for your call?
+
+[ai]:
+i want to do something tomorrow with you.
+
+[user]:
+sounds good. what did you have in mind?
+
+[ai]:
+i was thinking about seeing a movie.
+
+[user]:
+okay, let's go see a movie.
+
+[ai]:
+until then.
+
+[user]:
+is alice available?
+
+[ai]:
+you're talking to her.
+
+[user]:
+i've called you a hundred times today.
+
+[ai]:
+i was busy doing something. i apologize.
+
+[user]:
+no problem.
+
+[ai]:
+did you need something?
+
+[user]:
+do you want to do something tomorrow?
+
+[ai]:
+is there somewhere special you wanted to go?
+
+[user]:
+how about a movie?
+
+[ai]:
+a movie sounds good.
+
+[user]:
+have you seen the new girl in school?
+
+[ai]:
+no, i haven't.
+
+[user]:
+she's really pretty.
+
+[ai]:
+describe her to me.
+
+[user]:
+she's not too tall.
+
+[ai]:
+well, how tall is she?
+
+[user]:
+she's about five feet even.
+
+[ai]:
+what does she look like, though?
+
+[user]:
+she has pretty light brown eyes.
+
+[ai]:
+i may know which girl you're talking about.
+
+[user]:
+so you have seen her around?
+
+[ai]:
+yes, i have.
+
+[user]:
+i haven't seen her yet.
+
+[ai]:
+i think that she is very pretty.
+
+[user]:
+tell me how she looks.
+
+[ai]:
+she's kind of short.
+
+[user]:
+what height is she?
+
+[ai]:
+she's probably about five feet.
+
+[user]:
+that's nice, but tell me what she looks like.
+
+[ai]:
+the first thing i noticed was her beautiful brown eyes.
+
+[user]:
+i think i might've bumped into her before.
+
+[ai]:
+are you telling me that you've seen her before?
+
+[user]:
+have you met the new girl?
+
+[ai]:
+no. have you?
+
+[user]:
+she's one of the prettiest girls at the school.
+
+[ai]:
+what does she look like?
+
+[user]:
+well, she's quite short.
+
+[ai]:
+how tall would you say that she is?
+
+[user]:
+i would say she's only five feet.
+
+[ai]:
+what about her facial features?
+
+[user]:
+she has light brown eyes, absolutely beautiful.
+
+[ai]:
+i think i know who you're talking about.
+
+[user]:
+why weren't you at school yesterday?
+
+[ai]:
+i wasn't really feeling well.
+
+[user]:
+what was wrong with you?
+
+[ai]:
+my stomach was upset.
+
+[user]:
+do you feel better now?
+
+[ai]:
+i don't really feel too well yet.
+
+[user]:
+do you want anything to make you feel better?
+
+[ai]:
+no, thanks. i already took some medicine.
+
+[user]:
+i hope you feel better.
+
+[ai]:
+thank you.
+
+[user]:
+i was sick.
+
+[ai]:
+how were you sick?
+
+[user]:
+i had a stomachache.
+
+[ai]:
+did it get any better?
+
+[user]:
+i'm still feeling under the weather.
+
+[ai]:
+would you like anything for your stomach?
+
+[user]:
+i took something earlier.
+
+[ai]:
+get better.
+
+[user]:
+why didn't you go to school yesterday?
+
+[ai]:
+i stayed home because i wasn't feeling well.
+
+[user]:
+what was your problem?
+
+[ai]:
+my stomach was bothering me.
+
+[user]:
+are you feeling any better?
+
+[ai]:
+i'm still feeling a little sick.
+
+[user]:
+i'm going to the store, would you like any pepto bismol?
+
+[ai]:
+that's okay.
+
+[user]:
+did you hear the good news?
+
+[ai]:
+no, i haven't.
+
+[user]:
+i got a promotion at my job.
+
+[ai]:
+did you really?
+
+[user]:
+seriously, i am so excited.
+
+[ai]:
+well, congratulations.
+
+[user]:
+thank you.
+
+[ai]:
+i'm so happy for you.
+
+[user]:
+really?
+
+[ai]:
+yes. you really deserved this.
+
+[user]:
+you think so?
+
+[ai]:
+yes. good for you.
+
+[user]:
+you haven't told me anything yet.
+
+[ai]:
+i got a promotion at work earlier this week.
+
+[user]:
+is that right?
+
+[ai]:
+it's the truth. i am really happy.
+
+[user]:
+congratulations on your promotion.
+
+[ai]:
+thank you very much.
+
+[user]:
+i am really excited for you.
+
+[ai]:
+are you really?
+
+[user]:
+i'm serious. you deserved this promotion.
+
+[ai]:
+is that what you really think?
+
+[user]:
+i haven't told you what happened yet, have i?
+
+[ai]:
+i haven't heard anything.
+
+[user]:
+my boss offered me a promotion, and i took it.
+
+[ai]:
+are you serious?
+
+[user]:
+yes, i am really excited.
+
+[ai]:
+that's great. congratulations.
+
+[user]:
+i appreciate that.
+
+[ai]:
+you have no idea how happy i am for you.
+
+[user]:
+you look really nice today. 
+
+[ai]:
+thank you. i just got this outfit the other day.
+
+[user]:
+really, where did you get it?
+
+[ai]:
+i got it from macy's.
+
+[user]:
+it's really nice.
+
+[ai]:
+thanks again. you look nice today, too.
+
+[user]:
+thank you. i just got these shoes today.
+
+[ai]:
+really? what kind of shoes are they?
+
+[user]:
+these are called all star chuck taylors.
+
+[ai]:
+i really like those. how much did they cost?
+
+[user]:
+they were about forty dollars.
+
+[ai]:
+i think i'm going to go buy myself a pair.
+
+[user]:
+you do? i just bought this outfit a couple days ago.
+
+[ai]:
+seriously, it looks really nice on you. where did you buy it from?
+
+[user]:
+i bought it from the macy's at the santa anita mall.
+
+[ai]:
+i really like that outfit.
+
+[user]:
+thanks. i think you look nice today, too.
+
+[ai]:
+thank you. i just bought these new shoes earlier today.
+
+[user]:
+those are nice. what are they?
+
+[ai]:
+these are some chucks.
+
+[user]:
+those are great. how much were they?
+
+[ai]:
+i got them for forty.
+
+[user]:
+i think that you look very cute today.
+
+[ai]:
+is that right? this is a brand new outfit.
+
+[user]:
+what store did you get it from?
+
+[ai]:
+i went to macy's and picked it out.
+
+[user]:
+i love your outfit right now.
+
+[ai]:
+well, i think you look nice today too.
+
+[user]:
+thanks. i found these new shoes earlier at the store.
+
+[ai]:
+i think that those are some really nice shoes. what kind are they?
+
+[user]:
+these are chucks.
+
+[ai]:
+your shoes look really nice. how much did you get them for?
+
+[user]:
+tell me, what do you enjoy doing in your spare time?
+
+[ai]:
+i enjoy drawing and painting.
+
+[user]:
+you know how to draw and paint?
+
+[ai]:
+yes, i do.
+
+[user]:
+when did you learn how to do that?
+
+[ai]:
+i learned back in high school.
+
+[user]:
+oh, so you took an art class?
+
+[ai]:
+yeah, i loved that class.
+
+[user]:
+i see that you're pretty talented.
+
+[ai]:
+thank you very much.
+
+[user]:
+i wish i had a talent like that.
+
+[ai]:
+i'm sure you have a talent. it's just hidden.
+
+[user]:
+i've always liked to draw and paint.
+
+[ai]:
+i didn't know you knew how to draw and paint.
+
+[user]:
+i do it every once in a while.
+
+[ai]:
+how long have you known how to do that?
+
+[user]:
+i first learned how to do it in high school.
+
+[ai]:
+did you take some sort of art class or something?
+
+[user]:
+that was my favorite class.
+
+[ai]:
+you have got to be talented.
+
+[user]:
+thanks.
+
+[ai]:
+if only i was talented.
+
+[user]:
+are there any hobbies you do?
+
+[ai]:
+when i have time, i sometimes draw and paint.
+
+[user]:
+oh, you actually do that?
+
+[ai]:
+every so often, i do.
+
+[user]:
+did you always know how to draw and paint?
+
+[ai]:
+i was taught in high school how to draw and paint.
+
+[user]:
+you had an art class?
+
+[ai]:
+exactly, it was my favorite class.
+
+[user]:
+well, it's good that you're so talented.
+
+[ai]:
+i appreciate that.
+
+[user]:
+what's your favorite movie?
+
+[ai]:
+my favorite movie is superbad.
+
+[user]:
+oh, why is that?
+
+[ai]:
+it's the funniest movie that i've ever seen.
+
+[user]:
+that's true. it is a very funny movie.
+
+[ai]:
+you've seen it before? 
+
+[user]:
+yes, i saw that movie the first day it came out in theaters.
+
+[ai]:
+didn't you laugh through the whole movie? i did.
+
+[user]:
+me too. that movie brought tears to my eyes.
+
+[ai]:
+mine too.
+
+[user]:
+i have it on dvd at my house if you want to come over and watch it.
+
+[ai]:
+sure, let's go.
+
+[user]:
+i have to say, my favorite movie is superbad.
+
+[ai]:
+is that right? why?
+
+[user]:
+honestly, it is one of the funniest movies i've seen in a long time.
+
+[ai]:
+you're right. that movie is hilarious.
+
+[user]:
+i didn't think you saw that movie.
+
+[ai]:
+i went to see it the day it came out.
+
+[user]:
+i was laughing through the whole movie.
+
+[ai]:
+i couldn't help laughing, either. 
+
+[user]:
+same here.
+
+[ai]:
+i bought the movie. would you like to come to my house and watch it?
+
+[user]:
+out of every movie that you've seen, which one is your favorite?
+
+[ai]:
+i'm going to have to say that superbad is the best movie ever.
+
+[user]:
+you think so, how come?
+
+[ai]:
+well, superbad is super funny.
+
+[user]:
+you're not lying, i found that movie absolutely hilarious.
+
+[ai]:
+i didn't know that you saw superbad before.
+
+[user]:
+i made sure to be in line to see it the first day it came out.
+
+[ai]:
+i couldn't keep from laughing throughout the whole movie.
+
+[user]:
+i was laughing hysterically the whole time; my stomach muscles hurt afterwards.
+
+[ai]:
+that's exactly how i felt.
+
+[user]:
+what type of music do you like to listen to?
+
+[ai]:
+i like listening to different kinds of music.
+
+[user]:
+like what, for instance?
+
+[ai]:
+i enjoy rock and r&b.
+
+[user]:
+why is that?
+
+[ai]:
+i like the different instruments that they use.
+
+[user]:
+that's a good reason to like something.
+
+[ai]:
+yeah, i think so too.
+
+[user]:
+i enjoy listening to all kinds of music.
+
+[ai]:
+what kind?
+
+[user]:
+i like to listen to rock and r&b.
+
+[ai]:
+why do you like that type of music?
+
+[user]:
+i like the kinds of instruments that they use.
+
+[ai]:
+i think that's an excellent reason to like something.
+
+[user]:
+what is your favorite kind of music?
+
+[ai]:
+i listen to various types of music.
+
+[user]:
+what genres?
+
+[ai]:
+i enjoy listening to both rock and r&b.
+
+[user]:
+what interests you in that type of music?
+
+[ai]:
+i enjoy the different types of instruments that they use.
+
+[user]:
+did you go to the basketball game on friday?
+
+[ai]:
+no, i couldn't make it.
+
+[user]:
+you missed a really good game.
+
+[ai]:
+oh, really? who won?
+
+[user]:
+our school did. they played really well.
+
+[ai]:
+too bad i was busy. i really wanted to go.
+
+[user]:
+yeah, you should have. it was really exciting.
+
+[ai]:
+so what was the score?
+
+[user]:
+the score was 101-98.
+
+[ai]:
+man, that was a really close game.
+
+[user]:
+that's what made it so great.
+
+[ai]:
+i'll make sure and make it to the next one.
+
+[user]:
+i was unable to make it.
+
+[ai]:
+you should have been there. it was intense.
+
+[user]:
+is that right. who ended up winning?
+
+[ai]:
+our team was victorious.
+
+[user]:
+i wish i was free that night. i'm kind of mad that i didn't go.
+
+[ai]:
+it was a great game.
+
+[user]:
+what was the score at the end of the game?
+
+[ai]:
+our team won 101-98.
+
+[user]:
+sounds like it was a close game.
+
+[ai]:
+that's the reason it was such a great game.
+
+[user]:
+i was meaning to ask you if you saw the basketball game on friday.
+
+[ai]:
+i wanted to go, but i couldn't.
+
+[user]:
+it was a great game.
+
+[ai]:
+it's too bad that i couldn't make it. who won?
+
+[user]:
+our team played hard and won.
+
+[ai]:
+i really wish i went to the game.
+
+[user]:
+it was the best game ever.
+
+[ai]:
+so tell me the final score.
+
+[user]:
+the other team lost by three points, 101-98. 
+
+[ai]:
+it must've been a close game.
+
+[user]:
+what are you doing this weekend?
+
+[ai]:
+i'm going to the movies with a friend. how about you?
+
+[user]:
+i'm not sure yet.
+
+[ai]:
+well, did you want to go see a movie with me?
+
+[user]:
+what movie are you going to see?
+
+[ai]:
+i'm not sure yet. is there something you want to see?
+
+[user]:
+there's nothing i can think of.
+
+[ai]:
+so, did you want to go?
+
+[user]:
+no, thanks, maybe another time.
+
+[ai]:
+okay, sounds good.
+
+[user]:
+i am going to see a movie with a friend of mine. what about you?
+
+[ai]:
+i don't know.
+
+[user]:
+would you like to see a movie with me and my friend?
+
+[ai]:
+do you know what movie you're going to watch?
+
+[user]:
+i don't know, but was there a certain movie you wanted to see?
+
+[ai]:
+none that i can think of.
+
+[user]:
+well, would you like to go?
+
+[ai]:
+thank you for inviting me, but i think i'll pass.
+
+[user]:
+you have any ideas as to what you want to do this weekend?
+
+[ai]:
+i'm going to the movie theater with my friend. what are you going to do?
+
+[user]:
+i'm not quite sure yet.
+
+[ai]:
+how about you see a movie with me and my friend?
+
+[user]:
+what movie are you and your friend planning on watching?
+
+[ai]:
+not sure. is there a movie out that catches your eye?
+
+[user]:
+no good movies come to mind.
+
+[ai]:
+have you decided whether or not you would like to go?
+
+[user]:
+did you go to school today?
+
+[ai]:
+yeah, i went to school today. were you there?
+
+[user]:
+no, i didn't go, i've been sick.
+
+[ai]:
+that sucks. did you want the assignments from english class?
+
+[user]:
+that would be nice, thank you.
+
+[ai]:
+no problem, you're welcome.
+
+[user]:
+i will be glad to do the same for you when you're sick.
+
+[ai]:
+well, thank you. i hope to see you at school tomorrow.
+
+[user]:
+i attended school today. did you?
+
+[ai]:
+i wasn't able to attend school because i was feeling ill.
+
+[user]:
+i'm sorry to hear that. would you like the assignments from english class?
+
+[ai]:
+i would really appreciate that, thanks.
+
+[user]:
+it's no trouble at all.
+
+[ai]:
+if you get sick, i'll return the favor.
+
+[user]:
+have you gone to school today?
+
+[ai]:
+i went to school today. did you go to school?
+
+[user]:
+i couldn't go to school today, i was sick.
+
+[ai]:
+that's horrible. i'd be happy to give you the assignments from english class.
+
+[user]:
+thank you very much, that's kind of you.
+
+[ai]:
+don't mention it.
+
+[user]:
+did you hear the news?
+
+[ai]:
+what happened?
+
+[user]:
+our cousin went into labor and had her baby last week.
+
+[ai]:
+she did? why didn't anyone tell me?
+
+[user]:
+i would've thought that somebody would have told you.
+
+[ai]:
+no, i had no idea.
+
+[user]:
+well, she did, her baby was 8 pounds 6 ounces.
+
+[ai]:
+oh my god, that's great!
+
+[user]:
+are you going to go and visit her and the baby?
+
+[ai]:
+i think that i might.
+
+[user]:
+good! i just thought i'd let you know.
+
+[ai]:
+thanks for telling me.
+
+[user]:
+heard what?
+
+[ai]:
+debrah already had her baby.
+
+[user]:
+i didn't know that.
+
+[ai]:
+i thought you knew.
+
+[user]:
+i honestly didn't know.
+
+[ai]:
+the baby was 8 pounds 6 ounces.
+
+[user]:
+that's good to hear.
+
+[ai]:
+will you go and visit them?
+
+[user]:
+of course i will.
+
+[ai]:
+i just wanted to give you the good news.
+
+[user]:
+have you heard the news?
+
+[ai]:
+i haven't heard anything.
+
+[user]:
+debrah had her baby last week.
+
+[ai]:
+nobody told me.
+
+[user]:
+i thought you heard.
+
+[ai]:
+i really wasn't told anything.
+
+[user]:
+she was a cute 8 pounds 6 ounces.
+
+[ai]:
+wow, how exciting.
+
+[user]:
+i know, you should really go and see her and the baby.
+
+[ai]:
+of course i will.
+
+[user]:
+did you go to school today?
+
+[ai]:
+of course. did you?
+
+[user]:
+i didn't want to, so i didn't.
+
+[ai]:
+that's sad, but have you gone to the movies recently?
+
+[user]:
+that's a switch.
+
+[ai]:
+i'm serious, have you?
+
+[user]:
+no, i haven't. why?
+
+[ai]:
+i really want to go to the movies this weekend.
+
+[user]:
+so go then.
+
+[ai]:
+i really don't want to go by myself.
+
+[user]:
+well anyway, do you plan on going to school tomorrow?
+
+[ai]:
+no, i think i'm going to go to the movies.
+
+[user]:
+i always do. did you go to school today?
+
+[ai]:
+no, i didn't.
+
+[user]:
+you should have, but have you seen any movies lately?
+
+[ai]:
+that was an odd change of subject.
+
+[user]:
+maybe it was, but answer the question.
+
+[ai]:
+no, not recently.
+
+[user]:
+i want to go to see a movie this weekend.
+
+[ai]:
+what's stopping you then?
+
+[user]:
+i don't want to go alone.
+
+[ai]:
+so, will you be at school tomorrow?
+
+[user]:
+did you even bother to go to school today?
+
+[ai]:
+yeah, i went. did you go?
+
+[user]:
+no, i didn't feel like it.
+
+[ai]:
+that's nice, have you been to the movies lately?
+
+[user]:
+no, but that was a random change of subject.
+
+[ai]:
+it may have been random, but have you?
+
+[user]:
+i haven't lately.
+
+[ai]:
+i would love to catch a movie this weekend.
+
+[user]:
+so then, why don't you just go?
+
+[ai]:
+i don't want to see a movie by myself.
+
+[user]:
+thanks for coming to see me today.
+
+[ai]:
+it's no problem. i was really missing you anyway.
+
+[user]:
+i missed you too.
+
+[ai]:
+why haven't you tried to come see me then?
+
+[user]:
+i've been really busy.
+
+[ai]:
+doing what?
+
+[user]:
+working.
+
+[ai]:
+i would've come to see you sooner, but i've been busy too.
+
+[user]:
+what have you been doing?
+
+[ai]:
+i've been working too.
+
+[user]:
+well regardless, i'm very happy that you came to see me.
+
+[ai]:
+i am too.
+
+[user]:
+i had to. i was missing you a lot.
+
+[ai]:
+i was missing you too.
+
+[user]:
+so, why haven't you visited me?
+
+[ai]:
+i've actually been busy lately.
+
+[user]:
+what have you been doing?
+
+[ai]:
+i've just been working really hard.
+
+[user]:
+i've also been busy.
+
+[ai]:
+tell me what you've been doing.
+
+[user]:
+basically, i've been working too.
+
+[ai]:
+well whatever, i'm glad you came.
+
+[user]:
+i'm really happy that you came to visit me.
+
+[ai]:
+i really missed you a lot.
+
+[user]:
+i've been missing you like crazy.
+
+[ai]:
+i don't understand why you haven't come to visit me.
+
+[user]:
+lately, i've been quite busy.
+
+[ai]:
+tell me what you've been up to.
+
+[user]:
+i've really been working a lot lately.
+
+[ai]:
+i've been pretty busy myself.
+
+[user]:
+so what have you been up to?
+
+[ai]:
+i've just been working a lot.
+
+[user]:
+hey, did you hear about jessica's party this weekend?
+
+[ai]:
+yeah, but i'm still waiting for my invitation.
+
+[user]:
+oh really? she gave me mine earlier today.
+
+[ai]:
+well, she'll probably just give me my invitation later on today.
+
+[user]:
+yeah, so are you planning on going?
+
+[ai]:
+i think so. it sounds like it's going to be a lot of fun.
+
+[user]:
+it really does, i can't wait.
+
+[ai]:
+what time does the party start?
+
+[user]:
+it starts at 8 o'clock.
+
+[ai]:
+oh, well, how many people has she given invites to so far?
+
+[user]:
+i'm not sure, but i don't think she's given out that many.
+
+[ai]:
+well, hopefully she'll give me my invite later on today.
+
+[user]:
+i've heard about it, but i'm still waiting for my invitation.
+
+[ai]:
+really? i got mine from her this morning.
+
+[user]:
+i'm guessing that she's going to give me my invite today or tomorrow.
+
+[ai]:
+you're probably right, do you intend on going to the party?
+
+[user]:
+i want to. i heard it's going to be really fun.
+
+[ai]:
+i know, it does sound pretty awesome.
+
+[user]:
+well, when does the party start?
+
+[ai]:
+it's supposed to start at about eight.
+
+[user]:
+how many invitations has she given out?
+
+[ai]:
+i really don't know, but i don't think she gave out that many yet.
+
+[user]:
+has anyone told you about jessica's party coming up?
+
+[ai]:
+i was told about it already. i'm just waiting for my invitation.
+
+[user]:
+is that right? i already got my invitation from her earlier.
+
+[ai]:
+i believe that she will give me the invitation today.
+
+[user]:
+are you even going to go?
+
+[ai]:
+yeah, it sounds like it's going to be the best party of the year.
+
+[user]:
+exactly, it seems like it's going to be loads of fun.
+
+[ai]:
+when exactly does the party start?
+
+[user]:
+the invitation says it starts at 8:00 p.m.
+
+[ai]:
+has she given out a lot of invitations yet?
+
+[user]:
+hey, what's up?
+
+[ai]:
+nothing really.
+
+[user]:
+i'm throwing a party on friday.
+
+[ai]:
+i didn't realize that.
+
+[user]:
+you didn't?
+
+[ai]:
+nobody has told me anything about your party.
+
+[user]:
+did you want to go?
+
+[ai]:
+when does it start?
+
+[user]:
+at 8:00 p.m.
+
+[ai]:
+i'll be there.
+
+[user]:
+i'd better see you there.
+
+[ai]:
+of course.
+
+[user]:
+fine. what's going on with you?
+
+[ai]:
+i'm having a party this friday.
+
+[user]:
+i had no idea.
+
+[ai]:
+is that right?
+
+[user]:
+i didn't hear anything about it.
+
+[ai]:
+can you go?
+
+[user]:
+what time?
+
+[ai]:
+it starts at 8 o'clock.
+
+[user]:
+i'll go.
+
+[ai]:
+i hope that i'll see you there.
+
+[user]:
+what's going on?
+
+[ai]:
+not much.
+
+[user]:
+this friday, i'm throwing a party.
+
+[ai]:
+oh really? i didn't know that.
+
+[user]:
+are you serious?
+
+[ai]:
+i haven't heard anything about it.
+
+[user]:
+can you make it?
+
+[ai]:
+what time does it start?
+
+[user]:
+the party starts at 8.
+
+[ai]:
+yeah, i think i'll go.
+
+[user]:
+what's going on?
+
+[ai]:
+nothing really, you?
+
+[user]:
+i'm throwing a party next saturday.
+
+[ai]:
+is that right?
+
+[user]:
+yeah, are you going to come?
+
+[ai]:
+i'm sorry, i can't.
+
+[user]:
+why not?
+
+[ai]:
+i don't really want to.
+
+[user]:
+well, why don't you?
+
+[ai]:
+i hate going to parties.
+
+[user]:
+well, that's okay.
+
+[ai]:
+yeah, sorry.
+
+[user]:
+nothing, how about you?
+
+[ai]:
+next saturday, i'm going to have a party.
+
+[user]:
+oh, really?
+
+[ai]:
+you are coming?
+
+[user]:
+probably not.
+
+[ai]:
+why is that?
+
+[user]:
+i don't feel like going.
+
+[ai]:
+why not?
+
+[user]:
+i really can't stand going to parties.
+
+[ai]:
+i understand, i guess.
+
+[user]:
+what's happening?
+
+[ai]:
+not a lot, what about you?
+
+[user]:
+i'm having a party next saturday.
+
+[ai]:
+that's nice.
+
+[user]:
+are you going to be there?
+
+[ai]:
+i don't think so.
+
+[user]:
+is there a reason why?
+
+[ai]:
+i just really don't want to go.
+
+[user]:
+how come?
+
+[ai]:
+i don't really like parties.
+
+[user]:
+what's up?
+
+[ai]:
+nothing much, what's going on?
+
+[user]:
+i'm having a party this friday.
+
+[ai]:
+oh, really? that's nice.
+
+[user]:
+i wanted to see if you wanted to come.
+
+[ai]:
+this friday? sorry, i already have plans.
+
+[user]:
+doing what?
+
+[ai]:
+i'm going to dinner with my family.
+
+[user]:
+i really wanted you to come, but i understand.
+
+[ai]:
+yeah, maybe next time.
+
+[user]:
+i'll hold you to that.
+
+[ai]:
+sounds like a plan.
+
+[user]:
+not a lot. what about you?
+
+[ai]:
+i'm throwing a party on friday.
+
+[user]:
+that sounds like fun.
+
+[ai]:
+do you think you can come?
+
+[user]:
+i'm sorry. i'm already doing something this friday.
+
+[ai]:
+what are you going to be doing?
+
+[user]:
+my family and i are going to dinner.
+
+[ai]:
+i was hoping you would come.
+
+[user]:
+i'll definitely try to make it the next time.
+
+[ai]:
+i'd better see you there.
+
+[user]:
+what's going on?
+
+[ai]:
+nothing really. how about you?
+
+[user]:
+a lot, like the party i'm having on friday.
+
+[ai]:
+well, that's cool.
+
+[user]:
+will you be able to make it?
+
+[ai]:
+i'm busy this friday. i'm sorry.
+
+[user]:
+what do you have to do?
+
+[ai]:
+i'm having dinner with my family
+
+[user]:
+maybe you can come next time.
+
+[ai]:
+i'll make sure and come to your next party.
+
+[user]:
+it was nice talking to you.
+
+[ai]:
+why are you trying to rush me off the phone?
+
+[user]:
+i really have to go.
+
+[ai]:
+why? i still wanted to talk to you.
+
+[user]:
+i have things to do.
+
+[ai]:
+like what?
+
+[user]:
+don't be nosey.
+
+[ai]:
+i'm not. i just want to know.
+
+[user]:
+well, it's really none of your business.
+
+[ai]:
+that's harsh.
+
+[user]:
+i'm sorry, but i have to go.
+
+[ai]:
+fine.
+
+[user]:
+is there a reason why you're trying to get off the phone so fast?
+
+[ai]:
+i've got to go.
+
+[user]:
+i wasn't done talking to you.
+
+[ai]:
+i have to do some things, and besides, it's not polite to be nosey.
+
+[user]:
+i'm not being nosey. i'm just asking.
+
+[ai]:
+i really don't think it's any of your business.
+
+[user]:
+that's not nice.
+
+[ai]:
+i apologize, but i'm getting off the phone now.
+
+[user]:
+i'll talk to you later.
+
+[ai]:
+what's the rush?
+
+[user]:
+i have to get off the phone now.
+
+[ai]:
+i'm not ready to get off the phone with you.
+
+[user]:
+there are other things i need to take care of.
+
+[ai]:
+what is it that you need to do? 
+
+[user]:
+please don't be nosey.
+
+[ai]:
+i'm not being nosey, it's just a question.
+
+[user]:
+you don't need to worry about that.
+
+[ai]:
+that was mean to say.
+
+[user]:
+well, it was nice talking to you.
+
+[ai]:
+it was nice talking to you too.
+
+[user]:
+we should really hang out again.
+
+[ai]:
+that would be fun.
+
+[user]:
+where do you want to go?
+
+[ai]:
+i think we should go out to eat.
+
+[user]:
+that sounds good.
+
+[ai]:
+all right, so i'll see you then.
+
+[user]:
+i'll call you later.
+
+[ai]:
+okay, i'll talk to you later then.
+
+[user]:
+see you later.
+
+[ai]:
+bye.
+
+[user]:
+i enjoyed talking to you too.
+
+[ai]:
+we should hang out some time.
+
+[user]:
+i think that would be nice.
+
+[ai]:
+is there anything you would like to do next time?
+
+[user]:
+do you want to go out to eat?
+
+[ai]:
+i'd like that.
+
+[user]:
+so i'll see you next time.
+
+[ai]:
+i'm going to call you soon. 
+
+[user]:
+i'll talk to you later.
+
+[ai]:
+see you soon.
+
+[user]:
+i had fun talking to you.
+
+[ai]:
+it was really nice talking to you also.
+
+[user]:
+i think we should really do something sometime.
+
+[ai]:
+that should be loads of fun.
+
+[user]:
+what do you want to do next time?
+
+[ai]:
+would you like to go to dinner or something?
+
+[user]:
+yeah, let's do that.
+
+[ai]:
+okay, until next time then.
+
+[user]:
+i'll call you so we can set that up.
+
+[ai]:
+talk to you then.
+
+[user]:
+where do you live?
+
+[ai]:
+i live in pasadena.
+
+[user]:
+where is pasadena?
+
+[ai]:
+it's in california.
+
+[user]:
+is it in northern california?
+
+[ai]:
+no. it's in southern california.
+
+[user]:
+is pasadena a big city?
+
+[ai]:
+it's pretty big.
+
+[user]:
+how big is "pretty big"?
+
+[ai]:
+it has about 140,000 people.
+
+[user]:
+how big is los angeles?
+
+[ai]:
+it has about 3 million people.
+
+[user]:
+yes, i do.
+
+[ai]:
+what kind of car do you have?
+
+[user]:
+i have a honda.
+
+[ai]:
+is it new?
+
+[user]:
+it was new in 2003.
+
+[ai]:
+so, it's pretty old now.
+
+[user]:
+yes, it is. but it still looks good.
+
+[ai]:
+do you take good care of it?
+
+[user]:
+oh, yes. i wash it once a week.
+
+[ai]:
+do you change the oil?
+
+[user]:
+do you have a girlfriend?
+
+[ai]:
+no, i don't. do you?
+
+[user]:
+i don't have a girlfriend, either.
+
+[ai]:
+why not?
+
+[user]:
+i don't know. maybe i'm not rich enough.
+
+[ai]:
+girls like guys with money.
+
+[user]:
+they sure do.
+
+[ai]:
+they like guys with new cars.
+
+[user]:
+i don't have money or a new car.
+
+[ai]:
+me, neither.
+
+[user]:
+but girls like guys who are funny.
+
+[ai]:
+maybe we should learn some good jokes.
+
+[user]:
+i have to walk the dog.
+
+[ai]:
+what kind of dog do you have?
+
+[user]:
+i have a little poodle.
+
+[ai]:
+poodles bark a lot.
+
+[user]:
+they sure do.
+
+[ai]:
+they bark at everything.
+
+[user]:
+they never shut up.
+
+[ai]:
+why did you get a poodle?
+
+[user]:
+it's my mom's dog.
+
+[ai]:
+so she likes poodles.
+
+[user]:
+can i borrow $5?
+
+[ai]:
+sure. why do you need it?
+
+[user]:
+i want to buy lunch.
+
+[ai]:
+where's your money?
+
+[user]:
+it's not in my wallet.
+
+[ai]:
+your wallet is empty?
+
+[user]:
+i don't have even one dollar in it.
+
+[ai]:
+being broke is no fun.
+
+[user]:
+even if it's only for a short while.
+
+[ai]:
+it's always good to have friends.
+
+[user]:
+friends will lend you money when you're broke.
+
+[ai]:
+as long as you pay them back.
+
+[user]:
+that's a great idea.
+
+[ai]:
+we haven't been in a while.
+
+[user]:
+we haven't been in a month.
+
+[ai]:
+the last time we went, you almost drowned.
+
+[user]:
+no, i didn't.
+
+[ai]:
+then why did the lifeguard dive into the water?
+
+[user]:
+i think he wanted to cool off.
+
+[ai]:
+he swam right up to you.
+
+[user]:
+and then he turned right around.
+
+[ai]:
+maybe you're right.
+
+[user]:
+are you married?
+
+[ai]:
+no. i'm divorced.
+
+[user]:
+when did you get divorced?
+
+[ai]:
+i got divorced two years ago.
+
+[user]:
+why did you get divorced?
+
+[ai]:
+my wife left me.
+
+[user]:
+why did she leave you?
+
+[ai]:
+she said she didn't love me anymore.
+
+[user]:
+wow! that's terrible.
+
+[ai]:
+yes, it was.
+
+[user]:
+why didn't she love you anymore?
+
+[ai]:
+she fell in love with my best friend.
+
+[user]:
+what's on tv?
+
+[ai]:
+nothing.
+
+[user]:
+there must be something on tv!
+
+[ai]:
+nothing that's interesting.
+
+[user]:
+what about that new game show?
+
+[ai]:
+which one?
+
+[user]:
+"deal or no deal"
+
+[ai]:
+tell me you're joking.
+
+[user]:
+i love that show.
+
+[ai]:
+i watched it once. that was enough.
+
+[user]:
+i like living here.
+
+[ai]:
+i agree. pasadena is a nice city.
+
+[user]:
+it's not too big.
+
+[ai]:
+and it's not too small.
+
+[user]:
+it has great weather all year long.
+
+[ai]:
+it has the rose parade.
+
+[user]:
+it has beautiful houses.
+
+[ai]:
+it has wonderful restaurants.
+
+[user]:
+it has great schools.
+
+[ai]:
+it's close to the mountains.
+
+[user]:
+the people are friendly.
+
+[ai]:
+i'm not ever going to leave.
+
+[user]:
+what's the matter with this one?
+
+[ai]:
+it's not comfortable.
+
+[user]:
+it seems fine to me.
+
+[ai]:
+i toss and turn all night.
+
+[user]:
+you should stop drinking coffee.
+
+[ai]:
+look at these marks on my arms.
+
+[user]:
+what are they?
+
+[ai]:
+they are bites.
+
+[user]:
+did the cat bite you?
+
+[ai]:
+no. the bedbugs in that mattress bit me.
+
+[user]:
+my laptop is so slow.
+
+[ai]:
+buy a new one.
+
+[user]:
+i would if i had the money.
+
+[ai]:
+why is it so slow?
+
+[user]:
+that's a good question.
+
+[ai]:
+did you take it to a computer shop?
+
+[user]:
+i would if i had the money.
+
+[ai]:
+well, i guess you have to live with it.
+
+[user]:
+sometimes i want to throw it out the window.
+
+[ai]:
+you don't want to do that.
+
+[user]:
+why not?
+
+[ai]:
+you might hit someone in the head.
+
+[user]:
+i'm not sure.
+
+[ai]:
+how about a pizza?
+
+[user]:
+you had pizza for lunch.
+
+[ai]:
+but i love pizza.
+
+[user]:
+everybody loves pizza.
+
+[ai]:
+so why can't i have pizza for dinner?
+
+[user]:
+because you need variety.
+
+[ai]:
+what's "variety?
+
+[user]:
+different thingsÂ—not the same thing all the time.
+
+[ai]:
+you mean, like a pepperoni pizza instead of a cheese pizza?
+
+[user]:
+we need to save money.
+
+[ai]:
+why do we need to save money?
+
+[user]:
+because we need to buy a house.
+
+[ai]:
+but a house is so expensive.
+
+[user]:
+that's why we need to save money.
+
+[ai]:
+how much do we need to save?
+
+[user]:
+we need to save enough for a down payment.
+
+[ai]:
+how much is that?
+
+[user]:
+that's about $30,000.
+
+[ai]:
+thirty thousand dollars! that will take forever.
+
+[user]:
+not if we save every penny.
+
+[ai]:
+okay. here's seven pennies.
+
+[user]:
+you can't see the end of it.
+
+[ai]:
+it goes on and on forever.
+
+[user]:
+and it's deep, too.
+
+[ai]:
+i think it's five miles deep.
+
+[user]:
+are there fish at the bottom?
+
+[ai]:
+there are fish at the top and the bottom.
+
+[user]:
+are there more fish or more people?
+
+[ai]:
+i think there are more fish.
+
+[user]:
+i'm upset with my mom.
+
+[ai]:
+why is that?
+
+[user]:
+i warned her about her new boyfriend. she didn't listen to me.
+
+[ai]:
+what happened?
+
+[user]:
+i gave her $1,000 for her birthday. i told her to spend it on herself.
+
+[ai]:
+that was very nice of you.
+
+[user]:
+i found out that she gave it to her new boyfriend.
+
+[ai]:
+why did she do that?
+
+[user]:
+he said he would buy her a nice ring.
+
+[ai]:
+what's wrong with that?
+
+[user]:
+he went to las vegas. he lost it all gambling.
+
+[ai]:
+i hope your mom broke up with him.
+
+[user]:
+of course they talk to each other.
+
+[ai]:
+what do they talk about?
+
+[user]:
+they talk about other animals.
+
+[ai]:
+what else do they talk about?
+
+[user]:
+they talk about food and the weather.
+
+[ai]:
+do they talk about us?
+
+[user]:
+of course they talk about us.
+
+[ai]:
+what do they say about us?
+
+[user]:
+they say that we are funny-looking.
+
+[ai]:
+ha! we're not funny-looking; animals are funny-looking.
+
+[user]:
+i have to clean the house.
+
+[ai]:
+yes, it's very dirty.
+
+[user]:
+you can help me.
+
+[ai]:
+why me?
+
+[user]:
+because you helped make it dirty.
+
+[ai]:
+what do you want me to do?
+
+[user]:
+i want you to clean the bathroom.
+
+[ai]:
+oh, that's easy.
+
+[user]:
+clean the sink, the tub, the counter, and the toilet.
+
+[ai]:
+that's a lot of work.
+
+[user]:
+tell me when you finish.
+
+[ai]:
+i don't think so. you'll just give me more work.
+
+[user]:
+what do you mean?
+
+[ai]:
+i mean you're wasting your life.
+
+[user]:
+i'm having fun.
+
+[ai]:
+you're sitting there with your mouth open.
+
+[user]:
+who cares?
+
+[ai]:
+i care. do something.
+
+[user]:
+okay. i did something.
+
+[ai]:
+what did you do?
+
+[user]:
+i turned up the volume.
+
+[ai]:
+that's not what i meant by "do something."
+
+[user]:
+did you write a letter to grandma?
+
+[ai]:
+yes, i did.
+
+[user]:
+did you tell her about school?
+
+[ai]:
+i told her that school is fun.
+
+[user]:
+did you put the letter in an envelope?
+
+[ai]:
+yes, and i sealed the envelope.
+
+[user]:
+did you put a stamp on the envelope?
+
+[ai]:
+i couldn't find any stamps.
+
+[user]:
+they're in the kitchen drawer.
+
+[ai]:
+okay. i just put a stamp on the envelope.
+
+[user]:
+give me the envelope, and i'll mail it for you.
+
+[ai]:
+when is grandma going to learn about e-mail?
+
+[user]:
+i'm sleepy.
+
+[ai]:
+why don't you go to bed?
+
+[user]:
+i want to watch this tv show.
+
+[ai]:
+maybe you should record it.
+
+[user]:
+the tape recorder is broken.
+
+[ai]:
+then you should watch the rerun.
+
+[user]:
+why? i'm watching the original.
+
+[ai]:
+but you'll be asleep in about one minute.
+
+[user]:
+i'm just yawning because the commercials are on.
+
+[ai]:
+okay. i'll tell you how the show ends.
+
+[user]:
+it's sunday.
+
+[ai]:
+so?
+
+[user]:
+you know what that means.
+
+[ai]:
+i forgot.
+
+[user]:
+sunday means we go to church.
+
+[ai]:
+oh, yeah.
+
+[user]:
+put on a coat and tie.
+
+[ai]:
+why?
+
+[user]:
+to show respect to god and others.
+
+[ai]:
+i'm glad sunday is only once a week.
+
+[user]:
+i hope god didn't hear that.
+
+[ai]:
+he'll forgive me.
+
+[user]:
+i'll do that in a minute.
+
+[ai]:
+the cat is meowing. he's hungry.
+
+[user]:
+okay. i'll feed him right now.
+
+[ai]:
+you shouldn't make him wait.
+
+[user]:
+i was doing my homework.
+
+[ai]:
+the cat doesn't care about your homework.
+
+[user]:
+the cat doesn't care about anything.
+
+[ai]:
+that's the way cats are.
+
+[user]:
+all they think about is themselves.
+
+[ai]:
+maybe we should get rid of him.
+
+[user]:
+i hate shaving.
+
+[ai]:
+me too.
+
+[user]:
+i just cut myself again.
+
+[ai]:
+did you use a new blade?
+
+[user]:
+it doesn't matter. old blades cut, new blades cut.
+
+[ai]:
+maybe you should use an electric shaver.
+
+[user]:
+they make a lot of noise, but they don't give a close shave.
+
+[ai]:
+maybe you should stop shaving.
+
+[user]:
+and grow a beard?
+
+[ai]:
+sure. why not?
+
+[user]:
+because food and other stuff sticks in my beard.
+
+[ai]:
+hmm. here's an idea. put cream on your face and have the cat lick it off.
+
+[user]:
+yes?
+
+[ai]:
+are you reading this paper?
+
+[user]:
+oh, no. help yourself.
+
+[ai]:
+i asked because the paper is sitting next to you.
+
+[user]:
+thank you. that's polite of you to ask.
+
+[ai]:
+some people would just pick it up.
+
+[user]:
+yes, i know. some people are rude.
+
+[ai]:
+i always try to be polite.
+
+[user]:
+so do i.
+
+[ai]:
+the world needs more polite people like us.
+
+[user]:
+mom, i want a puppy.
+
+[ai]:
+let me think about it.
+
+[user]:
+why do you have to think about it?
+
+[ai]:
+because a puppy costs money.
+
+[user]:
+no, it doesn't. puppies are free.
+
+[ai]:
+yes, but a puppy needs shots.
+
+[user]:
+shots for what?
+
+[ai]:
+so it won't get sick. just like you get shots.
+
+[user]:
+i hate shots.
+
+[ai]:
+and a puppy eats food. food costs money.
+
+[user]:
+no problem. i'll give him food off my plate.
+
+[ai]:
+oh, no you don't. puppies don't eat vegetables.
+
+[user]:
+how many are there?
+
+[ai]:
+eight.
+
+[user]:
+they're all so cute.
+
+[ai]:
+yes, but i can't keep them.
+
+[user]:
+what are you going to do with them?
+
+[ai]:
+i'm going to give them away. do you want one?
+
+[user]:
+yes, i would love one.
+
+[ai]:
+which one do you want?
+
+[user]:
+that one. the one that's all black.
+
+[ai]:
+yes, i like that one, too.
+
+[user]:
+my parents go to church every sunday.
+
+[ai]:
+they trust in god.
+
+[user]:
+they hope they will go to heaven.
+
+[ai]:
+they probably will.
+
+[user]:
+but no one knows for sure.
+
+[ai]:
+that's for sure.
+
+[user]:
+no one knows what happens after we die.
+
+[ai]:
+if we are good, we will be happy in heaven with god.
+
+[user]:
+that's what many people believe.
+
+[ai]:
+if we are bad, we will be unhappy forever in hell.
+
+[user]:
+i don't want to go to hell.
+
+[ai]:
+let's go to church with your parents on sunday.
+
+[user]:
+i'm sorry for you.
+
+[ai]:
+thank you.
+
+[user]:
+when did he die?
+
+[ai]:
+a couple of months ago.
+
+[user]:
+you still miss him.
+
+[ai]:
+yes, but i talk to him almost every day.
+
+[user]:
+when you go to church?
+
+[ai]:
+no, when i call him on his cell phone.
+
+[user]:
+what do you mean?
+
+[ai]:
+i buried him with his cell phone.
+
+[user]:
+today is friday the thirteenth.
+
+[ai]:
+that's a bad day.
+
+[user]:
+it's supposed to be unlucky.
+
+[ai]:
+you're supposed to stay home all day.
+
+[user]:
+that's what i do.
+
+[ai]:
+my friend stayed in a hotel on friday the thirteenth.
+
+[user]:
+that was a mistake.
+
+[ai]:
+he stayed on the thirteenth floor.
+
+[user]:
+what happened?
+
+[ai]:
+someone stole his laptop.
+
+[user]:
+he was asking for it.
+
+[ai]:
+he learned his lesson. he's home today.
+
+[user]:
+of course.
+
+[ai]:
+prove it.
+
+[user]:
+how can i prove it?
+
+[ai]:
+take me to dinner.
+
+[user]:
+that's it? that's all i have to do?
+
+[ai]:
+take me to a nice restaurant, not to mcdonald's.
+
+[user]:
+but a nice restaurant costs money.
+
+[ai]:
+yes, and you have to make a reservation.
+
+[user]:
+that's such a hassle.
+
+[ai]:
+i knew you didn't love me.
+
+[user]:
+my parents are divorced.
+
+[ai]:
+so are mine.
+
+[user]:
+why did your parents get divorced?
+
+[ai]:
+my father found a new girlfriend.
+
+[user]:
+that's too bad.
+
+[ai]:
+my mother was hurt and angry.
+
+[user]:
+she had good reason. what did she do?
+
+[ai]:
+she told him to drop his girlfriend.
+
+[user]:
+what did your father do?
+
+[ai]:
+he moved out of our house.
+
+[user]:
+i guess he really liked his new girlfriend.
+
+[ai]:
+yes, but she left him a year later.
+
+[user]:
+so does mine.
+
+[ai]:
+i think it's an old people's smell.
+
+[user]:
+really?
+
+[ai]:
+yes. i think when you get old, you begin to smell.
+
+[user]:
+like fruit that is too ripe?
+
+[ai]:
+yes, just like fruit that is too ripe.
+
+[user]:
+but the smell is different.
+
+[ai]:
+yes, old people don't smell like fruit.
+
+[user]:
+no, they smell like a thrift shop.
+
+[ai]:
+yes, a thrift shop has that same smell.
+
+[user]:
+the price of stamps goes up and up.
+
+[ai]:
+i think stamps used to cost a penny.
+
+[user]:
+that was a long time ago.
+
+[ai]:
+it was before i was born.
+
+[user]:
+now a stamp is 42 cents.
+
+[ai]:
+but in may it will be 44 cents.
+
+[user]:
+have you ever lost a letter in the mail?
+
+[ai]:
+no, i haven't.
+
+[user]:
+neither have i.
+
+[ai]:
+so, they do a good job for the money.
+
+[user]:
+yes, they do.
+
+[ai]:
+maybe we shouldn't complain.
+
+[user]:
+what are you going to do?
+
+[ai]:
+first, i have to find the button.
+
+[user]:
+where did you lose it?
+
+[ai]:
+i have no idea.
+
+[user]:
+a button is hard to find. did you look in your pant cuffs?
+
+[ai]:
+that's a good idea.
+
+[user]:
+i found a button in my pant cuffs one time.
+
+[ai]:
+let me look. no, it's not there.
+
+[user]:
+many shirts come with an extra button.
+
+[ai]:
+you're right. this one does have an extra button.
+
+[user]:
+i have to go to the bathroom.
+
+[ai]:
+you drink too much coffee.
+
+[user]:
+but i love coffee.
+
+[ai]:
+well, it's your life.
+
+[user]:
+you eat too much chocolate.
+
+[ai]:
+i don't think so.
+
+[user]:
+have you looked in the mirror?
+
+[ai]:
+do you think i'm getting fat?
+
+[user]:
+i didn't say that.
+
+[ai]:
+what did you say?
+
+[user]:
+i said i have to go to the bathroom.
+
+[ai]:
+that's what i thought you said.
+
+[user]:
+yes, i did.
+
+[ai]:
+what did you wash?
+
+[user]:
+i washed the sheets and towels.
+
+[ai]:
+what about the pillowcases?
+
+[user]:
+yes, i took them off the pillows and washed them.
+
+[ai]:
+did you dry everything in the dryer?
+
+[user]:
+yes, i dried everything in the dryer.
+
+[ai]:
+then what did you do?
+
+[user]:
+i folded all the towels.
+
+[ai]:
+did you put the sheets on the beds?
+
+[user]:
+do you listen to the radio?
+
+[ai]:
+i listen day and night.
+
+[user]:
+what do you listen to?
+
+[ai]:
+mostly talk radio.
+
+[user]:
+what's that?
+
+[ai]:
+people talk about current events.
+
+[user]:
+what do they say?
+
+[ai]:
+they say they want change.
+
+[user]:
+what kind of change?
+
+[ai]:
+they want tax cuts.
+
+[user]:
+why do they want tax cuts?
+
+[ai]:
+because tax cuts will save them money.
+
+[user]:
+look in the fridge.
+
+[ai]:
+i'm looking. there's nothing to eat.
+
+[user]:
+are you sure?
+
+[ai]:
+it's almost empty.
+
+[user]:
+i went to the market yesterday.
+
+[ai]:
+i don't see anything.
+
+[user]:
+i bought lots of oranges and apples.
+
+[ai]:
+i don't want fruit. i want something tasty.
+
+[user]:
+eat the fruit. it's good for you.
+
+[ai]:
+next time you go to the market, let me go with you.
+
+[user]:
+what is there to eat?
+
+[ai]:
+i don't know. look in the fridge.
+
+[user]:
+i think i'll make a sandwich.
+
+[ai]:
+what kind?
+
+[user]:
+a ham sandwich.
+
+[ai]:
+the bread is in the cabinet.
+
+[user]:
+where's the mustard?
+
+[ai]:
+it's in the fridge, i think.
+
+[user]:
+oh, yes, here it is. do you want a sandwich?
+
+[ai]:
+yes, that sounds nice.
+
+[user]:
+how about some potato chips?
+
+[ai]:
+yes. and a pickle, if we have any.
+
+[user]:
+but, mom, i'm not dirty.
+
+[ai]:
+you need a bath every day.
+
+[user]:
+why?
+
+[ai]:
+because you don't want to smell bad.
+
+[user]:
+i don't smell bad.
+
+[ai]:
+that's what you think.
+
+[user]:
+if i smelled bad, i could smell me.
+
+[ai]:
+i can smell you.
+
+[user]:
+i can smell you, too.
+
+[ai]:
+that's my perfume.
+
+[user]:
+something's wrong with my computer.
+
+[ai]:
+exactly what?
+
+[user]:
+all i get is a black screen.
+
+[ai]:
+what's the matter?
+
+[user]:
+i think i know, because this happened before.
+
+[ai]:
+what happened before?
+
+[user]:
+my hard drive crashed.
+
+[ai]:
+oh, no. that's bad news.
+
+[user]:
+it sure is, but i'm going to call hp first, just to make sure.
+
+[ai]:
+will you lose all your files?
+
+[user]:
+no, i always back up my files.
+
+[ai]:
+you're smart.
+
+[user]:
+what did they say?
+
+[ai]:
+they said i need a new hard drive.
+
+[user]:
+that's too bad. how much is a new one?
+
+[ai]:
+it's not too much, only about $85.
+
+[user]:
+plus installation?
+
+[ai]:
+no, my hard drive is easy to remove and replace.
+
+[user]:
+really?
+
+[ai]:
+yes, it's just a couple of screws.
+
+[user]:
+that's nice.
+
+[ai]:
+it's a lot better than paying someone $60.
+
+[user]:
+what's your email address?
+
+[ai]:
+it's bluedog123.
+
+[user]:
+bluedog123. are you sure that's all?
+
+[ai]:
+yes.
+
+[user]:
+no. that's incomplete.
+
+[ai]:
+what do you mean?
+
+[user]:
+what's your mailing address?
+
+[ai]:
+456 cherry drive, pasadena, ca 91170.
+
+[user]:
+that's correct.
+
+[ai]:
+so what's the problem?
+
+[user]:
+bluedog123 is just the street. you have to give me the city, state, and zip code.
+
+[ai]:
+oh, i get it. my email address is bluedog123@yahoo.com.
+
+[user]:
+you should unplug the phone.
+
+[ai]:
+that's a good idea.
+
+[user]:
+do you want me to wake you in an hour?
+
+[ai]:
+no, thanks. just let me sleep until i wake up.
+
+[user]:
+i'll start dinner at 6:00.
+
+[ai]:
+okay. i think i'll be awake by then.
+
+[user]:
+if not, your nose will wake you up.
+
+[ai]:
+you mean i will smell the food cooking?
+
+[user]:
+you might even dream about dinner.
+
+[ai]:
+i don't think i'm going to dream about anything. i'm really tired.
+
+[user]:
+that was a nice funeral.
+
+[ai]:
+yes, dad, it was.
+
+[user]:
+the son gave a nice speech about his father.
+
+[ai]:
+it was long, too.
+
+[user]:
+i think it was about 45 minutes long.
+
+[ai]:
+but it went by fast. it was interesting.
+
+[user]:
+i liked it.
+
+[ai]:
+i'll give you a speech like that, too.
+
+[user]:
+do you think anyone will come to my funeral?
+
+[ai]:
+of course.
+
+[user]:
+i think only the family will be there.
+
+[ai]:
+you have lots of friends. they will be there, too!
+
+[user]:
+i had to blow my nose.
+
+[ai]:
+did you have to blow right next to the phone?
+
+[user]:
+did you hear that?
+
+[ai]:
+of course i heard that. i thought a plane had crashed into your house.
+
+[user]:
+it wasn't that loud.
+
+[ai]:
+i will blow my nose sometime for you, and you'll see.
+
+[user]:
+okay. i'll take your word for it.
+
+[ai]:
+i thought you had an elephant in your house.
+
+[user]:
+you're funny.
+
+[ai]:
+what did you say? i think i've gone deaf.
+
+[user]:
+i have lots of friends.
+
+[ai]:
+really? how many do you have?
+
+[user]:
+i don't know, maybe one hundred.
+
+[ai]:
+that is a lot of friends. do you have a best friend?
+
+[user]:
+of course. i have lots of best friends.
+
+[ai]:
+how many best friends do you have?
+
+[user]:
+i think about twenty-five.
+
+[ai]:
+hmm. i have only one best friend.
+
+[user]:
+i feel sorry for you.
+
+[ai]:
+i have only a few friends.
+
+[user]:
+you must be lonely. i will share my friends with you.
+
+[ai]:
+that's very nice of you.
+
+[user]:
+why would i do that?
+
+[ai]:
+because men like to cheat.
+
+[user]:
+some men do, but not me.
+
+[ai]:
+i'm watching you.
+
+[user]:
+i'm an open book. watch me all you want.
+
+[ai]:
+if i catch you, you'll be sorry.
+
+[user]:
+you won't catch me, because i love you. i'm not a cheater.
+
+[ai]:
+i will poke your eyes out. 
+
+[user]:
+i don't want any other woman.
+
+[ai]:
+i will chop your toes off, one by one.
+
+[user]:
+i hate to go outside.
+
+[ai]:
+me too.
+
+[user]:
+why do you hate to go outside?
+
+[ai]:
+i meet too many jerks.
+
+[user]:
+i agree.
+
+[ai]:
+this city is full of jerks.
+
+[user]:
+rude people are everywhere.
+
+[ai]:
+but what can you do?
+
+[user]:
+you can yell at them.
+
+[ai]:
+and they will yell back at you.
+
+[user]:
+yelling doesn't do any good.
+
+[ai]:
+no. the best thing to do is just stay home.
+
+[user]:
+are you having problems with it?
+
+[ai]:
+i don't understand some things.
+
+[user]:
+let me help you.
+
+[ai]:
+what does "mi" mean?
+
+[user]:
+"mi" stands for middle initial.
+
+[ai]:
+what does "mm/dd/yy" mean?
+
+[user]:
+that means month/day/year. use numbers.
+
+[ai]:
+i don't understand.
+
+[user]:
+for example, if your birth date is january 12, 1987, write 01/12/87.
+
+[ai]:
+oh. that's simple enough.
+
+[user]:
+let's go to the animal shelter.
+
+[ai]:
+what do you want to do?
+
+[user]:
+i want to get a puppy for my son.
+
+[ai]:
+that will make him so happy.
+
+[user]:
+i'll get him one of those little dogs.
+
+[ai]:
+one that won't grow up too big.
+
+[user]:
+and eat too much.
+
+[ai]:
+do you know which one he would like?
+
+[user]:
+oh, yes, i took him there yesterday. he showed me one that he really liked.
+
+[ai]:
+i bet you had to drag him away.
+
+[user]:
+he wanted to take it home yesterday.
+
+[ai]:
+i wonder what he'll name it.
+
+[user]:
+i don't know. i just woke up.
+
+[ai]:
+why don't you look outside?
+
+[user]:
+okay. it looks like rain.
+
+[ai]:
+why do you say that?
+
+[user]:
+the sky is gray.
+
+[ai]:
+is it raining right now?
+
+[user]:
+no.
+
+[ai]:
+how do you know?
+
+[user]:
+the street isn't wet.
+
+[ai]:
+i have to go shopping today.
+
+[user]:
+i can't believe how hot it is.
+
+[ai]:
+it's not even noon yet.
+
+[user]:
+that means it will get hotter.
+
+[ai]:
+i am dying from the heat.
+
+[user]:
+turn on the air conditioner.
+
+[ai]:
+it doesn't work.
+
+[user]:
+what happened?
+
+[ai]:
+i don't know.
+
+[user]:
+did you call the repairman?
+
+[ai]:
+of course.
+
+[user]:
+when is he coming?
+
+[ai]:
+he's busy. he said next week.
+
+[user]:
+why is that?
+
+[ai]:
+because i love the snow.
+
+[user]:
+yes, the snow is fun.
+
+[ai]:
+last year we made a big snowman.
+
+[user]:
+how big was it?
+
+[ai]:
+it was seven feet tall.
+
+[user]:
+how long did it take?
+
+[ai]:
+it took us all day.
+
+[user]:
+did you give him a nose?
+
+[ai]:
+of course. we gave him a big carrot for a nose.
+
+[user]:
+i'm going to the bank.
+
+[ai]:
+what do you need to do?
+
+[user]:
+i need to withdraw some money.
+
+[ai]:
+how are you going to do that?
+
+[user]:
+i'll just use the atm.
+
+[ai]:
+what's that?
+
+[user]:
+it's the automatic teller machine.
+
+[ai]:
+it gives you money?
+
+[user]:
+i just insert my debit card into the machine.
+
+[ai]:
+and it gives you money?
+
+[user]:
+well, it gives me money, but it's my own money.
+
+[ai]:
+oh. what good is that? i thought it gave you free money.
+
+[user]:
+oh, no. i forgot.
+
+[ai]:
+well, you'd better take it out front.
+
+[user]:
+what time does the recycle truck come by?
+
+[ai]:
+it usually gets here at noon on tuesday, which is tomorrow.
+
+[user]:
+i'll just take it out to the street tomorrow morning.
+
+[ai]:
+oh, no, you don't.
+
+[user]:
+what do you mean?
+
+[ai]:
+every morning you get up late and rush off to work late.
+
+[user]:
+do you think i'll forget to do it?
+
+[ai]:
+you'll remember to do it, but you won't have time to do it.
+
+[user]:
+are you ready?
+
+[ai]:
+ready for what?
+
+[user]:
+ready for the big switch.
+
+[ai]:
+what are you talking about?
+
+[user]:
+the nation is switching to digital tv.
+
+[ai]:
+oh. of course i'm ready.
+
+[user]:
+did you buy the converter?
+
+[ai]:
+no, i don't need a converter because i bought a digital tv.
+
+[user]:
+how much was that?
+
+[ai]:
+it was only about $120 for a 13-inch screen.
+
+[user]:
+does it pick up any digital channels?
+
+[ai]:
+oh, yes. i get six korean channels but nothing in english!
+
+[user]:
+they sure are.
+
+[ai]:
+did you hear about the pilot?
+
+[user]:
+the one that stole a small plane?
+
+[ai]:
+yes, he stole a plane in canada and flew into the u.s.
+
+[user]:
+did they catch him?
+
+[ai]:
+yes. after two u.s. fighter jets followed him for an hour, he landed on a highway.
+
+[user]:
+did he crash?
+
+[ai]:
+no, he just landed the plane and walked to a restaurant.
+
+[user]:
+did the cops find out why he flew into the u.s.?
+
+[ai]:
+his life sucked. he was hoping a fighter jet would shoot him down.
+
+[user]:
+the police need our help finding a robber.
+
+[ai]:
+how do you know?
+
+[user]:
+the tv news is reporting a bank robbery.
+
+[ai]:
+do they know what the robber looks like?
+
+[user]:
+yes, he's 6 feet tall, 200 pounds, black hair, and about 30 years old.
+
+[ai]:
+what race is he?
+
+[user]:
+they didn't say.
+
+[ai]:
+the tv news doesn't tell us the race anymore.
+
+[user]:
+of course not. that would be racist.
+
+[ai]:
+but how can we identify someone if we don't know their race?
+
+[user]:
+don't ask me.
+
+[ai]:
+then they also shouldn't tell us if the robber is male or female, because that is sexist.
+
+[user]:
+but i don't have a tissue.
+
+[ai]:
+then go find a tissue in the bathroom.
+
+[user]:
+i didn't have time to get one from there.
+
+[ai]:
+your sleeves are not tissues.
+
+[user]:
+but mom, all my friends use their sleeves.
+
+[ai]:
+that doesn't make it right.
+
+[user]:
+i saw dad wipe his nose on his sleeve yesterday.
+
+[ai]:
+i will talk to your father about that.
+
+[user]:
+i bet dad did it all the time when he was my age.
+
+[ai]:
+your daddy was a good little boy.
+
+[user]:
+i'm worried.
+
+[ai]:
+worried about what?
+
+[user]:
+i'm getting married.
+
+[ai]:
+you should be happy, not worried.
+
+[user]:
+i am happy, but marriage is a lot of responsibility.
+
+[ai]:
+yes, you have to take care of your wife.
+
+[user]:
+and i have to take care of our children.
+
+[ai]:
+are you going to start a family?
+
+[user]:
+yes. we want to have a little boy and a little girl.
+
+[ai]:
+that sounds wonderful.
+
+[user]:
+except we can't afford it!
+
+[ai]:
+no wonder you're worried.
+
+[user]:
+or artists.
+
+[ai]:
+they're in a different world.
+
+[user]:
+i saw a painting of a jar that was full of pencils.
+
+[ai]:
+the artist said the jar was both full and empty.
+
+[user]:
+but it was full of pencils! how could he say it was empty?
+
+[ai]:
+artists see things differently.
+
+[user]:
+did you ever see anything that picasso painted?
+
+[ai]:
+of course! he's world famous.
+
+[user]:
+did he ever take art lessons?
+
+[ai]:
+i can't believe it. i drew paintings like that in third grade.
+
+[user]:
+what's the point?
+
+[ai]:
+the point of what?
+
+[user]:
+of living.
+
+[ai]:
+who knows? you live, and then you die.
+
+[user]:
+we must be here for some reason.
+
+[ai]:
+maybe we're here to have fun.
+
+[user]:
+then why aren't i having fun?
+
+[ai]:
+because you're thinking too much.
+
+[user]:
+so i should stop thinking?
+
+[ai]:
+stop thinking about what the point is.
+
+[user]:
+okay. i'll start thinking about having some fun.
+
+[ai]:
+just be patient. fun doesn't come along every five minutes.
+
+[user]:
+so are cigarettes.
+
+[ai]:
+which would you prefer?
+
+[user]:
+what do you mean?
+
+[ai]:
+when you die and go to heaven, they will offer you beer or cigarettes.
+
+[user]:
+i could pick only one or the other?
+
+[ai]:
+yes. nothing's perfect, not even in heaven.
+
+[user]:
+boy, that's a tough one.
+
+[ai]:
+what's so tough about it? of course, i would pick cigarettes.
+
+[user]:
+but cigarettes taste much better when you have a cold beer.
+
+[ai]:
+well, you can't have everything.
+
+[user]:
+my pants have a hole in the front pocket.
+
+[ai]:
+you shouldn't carry pens in your pocket.
+
+[user]:
+yesterday a pen fell through my pants onto my shoe.
+
+[ai]:
+lucky for you it wasn't a sharp knife.
+
+[user]:
+who carries a sharp knife in their pocket?
+
+[ai]:
+criminals, of course.
+
+[user]:
+anyway, i have to fix the hole.
+
+[ai]:
+you can sew it up or use an iron-on patch.
+
+[user]:
+tell me about this patch.
+
+[ai]:
+the patch has glue. the hot iron melts the glue so the patch sticks on.
+
+[user]:
+that sounds a lot easier than sewing.
+
+[ai]:
+it is. but after about ten washings, the glue washes off.
+
+[user]:
+i can't remember jokes.
+
+[ai]:
+neither can i.
+
+[user]:
+they go in one ear and out the other.
+
+[ai]:
+who makes up all these jokes?
+
+[user]:
+who knows? but there must be a hundred new ones every day.
+
+[ai]:
+yes, just in english alone.
+
+[user]:
+i wonder if every language has jokes.
+
+[ai]:
+of course! people everywhere like good jokes.
+
+[user]:
+what do you think people joke about the most?
+
+[ai]:
+i think most jokes are about women.
+
+[user]:
+you're very lucky.
+
+[ai]:
+why do you say that?
+
+[user]:
+you speak two languages.
+
+[ai]:
+well, my english isn't perfect.
+
+[user]:
+no one speaks perfect english.
+
+[ai]:
+maybe i will be the first!
+
+[user]:
+i've been thinking about learning spanish.
+
+[ai]:
+spanish is easy. i'll be happy to teach you.
+
+[user]:
+how long will it take me to learn?
+
+[ai]:
+i think it will only take you a year or two.
+
+[user]:
+how soon can we begin?
+
+[ai]:
+ahora! that means right now.
+
+[user]:
+yes, it's april 22.
+
+[ai]:
+it's more than just a date.
+
+[user]:
+is it your birthday or anniversary?
+
+[ai]:
+no, it's earth day.
+
+[user]:
+what's that?
+
+[ai]:
+it's a yearly reminder to take care of our planet.
+
+[user]:
+oh, you mean like reuse things and recycle stuff?
+
+[ai]:
+yes. we need to think green, save water, and stop using plastic bags.
+
+[user]:
+how about if i take shorter showers?
+
+[ai]:
+that's a good idea, because showers waste a lot of water.
+
+[user]:
+poetry sucks.
+
+[ai]:
+i don't know anyone who likes it.
+
+[user]:
+some of it is okay, i guess.
+
+[ai]:
+yes, the poems that rhyme and are easy to remember.
+
+[user]:
+like "one, two, buckle my shoe."
+
+[ai]:
+but people still write poems.
+
+[user]:
+no one makes any money at it.
+
+[ai]:
+shakespeare was a poet.
+
+[user]:
+did he get rich from his poetry?
+
+[ai]:
+probably not.
+
+[user]:
+poems are a little bit like songs.
+
+[ai]:
+yes, but songs have music. without music, songs would suck, too.
+
+[user]:
+i don't know. i think i'm average.
+
+[ai]:
+did you ever take an iq test?
+
+[user]:
+no, i never did. all i know is that i got a's and b's in school.
+
+[ai]:
+i wish i was really smart.
+
+[user]:
+don't be ridiculous.
+
+[ai]:
+what do you mean?
+
+[user]:
+if you're going to make a wish, wish that you were really rich or famous.
+
+[ai]:
+don't you ever wonder what it's like to be super-smart?
+
+[user]:
+it must be very lonely.
+
+[ai]:
+why's that?
+
+[user]:
+i missed the tv news last night. what was on?
+
+[ai]:
+nothing that would pass as news.
+
+[user]:
+what's the weather going to be like this weekend?
+
+[ai]:
+i don't know. whenever the weather comes on, i switch channels.
+
+[user]:
+what was the lead story on the news?
+
+[ai]:
+some actress was in court for driving without a license.
+
+[user]:
+what was the second story?
+
+[ai]:
+some actor married a woman young enough to be his daughter.
+
+[user]:
+what was the third story?
+
+[ai]:
+a bull chased a man in a supermarket.
+
+[user]:
+wasn't there anything about octo-mom?
+
+[ai]:
+of course. she's going to hire a nanny for her eight infants.
+
+[user]:
+well, mostly i'll try to avoid it.
+
+[ai]:
+i mean, are you going to get buried or cremated?
+
+[user]:
+my wife and i will be cremated.
+
+[ai]:
+are you going to be buried next to each other?
+
+[user]:
+oh, no. our ashes will be shaken into the ocean.
+
+[ai]:
+you're not going to be buried?
+
+[user]:
+a coffin costs too much and takes up too much space.
+
+[ai]:
+yes, but it will be in a cemetery where your children can visit you.
+
+[user]:
+children seldom visit their parents in a cemetery.
+
+[ai]:
+that's true. a cemetery is for dead people, not living people.
+
+[user]:
+did you wipe your feet? 
+
+[ai]:
+yes, of course i wiped my feet.
+
+[user]:
+then why is there mud on the carpet?
+
+[ai]:
+i don't know. it's not my mud.
+
+[user]:
+well, someone brought it into the house.
+
+[ai]:
+look at the bottom of my shoesÂ—they're clean.
+
+[user]:
+of course they're clean. you left all the mud on the carpet.
+
+[ai]:
+okay, i'll get the vacuum cleaner.
+
+[user]:
+don't vacuum it now.
+
+[ai]:
+don't you want me to clean up the mud?
+
+[user]:
+wait till it dries. it will be easier to vacuum.
+
+[ai]:
+next time i will be more careful.
+
+[user]:
+what are you talking about?
+
+[ai]:
+sunday is mother's day.
+
+[user]:
+this sunday?
+
+[ai]:
+of course. it's all over the news.
+
+[user]:
+i thought it was next sunday.
+
+[ai]:
+well, you'd better get her something.
+
+[user]:
+i'll get her a nice card.
+
+[ai]:
+is that it?
+
+[user]:
+yes. that's all i ever give her.
+
+[ai]:
+she raised you, and all you ever give her is a card?
+
+[user]:
+i don't like our flag.
+
+[ai]:
+what's the matter with it?
+
+[user]:
+it's too much like other flags.
+
+[ai]:
+yes, a lot of flags have stripes.
+
+[user]:
+a flag should be pretty.
+
+[ai]:
+what should our flag look like?
+
+[user]:
+it should have a pretty woman on it.
+
+[ai]:
+that's ridiculous!
+
+[user]:
+you don't like pretty women?
+
+[ai]:
+of course i do. but not on our flag!
+
+[user]:
+every nation should have a pretty woman on their flag.
+
+[ai]:
+you can't go to war carrying a flag with a woman on it!
+
+[user]:
+what did you do?
+
+[ai]:
+i watered all the plants.
+
+[user]:
+you have a lot of plants.
+
+[ai]:
+then i did my laundry.
+
+[user]:
+that takes some time.
+
+[ai]:
+i took the dog for a walk.
+
+[user]:
+i'll bet he enjoyed his walk.
+
+[ai]:
+i vacuumed the entire house.
+
+[user]:
+that's a lot of work.
+
+[ai]:
+and then i made lunch.
+
+[user]:
+i don't have long distance service with my home phone.
+
+[ai]:
+so how do you make long distance calls?
+
+[user]:
+i use a calling card.
+
+[ai]:
+where do you get that?
+
+[user]:
+i buy it at the dollar store.
+
+[ai]:
+how much is it?
+
+[user]:
+it's one dollar for 100 minutes.
+
+[ai]:
+that's only a penny a minute!
+
+[user]:
+it's a great price. but you have to dial a lot of numbers.
+
+[ai]:
+how many?
+
+[user]:
+first you dial seven numbers, then ten numbers, then ten more numbers.
+
+[ai]:
+yikes. i think i'll keep my long distance service.
+
+[user]:
+yes, i do.
+
+[ai]:
+what college do you go to?
+
+[user]:
+i go to pasadena city college.
+
+[ai]:
+do you like it?
+
+[user]:
+oh, yes, i really like it.
+
+[ai]:
+why do you like it?
+
+[user]:
+because it has great teachers.
+
+[ai]:
+what else?
+
+[user]:
+i like all my classmates, too.
+
+[ai]:
+anything else?
+
+[user]:
+i lost my new pen.
+
+[ai]:
+where did you lose it?
+
+[user]:
+i don't know.
+
+[ai]:
+when did you lose it?
+
+[user]:
+i think i lost it today. i used it yesterday.
+
+[ai]:
+did you check all your pockets?
+
+[user]:
+i checked all my pockets.
+
+[ai]:
+did you look in your desk?
+
+[user]:
+yes. it isn't there, either.
+
+[ai]:
+it's probably around somewhere.
+
+[user]:
+oh, well, it only cost me a dollar.
+
+[ai]:
+only a dollar? don't even look for it.
+
+[user]:
+what is gravity?
+
+[ai]:
+it's the force that pulls everything down.
+
+[user]:
+i don't understand.
+
+[ai]:
+if you pour water into a glass, the water goes down into the glass.
+
+[user]:
+of course it does.
+
+[ai]:
+without gravity, the water would go up.
+
+[user]:
+you're joking.
+
+[ai]:
+without gravity, you would go up.
+
+[user]:
+what do you mean?
+
+[ai]:
+you would float into the sky like a balloon.
+
+[user]:
+i can't read my book.
+
+[ai]:
+turn on the light.
+
+[user]:
+the light is on.
+
+[ai]:
+open the book.
+
+[user]:
+the book is open.
+
+[ai]:
+see an eye doctor.
+
+[user]:
+that's what i need to do.
+
+[ai]:
+he'll give you a prescription for glasses.
+
+[user]:
+i'll make an appointment tomorrow.
+
+[ai]:
+i'll get the yellow pages for an eye doctor.
+
+[user]:
+read the phone number to me.
+
+[ai]:
+i'll read it very loud, in case your hearing is getting bad, too.
+
+[user]:
+i need pencils.
+
+[ai]:
+anything else?
+
+[user]:
+i need a notebook.
+
+[ai]:
+do you need a pen?
+
+[user]:
+no. i already have a pen.
+
+[ai]:
+do you need a calculator?
+
+[user]:
+no. the teacher doesn't permit calculators.
+
+[ai]:
+how about a dictionary?
+
+[user]:
+no, we have a big dictionary in the classroom.
+
+[ai]:
+well, i guess that's it.
+
+[user]:
+i like this magazine.
+
+[ai]:
+so do i.
+
+[user]:
+i read it once, and i subscribed.
+
+[ai]:
+it gives you all the news.
+
+[user]:
+all the news in only 50 pages.
+
+[ai]:
+i like the political cartoons.
+
+[user]:
+i like the beautiful photos of the houses for sale.
+
+[ai]:
+i always read the film reviews.
+
+[user]:
+i never miss the food and drink section.
+
+[ai]:
+i gave a subscription to my parents.
+
+[user]:
+me too. they canceled their other news magazines.
+
+[ai]:
+so did mine!
+
+[user]:
+shake it a couple of times.
+
+[ai]:
+i shook it. there is no more ink.
+
+[user]:
+you can borrow mine.
+
+[ai]:
+thank you. i'll buy a new one tomorrow.
+
+[user]:
+what were you doing?
+
+[ai]:
+i was writing a letter.
+
+[user]:
+who were you writing to?
+
+[ai]:
+it's to my mom.
+
+[user]:
+tell her i said hello.
+
+[ai]:
+okay. i'll return your pen when i'm done.
+
+[user]:
+have you done your homework?
+
+[ai]:
+not yet.
+
+[user]:
+then why are you watching tv?
+
+[ai]:
+this is my favorite show.
+
+[user]:
+go do your homework.
+
+[ai]:
+but, mom!
+
+[user]:
+you can watch tv after you do your homework.
+
+[ai]:
+but the show will be over.
+
+[user]:
+there will be another show next week.
+
+[ai]:
+please?
+
+[user]:
+you know the rules.
+
+[ai]:
+i hate the rules! i can't wait till i grow up.
+
+[user]:
+me too.
+
+[ai]:
+no more homework.
+
+[user]:
+i hate homework.
+
+[ai]:
+are you going to college?
+
+[user]:
+i can't afford it.
+
+[ai]:
+me neither.
+
+[user]:
+so what are you going to do?
+
+[ai]:
+i'm joining the army.
+
+[user]:
+you're kidding. you might get killed.
+
+[ai]:
+i don't think so. after i finish, i'll have enough money to go to college.
+
+[user]:
+what is your major?
+
+[ai]:
+english.
+
+[user]:
+what are you going to do with an english major?
+
+[ai]:
+i'm going to be a teacher.
+
+[user]:
+high school or middle school?
+
+[ai]:
+high school.
+
+[user]:
+i teach high school english.
+
+[ai]:
+i didn't know that.
+
+[user]:
+i started teaching five years ago.
+
+[ai]:
+how do you like it?
+
+[user]:
+do you see all this gray hair? it was totally black five years ago.
+
+[ai]:
+maybe i'll teach middle school.
+
+[user]:
+i'll say.
+
+[ai]:
+i drove around for half an hour.
+
+[user]:
+did you find a spot?
+
+[ai]:
+i found a spot, but someone cut in and took it from me.
+
+[user]:
+did you yell at them?
+
+[ai]:
+yes, i did.
+
+[user]:
+and?
+
+[ai]:
+and he yelled back at me.
+
+[user]:
+how rude.
+
+[ai]:
+but i got lucky a few minutes later.
+
+[user]:
+this is a huge library.
+
+[ai]:
+yes, it has lots of rooms and lots of space.
+
+[user]:
+and lots of books.
+
+[ai]:
+and lots of thieves.
+
+[user]:
+what do you mean?
+
+[ai]:
+i mean, keep your belongings close to you.
+
+[user]:
+the only thing in my backpack is used books.
+
+[ai]:
+but thieves don't know that.
+
+[user]:
+they might think that i've got an ipod or laptop in there.
+
+[ai]:
+now you're thinking.
+
+[user]:
+you'd think a library would be safe from thieves.
+
+[ai]:
+not even a church is safe from thieves.
+
+[user]:
+i can add two and two.
+
+[ai]:
+so you're not very good at math?
+
+[user]:
+i'm terrible at math.
+
+[ai]:
+well, i need some help.
+
+[user]:
+with what?
+
+[ai]:
+i'm taking a math course in school.
+
+[user]:
+well, you should ask your teacher or your classmates for help.
+
+[ai]:
+i can't do that.
+
+[user]:
+why not?
+
+[ai]:
+they might think i'm stupid.
+
+[user]:
+do you believe in god?
+
+[ai]:
+of course.
+
+[user]:
+do you pray to god?
+
+[ai]:
+occasionally.
+
+[user]:
+when's that?
+
+[ai]:
+when i need something.
+
+[user]:
+like what?
+
+[ai]:
+well, if i have a big test at school.
+
+[user]:
+does god answer your prayers?
+
+[ai]:
+yes, i've passed all my tests.
+
+[user]:
+do you ever pray for money?
+
+[ai]:
+not yet. i won't need to do that until i graduate from high school.
+
+[user]:
+what husband?
+
+[ai]:
+the husband of the driver who ran over two college students at 3 a.m.
+
+[user]:
+oh, yeah. the girl died instantly, and the boy is still in the hospital.
+
+[ai]:
+the husband said he tried to help the boy.
+
+[user]:
+yes, he pushed him off the hood of the car.
+
+[ai]:
+no, he said he gently placed the boy on the street.
+
+[user]:
+so what? they still drove off.
+
+[ai]:
+the husband said a fire department was nearby.
+
+[user]:
+so what? did he dial 911?
+
+[ai]:
+he said he was thinking about it, but he didn't get around to it.
+
+[user]:
+i don't like riding the bus.
+
+[ai]:
+why not?
+
+[user]:
+the seats and windows are dirty.
+
+[ai]:
+don't they clean the bus every night?
+
+[user]:
+i think they do.
+
+[ai]:
+you should bring some wipes with you.
+
+[user]:
+that's a good idea.
+
+[ai]:
+then you can wipe your seat and window.
+
+[user]:
+people will think i'm strange.
+
+[ai]:
+who cares? everyone is strange.
+
+[user]:
+that's for sure.
+
+[ai]:
+don't worry about what people think.
+
+[user]:
+why not?
+
+[ai]:
+number one, it's too slow.
+
+[user]:
+you're right. a car is faster.
+
+[ai]:
+number two, it's usually late.
+
+[user]:
+you're right. the buses are never on time.
+
+[ai]:
+number three, it doesn't run 24 hours.
+
+[user]:
+you're right. buses don't run late at night.
+
+[ai]:
+number four, it's too crowded.
+
+[user]:
+you're right. you have to stand in the aisle.
+
+[ai]:
+number five, it's unsafe.
+
+[user]:
+we had a problem at school.
+
+[ai]:
+what was the problem?
+
+[user]:
+someone cut the tires.
+
+[ai]:
+what tires?
+
+[user]:
+the tires on the cars.
+
+[ai]:
+where were the cars?
+
+[user]:
+they were in the student parking lot.
+
+[ai]:
+how many tires were cut?
+
+[user]:
+one or two tires were cut on each car.
+
+[ai]:
+how many cars?
+
+[user]:
+eleven cars.
+
+[ai]:
+that's terrible. i hope they catch the person.
+
+[user]:
+it sure isn't.
+
+[ai]:
+i got a ticket yesterday.
+
+[user]:
+what for?
+
+[ai]:
+i was crossing the street.
+
+[user]:
+were you in a crosswalk?
+
+[ai]:
+yes, but the red hand was blinking.
+
+[user]:
+so? that's a ticket?
+
+[ai]:
+yes, it's a $140 ticket.
+
+[user]:
+that's not right!
+
+[ai]:
+when i started to cross the street, the white walk sign was blinking.
+
+[user]:
+you're driving too fast.
+
+[ai]:
+why do you say that?
+
+[user]:
+the speed limit is 65.
+
+[ai]:
+i know that.
+
+[user]:
+but you're doing 75.
+
+[ai]:
+so is everyone else.
+
+[user]:
+but a cop might stop you.
+
+[ai]:
+no, he won't. some cars are doing 85.
+
+[user]:
+so the cop will stop those cars?
+
+[ai]:
+of course. he stops the fastest cars.
+
+[user]:
+my friend got a ticket for doing 75.
+
+[ai]:
+your friend was unlucky.
+
+[user]:
+how often do i have to do that?
+
+[ai]:
+once every two months.
+
+[user]:
+that's a lot.
+
+[ai]:
+what do you mean?
+
+[user]:
+that's six times a year!
+
+[ai]:
+yes, and it takes about five minutes each time.
+
+[user]:
+i'll try.
+
+[ai]:
+check your tires or you'll get a flat.
+
+[user]:
+oh. that's not good.
+
+[ai]:
+no, it isn't. a flat costs you time and money.
+
+[user]:
+you're driving too fast.
+
+[ai]:
+i'm in a hurry.
+
+[user]:
+don't ever be in a hurry.
+
+[ai]:
+it's not my fault. you didn't wake me up.
+
+[user]:
+that's not my fault. you didn't tell me to wake you up.
+
+[ai]:
+well, i meant to.
+
+[user]:
+don't ever be in a hurry when you're driving.
+
+[ai]:
+why not?
+
+[user]:
+because you'll have an accident. most accidents are because people are in a hurry.
+
+[ai]:
+how do you know that?
+
+[user]:
+i read a lot.
+
+[ai]:
+i thought drunks caused most accidents.
+
+[user]:
+where are we going?
+
+[ai]:
+into the mountains.
+
+[user]:
+that sounds nice.
+
+[ai]:
+i want to show you my new car.
+
+[user]:
+you bought a new car?
+
+[ai]:
+yes. i bought a cadillac.
+
+[user]:
+a luxury car.
+
+[ai]:
+luxury plus speed.
+
+[user]:
+what are we waiting for?
+
+[ai]:
+let me get the keys.
+
+[user]:
+i have to go to the bathroom.
+
+[ai]:
+why didn't you go before we left?
+
+[user]:
+i did, but i have to go again.
+
+[ai]:
+well, hold on a little longer.
+
+[user]:
+i think i'm going to explode.
+
+[ai]:
+just hold on.
+
+[user]:
+oh! don't hit any more bumps!
+
+[ai]:
+we'll be at mcdonald's in just a few minutes.
+
+[user]:
+i hope they are fast minutes.
+
+[ai]:
+think about something else. think about a hamburger.
+
+[user]:
+i'm thinking, but i still have to go.
+
+[ai]:
+it's the next exit. hold on!
+
+[user]:
+what do you mean?
+
+[ai]:
+the car isn't here.
+
+[user]:
+where did you park it?
+
+[ai]:
+i parked it right here.
+
+[user]:
+are you sure?
+
+[ai]:
+yes. i remember this big tree.
+
+[user]:
+maybe it's the wrong tree.
+
+[ai]:
+no, this is the tree.
+
+[user]:
+did someone steal it?
+
+[ai]:
+i sure hope not.
+
+[user]:
+look at this traffic.
+
+[ai]:
+i'd rather not.
+
+[user]:
+it gets worse every year.
+
+[ai]:
+why are you complaining? we're going almost 20 miles an hour.
+
+[user]:
+the speed limit is 65!
+
+[ai]:
+well, that's between 2:00 and 4:00 a.m.
+
+[user]:
+where are all these people going?
+
+[ai]:
+they're all asking the same question.
+
+[user]:
+when are they going to fix this problem?
+
+[ai]:
+they said they need more money.
+
+[user]:
+they always need more money.
+
+[ai]:
+it'll get worse before it gets better.
+
+[user]:
+yes, he went through the red light.
+
+[ai]:
+can we call the police?
+
+[user]:
+no, the police don't care.
+
+[ai]:
+why not?
+
+[user]:
+they have to see it happen.
+
+[ai]:
+they don't believe us?
+
+[user]:
+no. they can only give a ticket if they see it happen.
+
+[ai]:
+so, what do we do?
+
+[user]:
+we don't do anything.
+
+[ai]:
+maybe we should honk the horn next time.
+
+[user]:
+my car is dirty.
+
+[ai]:
+why don't you wash it?
+
+[user]:
+that's what i'm going to do.
+
+[ai]:
+are you going to wash it yourself?
+
+[user]:
+of course. it's not a hard job.
+
+[ai]:
+i'll help you.
+
+[user]:
+okay, i'll get a bucket.
+
+[ai]:
+i'll rinse the car first.
+
+[user]:
+then we can scrub it with a wet sponge and soap.
+
+[ai]:
+after that, we can dry it with a towel.
+
+[user]:
+then it will look like new
+
+[ai]:
+and you save $10.
+
+[user]:
+paper is flying everywhere.
+
+[ai]:
+this wind is dangerous for drivers.
+
+[user]:
+especially for drivers of big trucks.
+
+[ai]:
+the wind blows those trucks over.
+
+[user]:
+it blows trees over, too.
+
+[ai]:
+a tree fell onto my dad's car.
+
+[user]:
+was there much damage?
+
+[ai]:
+my dad had to buy a new car.
+
+[user]:
+wow! that's terrible.
+
+[ai]:
+never park your car under a tree.
+
+[user]:
+when are we going to stop?
+
+[ai]:
+we'll stop at the next mcdonald's.
+
+[user]:
+how far away is that?
+
+[ai]:
+i think we'll be there in half an hour.
+
+[user]:
+i hope so. i have to go to the bathroom.
+
+[ai]:
+well, i can always pull over.
+
+[user]:
+no, thank you, i'll just wait.
+
+[ai]:
+we can kill two birds with one stone.
+
+[user]:
+what do you mean?
+
+[ai]:
+while you're using the bathroom, i'll order some food.
+
+[user]:
+don't order for me. i'm not hungry.
+
+[ai]:
+i'm very hungry. i'll order for you, and then i'll eat yours.
+
+[user]:
+look how many cars are waiting in line.
+
+[ai]:
+they need a left-turn arrow.
+
+[user]:
+only two cars can make a left turn every three or four minutes.
+
+[ai]:
+we'll be here forever.
+
+[user]:
+get out of this lane.
+
+[ai]:
+but we need to turn left.
+
+[user]:
+forget it. go straight.
+
+[ai]:
+then what?
+
+[user]:
+then we'll just make a u-turn.
+
+[ai]:
+and then we can turn right at the light.
+
+[user]:
+i need a cheap car.
+
+[ai]:
+how much money do you have?
+
+[user]:
+$1,000.
+
+[ai]:
+well, that should get you something.
+
+[user]:
+but i need something that's reliable.
+
+[ai]:
+you need a car with low mileage.
+
+[user]:
+a car that was owned by a little old lady.
+
+[ai]:
+where have you looked?
+
+[user]:
+i haven't looked anywhere yet.
+
+[ai]:
+why not?
+
+[user]:
+because i'll never find one for such a low price.
+
+[ai]:
+you're right about that. keep saving your money.
+
+[user]:
+your driver's license and registration, please.
+
+[ai]:
+here you go.
+
+[user]:
+do you know why i pulled you over?
+
+[ai]:
+i have no idea. all of a sudden i heard your siren.
+
+[user]:
+you rolled through that stop sign back there.
+
+[ai]:
+but i stopped!
+
+[user]:
+no, you didn't. you slowed down, but you didn't come to a full stop.
+
+[ai]:
+well, nobody else does, so why should i?
+
+[user]:
+that's not the attitude of a good driver.
+
+[ai]:
+but i am a good driver. i've never had a ticket in my life.
+
+[user]:
+$140. i can't believe it.
+
+[ai]:
+what are you talking about?
+
+[user]:
+i got a ticket downtown for $140.
+
+[ai]:
+were you speeding?
+
+[user]:
+no, i was crossing the street.
+
+[ai]:
+were you jaywalking?
+
+[user]:
+no, i was in the crosswalk.
+
+[ai]:
+so why did you get a ticket?
+
+[user]:
+the officer said the red hand was blinking.
+
+[ai]:
+was it blinking when you entered the crosswalk?
+
+[user]:
+no, the white walk sign was blinking.
+
+[ai]:
+you should fight that ticket. i'll be your witness.
+
+[user]:
+who?
+
+[ai]:
+two students from usc.
+
+[user]:
+what happened?
+
+[ai]:
+a speeding car ran a red light, killing the girl.
+
+[user]:
+what happened to the other student?
+
+[ai]:
+he landed on the hood of the car.
+
+[user]:
+did he get off the hood?
+
+[ai]:
+no, the car stopped and the passenger pushed the injured student off the hood.
+
+[user]:
+i'll bet the car continued on its way.
+
+[ai]:
+of course it did. why stop after you've run over two people?
+
+[user]:
+what happened to your car?
+
+[ai]:
+i got a dent in the parking lot.
+
+[user]:
+how did you get it?
+
+[ai]:
+i don't know. maybe it was from a shopping cart.
+
+[user]:
+those shopping carts are dangerous.
+
+[ai]:
+especially the metal ones.
+
+[user]:
+i don't park at a store that uses metal shopping carts.
+
+[ai]:
+that's a good idea, but there was a good sale at this store.
+
+[user]:
+did you save any money on the sale?
+
+[ai]:
+yes, i did. i saved about $50.
+
+[user]:
+that's great.
+
+[ai]:
+yes, except this dent will cost about $150.
+
+[user]:
+yes. it is a great movie.
+
+[ai]:
+i saw it twelve times.
+
+[user]:
+i saw it eight times.
+
+[ai]:
+i have the dvd.
+
+[user]:
+so do i.
+
+[ai]:
+let's go to your home.
+
+[user]:
+we can watch my dvd.
+
+[ai]:
+and then we can go to my home.
+
+[user]:
+and watch your dvd.
+
+[ai]:
+i always cry at the end.
+
+[user]:
+let's play cards.
+
+[ai]:
+i don't know any card games.
+
+[user]:
+i'll teach you one.
+
+[ai]:
+okay. what will you teach me?
+
+[user]:
+it's called poker.
+
+[ai]:
+is it easy to learn?
+
+[user]:
+yes, it will only take about 30 minutes.
+
+[ai]:
+okay. teach me how to play.
+
+[user]:
+we each get five cards.
+
+[ai]:
+oh, look. i have four tens.
+
+[user]:
+that's great, but you're not supposed to tell me.
+
+[ai]:
+oh. sorry. okay, i don't have four tens.
+
+[user]:
+why is that?
+
+[ai]:
+because i watch the other players.
+
+[user]:
+what do you mean?
+
+[ai]:
+people will tell you if they have a good hand.
+
+[user]:
+how do they do that?
+
+[ai]:
+for example, a friend of mine licks his lips.
+
+[user]:
+when he licks his lips, you know he has a good hand?
+
+[ai]:
+i know he has a good hand, so i don't bet.
+
+[user]:
+he never wins your money?
+
+[ai]:
+nope, and it drives him crazy.
+
+[user]:
+turn the radio down, please.
+
+[ai]:
+but i'm listening to it.
+
+[user]:
+well, listen to it more quietly.
+
+[ai]:
+i can't wait till i grow up.
+
+[user]:
+what will you do?
+
+[ai]:
+i will play the radio as loud as i want.
+
+[user]:
+that's okay with me.
+
+[ai]:
+i will have a radio in every room of my house.
+
+[user]:
+remind me to never visit you.
+
+[ai]:
+all the radios will be on extra loud.
+
+[user]:
+your neighbors will hate you.
+
+[ai]:
+if they don't like it, they can move.
+
+[user]:
+your chances are very small.
+
+[ai]:
+but you can't win if you don't play.
+
+[user]:
+ha! you can't win if you do play.
+
+[ai]:
+someone has to win.
+
+[user]:
+that's what everyone says.
+
+[ai]:
+it might as well be me.
+
+[user]:
+that's what everyone says.
+
+[ai]:
+you're trying to tell me something.
+
+[user]:
+that didn't take long.
+
+[ai]:
+you think i should quit playing.
+
+[user]:
+what's on tv?
+
+[ai]:
+nothing much.
+
+[user]:
+what about the baseball game?
+
+[ai]:
+it got rained out.
+
+[user]:
+rained out?
+
+[ai]:
+yes, rained out.
+
+[user]:
+how could that be?
+
+[ai]:
+well, you can't play baseball in a rainstorm.
+
+[user]:
+i thought they were playing under a dome.
+
+[ai]:
+the dome doesn't close.
+
+[user]:
+why doesn't it close?
+
+[ai]:
+who knows? they said they'll fix it before next season.
+
+[user]:
+sure. here you go.
+
+[ai]:
+hmm, that's not bad.
+
+[user]:
+there's nothing in it.
+
+[ai]:
+what do you mean?
+
+[user]:
+i mean, it's just coffee.
+
+[ai]:
+i figured that.
+
+[user]:
+it's not too bitter for you?
+
+[ai]:
+it's a little bitter, but it's okay.
+
+[user]:
+there's no sugar or cream in it.
+
+[ai]:
+no, it's a taste you have to get used to.
+
+[user]:
+let's take a walk.
+
+[ai]:
+what's the weather like?
+
+[user]:
+let me step outside and see.
+
+[ai]:
+it's a little chilly, right?
+
+[user]:
+yes, it is.
+
+[ai]:
+i'll put on my cap.
+
+[user]:
+wear a jacket, too.
+
+[ai]:
+i wonder if i should bring my gloves.
+
+[user]:
+maybe you should, just in case it gets colder.
+
+[ai]:
+i'll put a glove in each pocket.
+
+[user]:
+we'll get warmer as we walk.
+
+[ai]:
+yes, but it gets colder as the sun goes down.
+
+[user]:
+that driver is crazy.
+
+[ai]:
+i can't believe he hasn't crashed.
+
+[user]:
+how fast is he going?
+
+[ai]:
+they say he's going 80 miles per hour.
+
+[user]:
+he's going to kill someone.
+
+[ai]:
+look! he just hit that car.
+
+[user]:
+oh, my goodness. no one is safe on the streets.
+
+[ai]:
+now he's slowing down.
+
+[user]:
+maybe he ran out of gas.
+
+[ai]:
+look! he just got out of the car and started running.
+
+[user]:
+tv news is so stupid.
+
+[ai]:
+they shouldn't even call it news.
+
+[user]:
+last night they told us about a cat in a sofa.
+
+[ai]:
+yesterday they told us about a dog in a pipe.
+
+[user]:
+last week they told us about a bear in a back yard.
+
+[ai]:
+last month they told us about a mouse in a restaurant.
+
+[user]:
+the weatherman tells us the temperature in every town.
+
+[ai]:
+the sports guy shows us players fighting.
+
+[user]:
+they always tell us "what's next."
+
+[ai]:
+they always make "what's next" sound exciting, but it never is.
+
+[user]:
+it's more like news for kids.
+
+[ai]:
+they should have kid reporters.
+
+[user]:
+computers are so cool.
+
+[ai]:
+i love to go online.
+
+[user]:
+the internet is amazing.
+
+[ai]:
+you can travel all over the world.
+
+[user]:
+i know. i went to china yesterday.
+
+[ai]:
+what did you do?
+
+[user]:
+i stood on the great wall and looked all around.
+
+[ai]:
+what was it like?
+
+[user]:
+it was like the real thing.
+
+[ai]:
+it was like being there?
+
+[user]:
+the beatles are the best.
+
+[ai]:
+they are the best musical group ever.
+
+[user]:
+i love all their songs.
+
+[ai]:
+i don't know which one i like the best.
+
+[user]:
+i like the ones i can sing along with.
+
+[ai]:
+so do i, like "she loves you."
+
+[user]:
+"she loves you, yeah, yeah, yeah!..."
+
+[ai]:
+"Â…and you know you should be glad!"
+
+[user]:
+what a great song.
+
+[ai]:
+how about "let it be?"
+
+[user]:
+oh, yes! "let it be, let it beÂ…"
+
+[ai]:
+"Â…there will be an answer, let it be!"
+
+[user]:
+i'd rather not.
+
+[ai]:
+why not?
+
+[user]:
+you know i don't like crowds.
+
+[ai]:
+let's go to an early movie.
+
+[user]:
+okay, that won't be very crowded.
+
+[ai]:
+what would you like to see?
+
+[user]:
+oh, i don't care. you're the one who wants to go out.
+
+[ai]:
+well, i want to see "the pursuit of happyness."
+
+[user]:
+what have you heard about it?
+
+[ai]:
+it's based on a true story about a divorced man and his young son.
+
+[user]:
+what's your favorite thing to do?
+
+[ai]:
+i like to watch people.
+
+[user]:
+that's your favorite thing to do?
+
+[ai]:
+well, it's one of them.
+
+[user]:
+where do you go to watch people?
+
+[ai]:
+my girlfriend and i sit outside starbucks.
+
+[user]:
+that sounds like a good spot.
+
+[ai]:
+we watch people walk by with their dogs.
+
+[user]:
+i guess you see lots of different dogs.
+
+[ai]:
+we don't even know what kind most of them are.
+
+[user]:
+there are lots of different kinds, but they all have one thing in common.
+
+[ai]:
+yes, they love to sniff each other when they meet.
+
+[user]:
+yes, he was on the tv news today.
+
+[ai]:
+every easter sunday he gives away money.
+
+[user]:
+is it his money?
+
+[ai]:
+no. movie stars give him money to give to homeless people.
+
+[user]:
+how much money does he give away?
+
+[ai]:
+this year he gave away $15,000.
+
+[user]:
+that's a lot of money.
+
+[ai]:
+he gave $100 to people in wheelchairs.
+
+[user]:
+what about the other homeless people?
+
+[ai]:
+they got $1 each.
+
+[user]:
+old movies are the best.
+
+[ai]:
+even though they're in black and white.
+
+[user]:
+a good story is more important than color.
+
+[ai]:
+actors didn't curse back then.
+
+[user]:
+and there was no violence.
+
+[ai]:
+people today don't like that.
+
+[user]:
+no, today people like lots of action.
+
+[ai]:
+i like a good story.
+
+[user]:
+i like to see actors who are like real people.
+
+[ai]:
+like real people with real problems.
+
+[user]:
+they still make movies like that.
+
+[ai]:
+yes, but they never make much money.
+
+[user]:
+yes, everybody gets the public broadcasting system.
+
+[ai]:
+it puts me to sleep.
+
+[user]:
+tell me about it.
+
+[ai]:
+a gardening show follows a knitting show.
+
+[user]:
+a cooking show follows a sewing show.
+
+[ai]:
+a travel show follows another travel show.
+
+[user]:
+i'll say! i've gone around the world a dozen times already!
+
+[ai]:
+now they're adding old tv shows to the old movies.
+
+[user]:
+i sure would like to see something interesting for a change.
+
+[ai]:
+if more people donate money, pbs could offer new shows.
+
+[user]:
+i love to watch "judge judy."
+
+[ai]:
+is that a tv show?
+
+[user]:
+yes. it's on every afternoon.
+
+[ai]:
+what's so good about it?
+
+[user]:
+they have interesting lawsuits.
+
+[ai]:
+such as?
+
+[user]:
+yesterday, a woman complained about a cell phone she bought on ebay.
+
+[ai]:
+was something wrong with the phone?
+
+[user]:
+it works only in canada.
+
+[ai]:
+did the seller know that?
+
+[user]:
+yes, and he didn't tell the buyer.
+
+[ai]:
+i hope judge judy made the seller take the phone back.
+
+[user]:
+yes, but she looks like a man.
+
+[ai]:
+what difference does it make?
+
+[user]:
+female singers are supposed to be pretty.
+
+[ai]:
+singers are supposed to sound good.
+
+[user]:
+they should look good, too.
+
+[ai]:
+there are lots of ugly men singers.
+
+[user]:
+men singers don't have to look good.
+
+[ai]:
+then neither do women singers.
+
+[user]:
+well, i would never buy her cd.
+
+[ai]:
+but you would buy her cd if she was pretty?
+
+[user]:
+all the tv stations are going to go digital.
+
+[ai]:
+yes, that will occur next month.
+
+[user]:
+most of them are already broadcasting in digital.
+
+[ai]:
+the digital signal is very clear.
+
+[user]:
+oh, no, it isn't!
+
+[ai]:
+what do you mean?
+
+[user]:
+i can't get a single channel.
+
+[ai]:
+do you have a digital tv?
+
+[user]:
+of course. but i don't have cable.
+
+[ai]:
+you don't need to have cable, but you do need a good antenna.
+
+[user]:
+but i have rabbit ears.
+
+[ai]:
+rabbit ears aren't strong enough. buy a digital antenna.
+
+[user]:
+oh, really?
+
+[ai]:
+are you interested?
+
+[user]:
+maybe. what is she like?
+
+[ai]:
+she's got a great personality.
+
+[user]:
+uh-oh. that means that she's fat and ugly.
+
+[ai]:
+she's cute.
+
+[user]:
+okay, so she's not ugly; she's just fat.
+
+[ai]:
+she weighs 98 pounds.
+
+[user]:
+okay, she's not fat. so what's the problem with her?
+
+[ai]:
+who said there is a problem with her?
+
+[user]:
+i think you're very pretty.
+
+[ai]:
+thank you.
+
+[user]:
+would you have dinner with me?
+
+[ai]:
+i would like to.
+
+[user]:
+can i pick you up friday night?
+
+[ai]:
+what time?
+
+[user]:
+eight o'clock.
+
+[ai]:
+that sounds great.
+
+[user]:
+we'll go to a french restaurant.
+
+[ai]:
+i've never been to a french restaurant.
+
+[user]:
+i think you'll love the food.
+
+[ai]:
+i'm not going to eat any snails!
+
+[user]:
+thank you. so do you.
+
+[ai]:
+i wish my eyes were blue.
+
+[user]:
+what's the matter with green eyes?
+
+[ai]:
+nothing, except my favorite color is blue.
+
+[user]:
+maybe in your next life you'll have blue eyes.
+
+[ai]:
+but what if i'm a fish in my next life?
+
+[user]:
+i think some fish have blue eyes.
+
+[ai]:
+i hope i don't come back as a fish.
+
+[user]:
+i hope i come back as a cat.
+
+[ai]:
+cats have beautiful eyes.
+
+[user]:
+i love you.
+
+[ai]:
+i love you, too.
+
+[user]:
+i loved you the first day i saw you.
+
+[ai]:
+it was love at first sight?
+
+[user]:
+yes, it was love at first sight.
+
+[ai]:
+i didn't love you at first.
+
+[user]:
+i know. i had to chase you for a while.
+
+[ai]:
+yes, you chased me and then you caught me.
+
+[user]:
+now you're mine forever.
+
+[ai]:
+and you're mine forever.
+
+[user]:
+we'll grow old together.
+
+[ai]:
+and be happy together.
+
+[user]:
+have you told her?
+
+[ai]:
+of course not.
+
+[user]:
+why not?
+
+[ai]:
+she would laugh at me.
+
+[user]:
+how do you know?
+
+[ai]:
+because they always do.
+
+[user]:
+maybe she's different.
+
+[ai]:
+they're all the same.
+
+[user]:
+just ask her out to dinner.
+
+[ai]:
+and then what?
+
+[user]:
+give me a hug.
+
+[ai]:
+i'm not in the mood.
+
+[user]:
+what's the matter?
+
+[ai]:
+i saw you looking at that woman.
+
+[user]:
+what woman?
+
+[ai]:
+you know, that woman with the big boobs.
+
+[user]:
+i was not looking at her.
+
+[ai]:
+you were, too.
+
+[user]:
+i'm not interested in her.
+
+[ai]:
+then why were you looking at her?
+
+[user]:
+i was looking at something else.
+
+[ai]:
+oh, really? then spend tonight looking at the sofa.
+
+[user]:
+you must be joking.
+
+[ai]:
+no, i'm serious.
+
+[user]:
+i don't want to date a blind woman.
+
+[ai]:
+a blind date doesn't mean that she is blind!
+
+[user]:
+what does it mean?
+
+[ai]:
+a blind date is a date with someone you don't know.
+
+[user]:
+why would i date someone i don't even know?
+
+[ai]:
+to try something new and exciting.
+
+[user]:
+what if i don't like her?
+
+[ai]:
+then you don't date her again.
+
+[user]:
+really? who with?
+
+[ai]:
+a girl i met at the market.
+
+[user]:
+you met a girl at the supermarket?
+
+[ai]:
+she was standing behind me in a really slow line at the checkout counter.
+
+[user]:
+what did you say to her?
+
+[ai]:
+i had two pineapples in my cart, and she asked where i had found them.
+
+[user]:
+she asked you about your pineapples?
+
+[ai]:
+i told her i had gotten the last two on the shelf, but i offered her one of mine.
+
+[user]:
+that was nice of you.
+
+[ai]:
+she asked me how she could return the favor, so i asked her out.
+
+[user]:
+did you have a date friday night?
+
+[ai]:
+yes, in fact, i did.
+
+[user]:
+who did you go out with?
+
+[ai]:
+a man i met in a coffee shop.
+
+[user]:
+where did you go?
+
+[ai]:
+we went to a nice restaurant.
+
+[user]:
+anywhere else?
+
+[ai]:
+then we went to a jazz club.
+
+[user]:
+that sounds like a nice date.
+
+[ai]:
+yes, it was pleasant.
+
+[user]:
+but you won't date him again?
+
+[ai]:
+no. he was nice, but there was no chemistry.
+
+[user]:
+what happened?
+
+[ai]:
+first of all, he was half an hour late.
+
+[user]:
+that's not a good start.
+
+[ai]:
+then he didn't bother to apologize.
+
+[user]:
+that's rude.
+
+[ai]:
+then he drove too fast to the restaurant.
+
+[user]:
+that's dangerous.
+
+[ai]:
+i thought about getting out and taking a taxi home.
+
+[user]:
+what happened at the restaurant?
+
+[ai]:
+we had a $40 meal, and he left a $1 tip!
+
+[user]:
+i don't like that man.
+
+[ai]:
+why not?
+
+[user]:
+he's a dirty old man.
+
+[ai]:
+what do you mean?
+
+[user]:
+he's old enough to be my father, yet he asked me out.
+
+[ai]:
+well, you can't blame a man for asking.
+
+[user]:
+he should act his age.
+
+[ai]:
+but a lot of old people are still interested in dating.
+
+[user]:
+they should find a nice hobby.
+
+[ai]:
+just wait until you're 50 years old.
+
+[user]:
+dating will be the furthest thing from my mind.
+
+[ai]:
+that's what you say now. wait till you're 50.
+
+[user]:
+sometimes.
+
+[ai]:
+what does she do?
+
+[user]:
+just yesterday, i told her i wouldn't trade her for all the money in the world.
+
+[ai]:
+that was a nice thing to say.
+
+[user]:
+that's what i thought.
+
+[ai]:
+what did she say?
+
+[user]:
+she laughed! she didn't believe me.
+
+[ai]:
+that wasn't very nice of her.
+
+[user]:
+she said that nothing is more important to me than money.
+
+[ai]:
+what did you say?
+
+[user]:
+some people have good noses.
+
+[ai]:
+i wish i had a good nose. mine is way too big.
+
+[user]:
+i don't mean good-looking. i mean good-smelling.
+
+[ai]:
+oh. but that can be a curse.
+
+[user]:
+yes, because you can be too sensitive to odors.
+
+[ai]:
+i'll say. my girlfriend has a nose like a drug dog.
+
+[user]:
+did she catch you using drugs?
+
+[ai]:
+sort of. she knows whenever i sneak a cigarette.
+
+[user]:
+you don't need a good nose for thatÂ—cigarettes stink.
+
+[ai]:
+but when i sneak just one cigarette in the morning, she can smell it that evening!
+
+[user]:
+boy, that is a good nose.
+
+[ai]:
+i told her she should apply for a job at customs.
+
+[user]:
+that sounds like fun.
+
+[ai]:
+where do you want to go?
+
+[user]:
+let me think a minute.
+
+[ai]:
+i feel like chinese.
+
+[user]:
+that sounds delicious.
+
+[ai]:
+i know a good chinese restaurant.
+
+[user]:
+how far away is it?
+
+[ai]:
+it's only 10 minutes from here.
+
+[user]:
+do we need reservations?
+
+[ai]:
+oh, no. we can walk right in.
+
+[user]:
+i can't believe how long this line is.
+
+[ai]:
+this is a popular restaurant, isn't it?
+
+[user]:
+yes, but it isn't a fast-food restaurant, is it?
+
+[ai]:
+it's the slowest hamburger in town.
+
+[user]:
+that's because they cook it while you wait.
+
+[ai]:
+yes. that's why it's also the best hamburger in town.
+
+[user]:
+a great burger and great service.
+
+[ai]:
+yes, the workers are very polite.
+
+[user]:
+and they're clean.
+
+[ai]:
+i've been coming here for years.
+
+[user]:
+me too.
+
+[ai]:
+excuse me. they just called my number.
+
+[user]:
+thank you.
+
+[ai]:
+what kind of soup was that?
+
+[user]:
+it was tomato soup.
+
+[ai]:
+that tasted so good.
+
+[user]:
+i put lemon and butter in it.
+
+[ai]:
+the sandwich was good, too.
+
+[user]:
+everyone likes bacon and tomato sandwiches.
+
+[ai]:
+especially on toast.
+
+[user]:
+and the pickles were great, too.
+
+[ai]:
+tomorrow we'll have rice and fish for lunch.
+
+[user]:
+i'm calling the waiter.
+
+[ai]:
+what's the matter?
+
+[user]:
+this steak has too much fat.
+
+[ai]:
+what do you want the waiter to do?
+
+[user]:
+bring me a better steak.
+
+[ai]:
+i wouldn't do that.
+
+[user]:
+why not?
+
+[ai]:
+they will drop the new steak on the floor, step on it, and then spit on it.
+
+[user]:
+you're crazy.
+
+[ai]:
+then the waiter will give you a big smile as he brings you the new steak.
+
+[user]:
+where do you get these crazy ideas?
+
+[ai]:
+i used to cook in a restaurant!
+
+[user]:
+but we just got here.
+
+[ai]:
+did you see the waiter's hands?
+
+[user]:
+no.
+
+[ai]:
+he had dirty fingernails.
+
+[user]:
+really?
+
+[ai]:
+his nails were black!
+
+[user]:
+that's disgusting.
+
+[ai]:
+and he poured water into our glasses.
+
+[user]:
+yuck! no water for me.
+
+[ai]:
+i wonder if the cooks' nails are dirty, too.
+
+[user]:
+this hot bread is delicious.
+
+[ai]:
+i like this restaurant because they give you free bread.
+
+[user]:
+well, i think we are paying for it.
+
+[ai]:
+no. look at the bill when we get it. there's no charge for the bread.
+
+[user]:
+it is delicious, especially with butter.
+
+[ai]:
+i think we should just leave after we fill up on the bread.
+
+[user]:
+they probably wouldn't like that.
+
+[ai]:
+i'm eating so much bread that i'm getting full.
+
+[user]:
+then stop eating the bread!
+
+[ai]:
+okay, just one more piece. pass the butter, please.
+
+[user]:
+if i owned a restaurant, i would never serve hot bread before the main course.
+
+[ai]:
+that's terrible. i would never go to your restaurant.
+
+[user]:
+well, the tables and chairs look okay.
+
+[ai]:
+okay, let's sit down.
+
+[user]:
+check out the silverware.
+
+[ai]:
+it passes inspection.
+
+[user]:
+here comes the waiter. see if his hands and nails are clean.
+
+[ai]:
+well, the waiter looked clean, so i guess it's okay to eat here.
+
+[user]:
+you're forgetting about the bathroom.
+
+[ai]:
+i'm going to just hope that the bathroom is clean.
+
+[user]:
+you're not going to examine it before we order dinner?
+
+[ai]:
+no, i'd rather not find out that it's dirty, because i'm pretty hungry right now.
+
+[user]:
+have you seen our waiter?
+
+[ai]:
+here he comes now.
+
+[user]:
+we've been sitting here for almost 10 minutes.
+
+[ai]:
+oops, i guess i was wrong. that isn't our waiter.
+
+[user]:
+we can give him five more minutes, and then leave.
+
+[ai]:
+i'll go up front and talk to the manager.
+
+[user]:
+that's a good idea.
+
+[ai]:
+maybe they'll give us free drinks for waiting so long.
+
+[user]:
+maybe he'll send us our waiter immediately.
+
+[ai]:
+every time we eat out, it's an adventure.
+
+[user]:
+last time, we got seats next to the kitchen.
+
+[ai]:
+we'll never go there again.
+
+[user]:
+no, it's too close to the kitchen door.
+
+[ai]:
+how about this table?
+
+[user]:
+no, it's too close to the front door.
+
+[ai]:
+this looks like a nice table.
+
+[user]:
+no, it's too close to the salad bar.
+
+[ai]:
+okay, i give up.
+
+[user]:
+well, there is one good table.
+
+[ai]:
+great. which one?
+
+[user]:
+i don't believe the art world.
+
+[ai]:
+what is it this time?
+
+[user]:
+an andy warhol drawing.
+
+[ai]:
+he's a famous artist.
+
+[user]:
+he drew two butterflies and a flower on a napkin in a restaurant.
+
+[ai]:
+did he sign it?
+
+[user]:
+yes.
+
+[ai]:
+is it beautiful?
+
+[user]:
+it's just black ink on a white napkin. and the napkin has food stains!
+
+[ai]:
+so it's not worth much?
+
+[user]:
+only about $30,000.
+
+[ai]:
+without the food stains, it would probably be worth more.
+
+[user]:
+of course.
+
+[ai]:
+i love baseball.
+
+[user]:
+so do i.
+
+[ai]:
+i love to eat the peanuts.
+
+[user]:
+i love to eat the hot dogs.
+
+[ai]:
+i hope we'll see a home run.
+
+[user]:
+i hope we'll catch a foul ball.
+
+[ai]:
+bring a jacket.
+
+[user]:
+yes. it gets a little cool at night.
+
+[ai]:
+bring a glove to catch a foul ball.
+
+[user]:
+golf is a silly game.
+
+[ai]:
+it certainly is.
+
+[user]:
+you hit a white ball.
+
+[ai]:
+and then you chase it.
+
+[user]:
+and then you hit it again.
+
+[ai]:
+finally, you put the ball into a hole in the ground.
+
+[user]:
+you do this 18 times, because there are 18 holes.
+
+[ai]:
+what's the point?
+
+[user]:
+how can it be fun?
+
+[ai]:
+they pay money to play this silly game!
+
+[user]:
+i think golfers have a mental problem.
+
+[ai]:
+i think they're nuts.
+
+[user]:
+yes. that's a good idea.
+
+[ai]:
+where do you want to go?
+
+[user]:
+we can go to the river.
+
+[ai]:
+or we can go to the lake.
+
+[user]:
+or we can go to the ocean.
+
+[ai]:
+let's go to the lake.
+
+[user]:
+yes. the lake is only 10 miles away.
+
+[ai]:
+we can be there in 20 minutes.
+
+[user]:
+i'll get our fishing rods.
+
+[ai]:
+i'll get the bait.
+
+[user]:
+baseball is fun.
+
+[ai]:
+i like to hit the ball.
+
+[user]:
+i like to run around the bases.
+
+[ai]:
+i like to slide into the bases.
+
+[user]:
+yeah. it's a lot of fun to slide.
+
+[ai]:
+i want to be a baseball player when i grow up.
+
+[user]:
+me too. i want to play for the yankees.
+
+[ai]:
+not me. i want to play for the dodgers.
+
+[user]:
+we have to practice every day.
+
+[ai]:
+i don't like practice.
+
+[user]:
+me neither. it's boring.
+
+[ai]:
+but practice makes perfect.
+
+[user]:
+that's a good idea.
+
+[ai]:
+i bought some new shoes.
+
+[user]:
+are they comfortable?
+
+[ai]:
+they're very comfortable.
+
+[user]:
+how much were they?
+
+[ai]:
+they were on sale for $80.
+
+[user]:
+do they help you run faster?
+
+[ai]:
+no, but my feet don't hurt anymore.
+
+[user]:
+then they're worth every penny.
+
+[ai]:
+you might want to buy a pair.
+
+[user]:
+tiger is the greatest golfer in the world.
+
+[ai]:
+you can say that again.
+
+[user]:
+but i'm worried about tiger.
+
+[ai]:
+why is that?
+
+[user]:
+because he likes to scuba dive.
+
+[ai]:
+what's wrong with that?
+
+[user]:
+it can be dangerous.
+
+[ai]:
+you mean he could drown.
+
+[user]:
+he shouldn't scuba dive until he retires.
+
+[ai]:
+but he dives to relax.
+
+[user]:
+he might relax, but it makes me nervous.
+
+[ai]:
+if his wife doesn't mind, you shouldn't mind.
+
+[user]:
+the one that tiger won?
+
+[ai]:
+how did he do it?
+
+[user]:
+it was nothing for him.
+
+[ai]:
+he sank a 20-foot putt on the last hole to win by one stroke!
+
+[user]:
+he sank a 25-footer last year at the same tournament to win by one stroke.
+
+[ai]:
+i think he is from outer space.
+
+[user]:
+no human could possibly play golf that well.
+
+[ai]:
+whenever he needs a shot to win a tournament, he makes that shot.
+
+[user]:
+no human can do that.
+
+[ai]:
+somebody should check his birth record.
+
+[user]:
+who's the greatest baseball player?
+
+[ai]:
+there are so many great players.
+
+[user]:
+yes, but who is the greatest?
+
+[ai]:
+i'd have to say babe ruth.
+
+[user]:
+most people would say that.
+
+[ai]:
+he changed the game.
+
+[user]:
+yes, he made the home run popular.
+
+[ai]:
+everybody loved him, all over the nation.
+
+[user]:
+he helped make the yankees the best team ever.
+
+[ai]:
+and ruth was a good person, too.
+
+[user]:
+he always visited hospitals to cheer up sick kids.
+
+[ai]:
+there will never be another babe.
+
+[user]:
+no, please tell me.
+
+[ai]:
+someone punched out someone.
+
+[user]:
+that's not nice.
+
+[ai]:
+it's worse than that.
+
+[user]:
+how so?
+
+[ai]:
+two guys got into an argument.
+
+[user]:
+i'll bet they were drinking.
+
+[ai]:
+a third guy punched one of the two guys.
+
+[user]:
+i'll bet he was drinking, too.
+
+[ai]:
+the victim hit his head on the concrete steps and died.
+
+[user]:
+i want to go to the ball game.
+
+[ai]:
+is there a game tonight?
+
+[user]:
+yes, it starts at 7 p.m.
+
+[ai]:
+can we get tickets?
+
+[user]:
+yes, but only the cheap tickets.
+
+[ai]:
+how much are they?
+
+[user]:
+they're only $5 each.
+
+[ai]:
+that's a good price.
+
+[user]:
+yes, it's cheaper than a hot dog or a beer.
+
+[ai]:
+where are the seats?
+
+[user]:
+they're behind the outfield.
+
+[ai]:
+maybe we can catch a home run ball.
+
+[user]:
+what's so hard about hitting a little white ball?
+
+[ai]:
+it's hard if you want to do it right.
+
+[user]:
+you mean like tiger?
+
+[ai]:
+no, like a good amateur golfer.
+
+[user]:
+what's so hard about golf?
+
+[ai]:
+there are so many things you have to do right.
+
+[user]:
+like what?
+
+[ai]:
+like keep your left arm straight, keep your head down, and follow through.
+
+[user]:
+yikes! who can remember all that?
+
+[ai]:
+you need to get a lot of lessons when you're really young.
+
+[user]:
+did you hear about the ball player?
+
+[ai]:
+the home run hitter on drugs?
+
+[user]:
+he said a doctor helped him with a personal problem.
+
+[ai]:
+he said he wasn't using drugs.
+
+[user]:
+he apologized to the fans.
+
+[ai]:
+the league suspended him for 50 games.
+
+[user]:
+that will cost him some money.
+
+[ai]:
+yes, about $7 million.
+
+[user]:
+that will teach him a good lesson.
+
+[ai]:
+he probably won't use drugs anymore.
+
+[user]:
+but it won't stop other players from using drugs.
+
+[ai]:
+no. everyone always figures that they won't get caught.
+
+[user]:
+because parents don't teach their kids right from wrong.
+
+[ai]:
+is that it?
+
+[user]:
+also, there aren't enough police.
+
+[ai]:
+but there are a lot of police.
+
+[user]:
+there's only one police officer per 100 criminals.
+
+[ai]:
+can't we hire more police?
+
+[user]:
+no. it costs too much money.
+
+[ai]:
+doesn't crime cost more than police?
+
+[user]:
+yes, it does.
+
+[ai]:
+so it would be cheaper to hire more police?
+
+[user]:
+this is a great neighborhood.
+
+[ai]:
+yes, it is.
+
+[user]:
+people are friendly.
+
+[ai]:
+yes, they are.
+
+[user]:
+the streets and sidewalks are clean.
+
+[ai]:
+yes, they are.
+
+[user]:
+there's a real nice park nearby.
+
+[ai]:
+yes, there is.
+
+[user]:
+i feel safe here.
+
+[ai]:
+there is no crime here.
+
+[user]:
+i wish i could move here.
+
+[ai]:
+maybe you can, if someone moves out.
+
+[user]:
+what happened?
+
+[ai]:
+the man fell asleep.
+
+[user]:
+was he smoking?
+
+[ai]:
+yes, he was smoking a cigarette.
+
+[user]:
+did he die?
+
+[ai]:
+yes, he did. his cat died, too.
+
+[user]:
+that's too bad. what about his smoke alarm?
+
+[ai]:
+the battery was dead.
+
+[user]:
+a good battery would have saved his life.
+
+[ai]:
+he had cigarettes, but no battery.
+
+[user]:
+they say he has started fifteen big fires.
+
+[ai]:
+he's been in jail three times already.
+
+[user]:
+why did they ever let him out?
+
+[ai]:
+it's the law. they can't keep him in jail forever.
+
+[user]:
+why not? everyone knows he's a firebug. he loves to start fires.
+
+[ai]:
+i don't know. sometimes the law doesn't make sense.
+
+[user]:
+but his latest fire killed someone.
+
+[ai]:
+this time they have charged him with murder.
+
+[user]:
+so maybe he'll go to jail forever?
+
+[ai]:
+i sure hope so.
+
+[user]:
+someone should set him on fire.
+
+[ai]:
+that would teach him a good lesson.
+
+[user]:
+why?
+
+[ai]:
+because it will protect you in case of an accident.
+
+[user]:
+but it's uncomfortable.
+
+[ai]:
+it's the law.
+
+[user]:
+it's so much trouble.
+
+[ai]:
+it's common sense.
+
+[user]:
+it's so tight that it's hard for me to breathe.
+
+[ai]:
+hold your breath till we get there.
+
+[user]:
+okay, my seatbelt is on.
+
+[ai]:
+i'm glad you don't complain very much.
+
+[user]:
+what are you doing?
+
+[ai]:
+i'm going to change the light bulb. it burnt out.
+
+[user]:
+what are you standing on?
+
+[ai]:
+a couple of dictionaries and some textbooks.
+
+[user]:
+are you crazy?
+
+[ai]:
+what's the matter?
+
+[user]:
+those books will slip and you'll fall.
+
+[ai]:
+it's only a couple of feet.
+
+[user]:
+what if you fall while you're holding the light bulb, and it breaks and pieces go into your eyes?
+
+[ai]:
+i never thought about that.
+
+[user]:
+you'd be blind for the rest of your life!
+
+[ai]:
+i'll get the stepladder.
+
+[user]:
+yes. i called for a clean-up.
+
+[ai]:
+a puddle of water is very dangerous.
+
+[user]:
+it isn't easy to see.
+
+[ai]:
+but it's real easy to slip on.
+
+[user]:
+especially on these slick floors.
+
+[ai]:
+someone who slips could hurt their back.
+
+[user]:
+they could even crack their head open.
+
+[ai]:
+we should stand here till the clean-up person gets here.
+
+[user]:
+we can leave if we put an orange cone here.
+
+[ai]:
+yes, but i don't know where the orange cones are.
+
+[user]:
+what happens when the fire alarm rings?
+
+[ai]:
+we tell our students to leave the classroom.
+
+[user]:
+can they take their belongings?
+
+[ai]:
+yes, if they do it quickly.
+
+[user]:
+where do the students go?
+
+[ai]:
+they go out to the north parking lot.
+
+[user]:
+what do the teachers do?
+
+[ai]:
+we take our rosters to the parking lot and take roll.
+
+[user]:
+why do you do that?
+
+[ai]:
+we want to make sure all the students are out of the building.
+
+[user]:
+if they are all outside, then what?
+
+[ai]:
+then we just wait outside for a fireman to tell us to go back in.
+
+[user]:
+why? we're already late.
+
+[ai]:
+i have to check the stove.
+
+[user]:
+what's the matter?
+
+[ai]:
+maybe i left the burner on.
+
+[user]:
+no, you didn't. i checked the stove before we left.
+
+[ai]:
+are you sure?
+
+[user]:
+of course i'm sure.
+
+[ai]:
+well, i have to go back upstairs anyway.
+
+[user]:
+it's getting later every minute.
+
+[ai]:
+i think i left the water running.
+
+[user]:
+the city is buying guns.
+
+[ai]:
+what are they paying?
+
+[user]:
+up to $200 for each gun, no questions asked.
+
+[ai]:
+why are they doing this?
+
+[user]:
+they want to get guns off the street.
+
+[ai]:
+who would turn in a gun for $200?
+
+[user]:
+that isn't a good deal?
+
+[ai]:
+a good gun costs $400 or more.
+
+[user]:
+well, if you bring your receipt, maybe they'll give you $400.
+
+[ai]:
+i'll keep my receipt and my gun.
+
+[user]:
+i didn't know you had a gun.
+
+[ai]:
+everyone in america should have a gun.
+
+[user]:
+i sure am.
+
+[ai]:
+you should go to bed.
+
+[user]:
+i will as soon as i finish this article.
+
+[ai]:
+what are you reading?
+
+[user]:
+it's about crime in los angeles.
+
+[ai]:
+what does it say?
+
+[user]:
+the mayor says the crime rate is going down.
+
+[ai]:
+then why does everyone lock their doors?
+
+[user]:
+i guess they haven't read this article.
+
+[ai]:
+no one believes that the crime rate is going down.
+
+[user]:
+people who live in california are crazy.
+
+[ai]:
+why is that?
+
+[user]:
+because of all the earthquakes and fires.
+
+[ai]:
+but big earthquakes happen only once in a while.
+
+[user]:
+once in a while is once too many.
+
+[ai]:
+but you're right. there are a lot of fires.
+
+[user]:
+a recent fire destroyed 85 homes.
+
+[ai]:
+still, it's safer than florida.
+
+[user]:
+florida doesn't have earthquakes or fires.
+
+[ai]:
+no, florida just has hurricanes every year from june to october.
+
+[user]:
+but most of those hurricanes are harmless.
+
+[ai]:
+excuse me. hurricane andrew destroyed 30,000 homes!
+
+[user]:
+did you like it?
+
+[ai]:
+i loved it. i want to live there.
+
+[user]:
+what did you like?
+
+[ai]:
+the island is so green, and the water is so blue.
+
+[user]:
+did you go swimming?
+
+[ai]:
+i went to the beach every day.
+
+[user]:
+how was the weather?
+
+[ai]:
+it was hot and sunny every day.
+
+[user]:
+what did you do at night?
+
+[ai]:
+at night i went out to eat. the food was delicious.
+
+[user]:
+i like this hotel.
+
+[ai]:
+what do you like about it?
+
+[user]:
+we get a free breakfast.
+
+[ai]:
+coffee and a roll?
+
+[user]:
+no, a real breakfast.
+
+[ai]:
+bacon and eggs?
+
+[user]:
+with toast, ham, sausage, fresh fruit, and juice.
+
+[ai]:
+wow! that is nice. let's stay for two nights.
+
+[user]:
+and the rooms are clean, too.
+
+[ai]:
+do they allow pets?
+
+[user]:
+no pets, no smoking.
+
+[ai]:
+i like that. let's stay three nights.
+
+[user]:
+what's the matter? this is a nice room.
+
+[ai]:
+maybe the room is nice, but not the bed.
+
+[user]:
+what's wrong with the bed?
+
+[ai]:
+look at this sheet.
+
+[user]:
+yes?
+
+[ai]:
+see those stains?
+
+[user]:
+i sure do.
+
+[ai]:
+i'm not sleeping on that sheet.
+
+[user]:
+well, just call the front desk. they'll give us new sheets.
+
+[ai]:
+i want sheets without stains on them.
+
+[user]:
+what time does your plane leave?
+
+[ai]:
+it leaves at 12:15.
+
+[user]:
+when do you have to be at the airport?
+
+[ai]:
+i have to be there two hours early.
+
+[user]:
+so we have to be at the airport at 10:15.
+
+[ai]:
+that means we have to leave the house at 9:15.
+
+[user]:
+well, it's an hour to get there, if there are no traffic problems.
+
+[ai]:
+so maybe we better leave at 8:15?
+
+[user]:
+yes, it's better to get there too early than too late.
+
+[ai]:
+i agree.
+
+[user]:
+you never know what might happen on these freeways.
+
+[ai]:
+there's at least one huge accident every day.
+
+[user]:
+when are you going?
+
+[ai]:
+during the christmas holidays.
+
+[user]:
+you'd better buy your ticket now.
+
+[ai]:
+you must be kidding.
+
+[user]:
+no, i'm not. it's march. time is running out. seats are selling out right now.
+
+[ai]:
+i thought i would wait until october.
+
+[user]:
+i'll bet this is the first time you've ever flown during christmas.
+
+[ai]:
+you're right.
+
+[user]:
+well, listen to me. you need to buy a ticket now.
+
+[ai]:
+but maybe prices will be cheaper in october.
+
+[user]:
+i hate flying.
+
+[ai]:
+so do i.
+
+[user]:
+a long time ago, flying used to be okay.
+
+[ai]:
+now it's like riding a bus.
+
+[user]:
+you're jammed in with people all around you.
+
+[ai]:
+half of them are coughing, and the other half are sneezing.
+
+[user]:
+you don't have any elbow room or knee room.
+
+[ai]:
+people are always getting up to use the bathroom.
+
+[user]:
+kids are crying or climbing over you.
+
+[ai]:
+it's a flying zoo!
+
+[user]:
+i wish i could afford first class seats.
+
+[ai]:
+doesn't everybody?
+
+[user]:
+good for him.
+
+[ai]:
+why would he do that?
+
+[user]:
+did he set a new record?
+
+[ai]:
+yes, i think he did.
+
+[user]:
+well, i guess that's why he did it.
+
+[ai]:
+what's the point?
+
+[user]:
+now he has the world record!
+
+[ai]:
+but someone's going to break it, so what good is it?
+
+[user]:
+well, he can enjoy it while it lasts.
+
+[ai]:
+i don't think he even got paid for it.
+
+[user]:
+i want to go on a cruise ship.
+
+[ai]:
+that sounds like fun. where do you want to go?
+
+[user]:
+i want to cruise to hawaii.
+
+[ai]:
+that should be a nice trip. lots of fun, and lots of food.
+
+[user]:
+i have no idea how much it will cost.
+
+[ai]:
+i think it depends on the season and on your cabin.
+
+[user]:
+well, of course i want to go when the weather is nice.
+
+[ai]:
+yes, you don't want to travel in winter storms.
+
+[user]:
+and i want to get a big cabin with a view.
+
+[ai]:
+are you going to travel alone?
+
+[user]:
+no, my sister and i will travel together.
+
+[ai]:
+well, you should go online and try to find a good deal.
+
+[user]:
+because of all the security?
+
+[ai]:
+no, because it hurts my ears.
+
+[user]:
+what do you mean?
+
+[ai]:
+every time we land or take off, my ears hurt so much.
+
+[user]:
+that's just the altitude change, i think.
+
+[ai]:
+whatever it is, it hurts.
+
+[user]:
+can't you take medicine or something for it?
+
+[ai]:
+i've tried everything, but nothing works.
+
+[user]:
+have you tried earplugs?
+
+[ai]:
+they don't work, either.
+
+[user]:
+spring break starts tomorrow.
+
+[ai]:
+are you going to go anywhere?
+
+[user]:
+i was thinking of driving to arizona.
+
+[ai]:
+to the grand canyon?
+
+[user]:
+yes. i've never been there.
+
+[ai]:
+i was there when i was a kid.
+
+[user]:
+how did you like it?
+
+[ai]:
+i loved it. i still remember how amazing it was.
+
+[user]:
+i'm sure i'll like it, too.
+
+[ai]:
+you should try riding a mule on a trail to the bottom.
+
+[user]:
+no way! i don't want to fall to my death.
+
+[ai]:
+don't worry. only one person has ever fallen off a mule.
+
+[user]:
+the worst in the whole world.
+
+[ai]:
+the walls were so thin.
+
+[user]:
+all day long we heard tvs or telephones.
+
+[ai]:
+all night long we heard people snoring.
+
+[user]:
+housekeeping didn't give us fresh towels.
+
+[ai]:
+room service brought us a cold dinner.
+
+[user]:
+our nonsmoking room stunk of cigarette smoke.
+
+[ai]:
+our room was right next to the elevator and the ice machine.
+
+[user]:
+they added phony charges to our bill.
+
+[ai]:
+how did we end up in that terrible hotel?
+
+[user]:
+i have to hang up. i'm so sleepy.
+
+[ai]:
+it's not even 10 o'clock.
+
+[user]:
+i'm falling asleep on the phone.
+
+[ai]:
+you got up real early.
+
+[user]:
+i had to take my friend to the airport.
+
+[ai]:
+why didn't you take a nap when you got home?
+
+[user]:
+i didn't get home until 30 minutes ago.
+
+[ai]:
+why is that?
+
+[user]:
+there was a bomb threat at the airport.
+
+[ai]:
+only a threat?
+
+[user]:
+yes, but i was stuck there all day while they looked for the bomb.
+
+[ai]:
+someday the bomb is going to be for real.
+
+[user]:
+why did he do that?
+
+[ai]:
+he was invited, along with about 90 other veterans.
+
+[user]:
+who invited them?
+
+[ai]:
+some private organization.
+
+[user]:
+why did they invite him?
+
+[ai]:
+to thank him and all the other soldiers who served in world war ii.
+
+[user]:
+that's very nice.
+
+[ai]:
+my dad got to see the beautiful new world war ii monument.
+
+[user]:
+that trip must have cost a lot of money. 
+
+[ai]:
+he said all the money came from private donations.
+
+[user]:
+tell me about it, dad.
+
+[ai]:
+about 90 of us world war ii veterans got on the plane at 8 a.m.
+
+[user]:
+how long was the flight?
+
+[ai]:
+it only took about two hours.
+
+[user]:
+did you take pictures at the world war ii monument?
+
+[ai]:
+oh, yes. we all took lots of pictures.
+
+[user]:
+then you flew back home that evening?
+
+[ai]:
+yes. when we landed, tv reporters and the army band were there.
+
+[user]:
+that must have made you feel really special.
+
+[ai]:
+oh, it did. there were about 300 people there to honor us.
+
+[user]:
+i need a job.
+
+[ai]:
+i thought you had a job.
+
+[user]:
+i did.
+
+[ai]:
+what happened?
+
+[user]:
+i got laid off.
+
+[ai]:
+that's terrible! when did it happen?
+
+[user]:
+i got laid off last week.
+
+[ai]:
+just you?
+
+[user]:
+no, ten of my coworkers got laid off, too.
+
+[ai]:
+what are you going to do?
+
+[user]:
+i'm looking in the newspaper for a job.
+
+[ai]:
+good luck!
+
+[user]:
+what's to check?
+
+[ai]:
+are your nails clean?
+
+[user]:
+yes, they are.
+
+[ai]:
+did you double-check your nose and teeth?
+
+[user]:
+they are clean, too.
+
+[ai]:
+did you shine your shoes?
+
+[user]:
+my shoes are shined.
+
+[ai]:
+do your socks match?
+
+[user]:
+of course they match.
+
+[ai]:
+no, they don't. one is black and one is dark blue.
+
+[user]:
+life is hard.
+
+[ai]:
+it sure is.
+
+[user]:
+i thought school was hard.
+
+[ai]:
+me, too. i couldn't wait to graduate.
+
+[user]:
+but now work is hard, too.
+
+[ai]:
+i agree. work is just as hard as school.
+
+[user]:
+sometimes i wish i was back in school.
+
+[ai]:
+me, too. school was fun.
+
+[user]:
+and it was only 12 years.
+
+[ai]:
+it went by pretty fast.
+
+[user]:
+but work goes on forever!
+
+[ai]:
+we have to work for 30 years!
+
+[user]:
+so am i.
+
+[ai]:
+i had a long day.
+
+[user]:
+so did i.
+
+[ai]:
+i didn't even have lunch.
+
+[user]:
+neither did i.
+
+[ai]:
+i was busy the whole day.
+
+[user]:
+so was i.
+
+[ai]:
+i had to bring work home with me.
+
+[user]:
+i did too.
+
+[ai]:
+your day was just like mine.
+
+[user]:
+i don't like my job.
+
+[ai]:
+what do you do?
+
+[user]:
+i'm a babysitter.
+
+[ai]:
+is that a lot of work?
+
+[user]:
+babies cry all the time.
+
+[ai]:
+you have to change their diapers.
+
+[user]:
+i have to feed them.
+
+[ai]:
+are you looking for another job?
+
+[user]:
+no, i'm looking for another family.
+
+[ai]:
+another family?
+
+[user]:
+a family with only one baby.
+
+[ai]:
+that's a good idea.
+
+[user]:
+what was your last job?
+
+[ai]:
+i was a painter.
+
+[user]:
+what happened?
+
+[ai]:
+i got laid off because there was no work.
+
+[user]:
+what else can you do?
+
+[ai]:
+i'm a handyman.
+
+[user]:
+can you fix a dripping faucet in a kitchen sink?
+
+[ai]:
+of course.
+
+[user]:
+then i have a job for you in my kitchen.
+
+[ai]:
+it will cost you only $20 plus parts.
+
+[user]:
+what would you do if you lost your job?
+
+[ai]:
+i have no idea. i've been here for 20 years.
+
+[user]:
+do you have any other skills?
+
+[ai]:
+well, i know how to flip hamburgers.
+
+[user]:
+no one would hire you to flip hamburgers.
+
+[ai]:
+have you heard something that you're not telling me?
+
+[user]:
+what do you mean?
+
+[ai]:
+are there going to be layoffs at this place?
+
+[user]:
+i certainly hope not!
+
+[ai]:
+if you got laid off, you'd be flipping hamburgers, too.
+
+[user]:
+oh great, we could both work at burger king.
+
+[ai]:
+maybe we'd get laid off there, too.
+
+[user]:
+yes, and they ask me what jobs are the best.
+
+[ai]:
+i tell my students to become a teacher.
+
+[user]:
+teaching is a great job.
+
+[ai]:
+it's the best job i've ever had.
+
+[user]:
+what makes it so good?
+
+[ai]:
+for me, it's the students.
+
+[user]:
+what do you mean?
+
+[ai]:
+i mean i have wonderful students.
+
+[user]:
+that must be nice.
+
+[ai]:
+teaching is the best part of my whole day.
+
+[user]:
+boy, i'm glad that job is finished.
+
+[ai]:
+how long did it take?
+
+[user]:
+four hours, without a break.
+
+[ai]:
+it's always nice to finish a job.
+
+[user]:
+well, it's good and bad.
+
+[ai]:
+what's bad about it?
+
+[user]:
+when you finish, all you do is start another job!
+
+[ai]:
+yes, that's right. it does get boring.
+
+[user]:
+especially if it's the same work, over and over.
+
+[ai]:
+but that's what most people do.
+
+[user]:
+yes, i guess most of us are stuck in a routine.
+
+[ai]:
+i wonder if there is any job that you don't repeat over and over.
+
+[user]:
+what makes him so bad?
+
+[ai]:
+he's rude and he yells a lot.
+
+[user]:
+that's hard to take.
+
+[ai]:
+i've never heard him say please or thank you.
+
+[user]:
+he sounds like a real jerk.
+
+[ai]:
+no one at work likes him.
+
+[user]:
+can't you report him to his supervisor?
+
+[ai]:
+of course not. if i do that, i'll lose my job.
+
+[user]:
+yes, they don't like troublemakers or complainers.
+
+[ai]:
+i can't quit, because i'm making a good salary.
+
+[user]:
+what are we going to do?
+
+[ai]:
+about what?
+
+[user]:
+about finding a job for me.
+
+[ai]:
+you don't need a job. i make enough money for both of us.
+
+[user]:
+that doesn't matter. i don't want to sit around.
+
+[ai]:
+okay, what kind of job do you want?
+
+[user]:
+i'm not sure.
+
+[ai]:
+well, you should do something that you enjoy.
+
+[user]:
+i enjoy selling. i was born to sell.
+
+[ai]:
+okay, what do you want to sell?
+
+[user]:
+cigarette lighters. i'll make a fortune.
+
+[ai]:
+but you hate cigarettes and you hate smoking!
+
+[user]:
+yes, i saw it on the tv news.
+
+[ai]:
+they need 300 new workers.
+
+[user]:
+and 4,000 people showed up.
+
+[ai]:
+so many people are out of work.
+
+[user]:
+i still have my job, thank goodness.
+
+[ai]:
+so do i, but i'm worried.
+
+[user]:
+me too. there are no guarantees.
+
+[ai]:
+if you lose your job, you can move in with me.
+
+[user]:
+oh, thank you. that's very nice of you.
+
+[ai]:
+you would do the same for me.
+
+[user]:
+i think i did something real stupid.
+
+[ai]:
+what did you do?
+
+[user]:
+i bought some stock.
+
+[ai]:
+everybody buys stock.
+
+[user]:
+i bought it on a hunch.
+
+[ai]:
+you didn't read about the company first?
+
+[user]:
+i didn't have to. it's been in business for 60 years.
+
+[ai]:
+so what's the problem?
+
+[user]:
+i used all my savings on this one company.
+
+[ai]:
+you put all your eggs into one basket.
+
+[user]:
+if the company goes out of business, i'll have nothing.
+
+[ai]:
+oh, you'll have somethingÂ—you'll have a lesson you'll never forget!
+
+[user]:
+what happened to your plans?
+
+[ai]:
+i got a d in college chemistry.
+
+[user]:
+well, a d is better than an f.
+
+[ai]:
+a tutor helped me get the d!
+
+[user]:
+so, you didn't become a doctor.
+
+[ai]:
+and now i'm glad that i didn't.
+
+[user]:
+why's that?
+
+[ai]:
+a hospital is the most dangerous place in the world.
+
+[user]:
+oh, yes, because of all the killer germs.
+
+[ai]:
+if you're a smart doctor, you stay away from hospitals.
+
+[user]:
+i want to be a mail carrier when i grow up.
+
+[ai]:
+why?
+
+[user]:
+because you get to meet a lot of people.
+
+[ai]:
+you sure do.
+
+[user]:
+and you get a lot of exercise every day.
+
+[ai]:
+that's the truth.
+
+[user]:
+and you get to play with a lot of dogs.
+
+[ai]:
+well, you're supposed to be working.
+
+[user]:
+yes, but i will always pet the friendly dogs.
+
+[ai]:
+what about the unfriendly dogs?
+
+[user]:
+i think if you are friendly to dogs, they are friendly to you.
+
+[ai]:
+dogs are like peopleÂ—not all of them are friendly.
+
+[user]:
+to the state or the city?
+
+[ai]:
+to the city, of course.
+
+[user]:
+why do you want to move there?
+
+[ai]:
+because i want to make a lot of money.
+
+[user]:
+there are a lot of poor people in new york.
+
+[ai]:
+there sure areÂ—at least a million.
+
+[user]:
+so how do you plan to become rich?
+
+[ai]:
+i will knock on the doors of all the corporations.
+
+[user]:
+that won't make you rich. nobody will talk to you.
+
+[ai]:
+i will keep knocking on doors.
+
+[user]:
+i love salads.
+
+[ai]:
+me too.
+
+[user]:
+i usually eat a simple salad.
+
+[ai]:
+what do you put in it?
+
+[user]:
+just lettuce, tomato, and celery.
+
+[ai]:
+that's it?
+
+[user]:
+i add some pepper and salt.
+
+[ai]:
+i always put cheese in my salads.
+
+[user]:
+yes, cheese is nice.
+
+[ai]:
+what kind of dressing do you use?
+
+[user]:
+i pour lots of french dressing on top.
+
+[ai]:
+me too. french dressing is so delicious! who cares about calories?
+
+[user]:
+me too.
+
+[ai]:
+where does cheese come from?
+
+[user]:
+it comes from cows.
+
+[ai]:
+so we get cheese from cows, and we get milk, too?
+
+[user]:
+yes, we do.
+
+[ai]:
+what else do we get from cows?
+
+[user]:
+we get hamburgers and steak.
+
+[ai]:
+oh, that's so delicious.
+
+[user]:
+we also get leather.
+
+[ai]:
+we get a lot of things from cows, don't we?
+
+[user]:
+i used to work in a deli.
+
+[ai]:
+how did you like it?
+
+[user]:
+i loved it!
+
+[ai]:
+did you get free food?
+
+[user]:
+i ate free cheese and meat every day.
+
+[ai]:
+that sounds like a great job.
+
+[user]:
+whatever a customer ordered, i sliced off a little more for me.
+
+[ai]:
+did you get fat?
+
+[user]:
+no, but i did put on a few pounds.
+
+[ai]:
+that sounds like a dream job.
+
+[user]:
+it was, until one day my manager caught me.
+
+[ai]:
+no more free cheese for you, huh?
+
+[user]:
+what are you eating now?
+
+[ai]:
+i switched from pasta to potatoes.
+
+[user]:
+why did you do that?
+
+[ai]:
+pasta is processed food. potatoes are natural food.
+
+[user]:
+natural food has more vitamins.
+
+[ai]:
+and it's just as easy to prepare.
+
+[user]:
+how do you prepare the potatoes?
+
+[ai]:
+i wash them, and then steam them for 15 minutes.
+
+[user]:
+that's pretty simple.
+
+[ai]:
+then i add butter, salt, and pepper.
+
+[user]:
+my girlfriend's mom got mad at me at the dinner table.
+
+[ai]:
+why was that?
+
+[user]:
+i sprinkled salt and pepper on the food before i tasted it.
+
+[ai]:
+what's the matter with that?
+
+[user]:
+her mom is a great cook.
+
+[ai]:
+so, a little salt and pepper never hurt anything.
+
+[user]:
+it hurt her feelings.
+
+[ai]:
+oh.
+
+[user]:
+i apologized to her, but i could tell she was still upset.
+
+[ai]:
+maybe you shouldn't eat there again.
+
+[user]:
+i'm sure everything will be okay in a day or two.
+
+[ai]:
+it's your girlfriend's fault. she should have warned you.
+
+[user]:
+you're kidding.
+
+[ai]:
+no, i'm serious.
+
+[user]:
+doesn't that get old?
+
+[ai]:
+no, because i'm eating food that i like.
+
+[user]:
+but the same thing day after day gets old.
+
+[ai]:
+well, i guess if it ever does get old, i'll change to something different.
+
+[user]:
+do you eat fruits and vegetables every day?
+
+[ai]:
+no, i hate vegetables.
+
+[user]:
+but you eat fruits.
+
+[ai]:
+i eat two apples, one banana, and one orange every day.
+
+[user]:
+there's something wrong with my orange.
+
+[ai]:
+what's wrong?
+
+[user]:
+it's not orange!
+
+[ai]:
+your orange isn't orange?
+
+[user]:
+no, it's dark pink!
+
+[ai]:
+are you sure? i never heard of such a thing.
+
+[user]:
+i just peeled it, and i'm looking at it right now.
+
+[ai]:
+let me see. yes, you're right. your orange is pink.
+
+[user]:
+who ever heard of such a thing?
+
+[ai]:
+oh, look. here's the little sticker that was on it. it's called a pink navel.
+
+[user]:
+what is this world coming to?
+
+[ai]:
+who knows? maybe soon we'll have pink bananas.
+
+[user]:
+me, too. i love them roasted and salted.
+
+[ai]:
+i love boiled peanuts.
+
+[user]:
+boiled? i never heard of that.
+
+[ai]:
+just boil raw peanuts in salt water until the shells are soft.
+
+[user]:
+i'll have to try them sometime.
+
+[ai]:
+they're best when they're hot.
+
+[user]:
+my brother is allergic to peanuts.
+
+[ai]:
+that's not good.
+
+[user]:
+no, it isn't. he almost died when he was little.
+
+[ai]:
+i guess he has to be very careful about what he eats.
+
+[user]:
+i'm gaining weight.
+
+[ai]:
+how much have you gained?
+
+[user]:
+three pounds just this month.
+
+[ai]:
+do you know why?
+
+[user]:
+i think it's the ice cream.
+
+[ai]:
+you started eating ice cream?
+
+[user]:
+it was on sale.
+
+[ai]:
+how much did you buy?
+
+[user]:
+i filled up my freezer with ice cream.
+
+[ai]:
+well, it won't last forever.
+
+[user]:
+no, i figure i'll finish it all by next week.
+
+[ai]:
+then you can start losing weight, if there isn't another sale.
+
+[user]:
+of course you are. you ate everything on the table.
+
+[ai]:
+i don't like to eat leftovers.
+
+[user]:
+i'm glad to hear there's something you don't like to eat.
+
+[ai]:
+i like my food hot and fresh.
+
+[user]:
+you like to see it disappear.
+
+[ai]:
+i don't like it reheated.
+
+[user]:
+well, you'll have hot fresh food tomorrow night.
+
+[ai]:
+i'm so full i'm going to burst.
+
+[user]:
+you should loosen your belt.
+
+[ai]:
+i already loosened my belt and unbuttoned my pants.
+
+[user]:
+i saw what you did.
+
+[ai]:
+i didn't do anything.
+
+[user]:
+oh yes, you did.
+
+[ai]:
+what are you talking about?
+
+[user]:
+you know what i'm talking about.
+
+[ai]:
+i don't have any idea.
+
+[user]:
+you know what you did.
+
+[ai]:
+maybe i know, but how could you know?
+
+[user]:
+because i was watching you.
+
+[ai]:
+okay, i'm sorry i did it.
+
+[user]:
+don't drink milk out of the carton. use a glass!
+
+[ai]:
+i promise i'll never drink out of the carton again.
+
+[user]:
+so do i.
+
+[ai]:
+how much is it?
+
+[user]:
+i don't know. the tag is missing.
+
+[ai]:
+ask the clerk.
+
+[user]:
+i will.
+
+[ai]:
+oh, look. here's another shirt just like it.
+
+[user]:
+does it have a price tag?
+
+[ai]:
+yes, it does. it's only $20.
+
+[user]:
+that's a great price.
+
+[ai]:
+i think i'll buy both of them.
+
+[user]:
+i bought you a pair of pants.
+
+[ai]:
+thank you.
+
+[user]:
+i hope they fit.
+
+[ai]:
+i hope you kept the receipt.
+
+[user]:
+you think they won't fit?
+
+[ai]:
+i think i've put on some weight.
+
+[user]:
+you think?
+
+[ai]:
+maybe a pound or two.
+
+[user]:
+maybe four or five pounds?
+
+[ai]:
+my waist is bigger than it was.
+
+[user]:
+no problem. these pants have an elastic waistband.
+
+[ai]:
+you are so smart!
+
+[user]:
+let me look at our list.
+
+[ai]:
+i know that we need milk.
+
+[user]:
+nonfat.
+
+[ai]:
+of course. what else?
+
+[user]:
+we need cheese, bread, and ham.
+
+[ai]:
+what kind of cheese?
+
+[user]:
+swiss.
+
+[ai]:
+of course, the cheese with holes in it.
+
+[user]:
+i never used to buy swiss cheese.
+
+[ai]:
+why not?
+
+[user]:
+i need some pants.
+
+[ai]:
+i thought you just bought a pair.
+
+[user]:
+i did.
+
+[ai]:
+what's wrong with them so soon?
+
+[user]:
+the pants are fine, but the pocket has a huge hole in it.
+
+[ai]:
+you shouldn't carry your keys and pens in your pocket.
+
+[user]:
+but that's what pockets are for.
+
+[ai]:
+you should carry them in a purse.
+
+[user]:
+i'm a man, and men don't carry purses!
+
+[ai]:
+well, you should buy pants with stronger pockets.
+
+[user]:
+i would if i could find someone who makes strong pockets.
+
+[ai]:
+try a google search online.
+
+[user]:
+you use them to wipe the handle of the shopping cart.
+
+[ai]:
+that's a great idea.
+
+[user]:
+yes, all the markets just started offering wipes to shoppers.
+
+[ai]:
+i'm going to take five wipes.
+
+[user]:
+what do you need five of them for?
+
+[ai]:
+one to wipe the handle, and the others to wipe the produce.
+
+[user]:
+what's the matter with the produce?
+
+[ai]:
+do you think the bananas fell from the sky?
+
+[user]:
+what do you mean?
+
+[ai]:
+i mean, someone used their dirty hands to pick the bananas, the apples, and the oranges.
+
+[user]:
+did you go to the 99 cents store?
+
+[ai]:
+yes, i did.
+
+[user]:
+what did you buy?
+
+[ai]:
+well, i got a lot of good deals, as usual.
+
+[user]:
+like what?
+
+[ai]:
+well, a dozen large eggs were only 99 cents.
+
+[user]:
+that's a good deal.
+
+[ai]:
+and a one-pound tub of soft butter was the same price.
+
+[user]:
+another good deal.
+
+[ai]:
+but the best deal was five pounds of potatoes for 99 cents.
+
+[user]:
+i don't know how that store makes money.
+
+[ai]:
+neither do i, but they're doing something right.
+
+[user]:
+what's the matter with yours?
+
+[ai]:
+it's six years old.
+
+[user]:
+that's pretty old.
+
+[ai]:
+it still works, but i'm going to give it to a charity.
+
+[user]:
+are you going to buy a desktop or laptop?
+
+[ai]:
+oh, a laptop, of course.
+
+[user]:
+a pc or a mac?
+
+[ai]:
+i haven't decided yet.
+
+[user]:
+more and more people are using macs.
+
+[ai]:
+but 90 percent of the world uses pcs.
+
+[user]:
+i got ripped off.
+
+[ai]:
+what happened?
+
+[user]:
+i had a car problem, so i went online.
+
+[ai]:
+did you find a solution?
+
+[user]:
+yes, i did. a site i went to said they would send me the solution.
+
+[ai]:
+so, what's the problem?
+
+[user]:
+i sent them $20 using my credit card, but they never sent me the solution.
+
+[ai]:
+what are you going to do?
+
+[user]:
+i sent them an email asking for my money back.
+
+[ai]:
+have you heard from them?
+
+[user]:
+not yet. it's been a week.
+
+[ai]:
+well, i guess that's a $20 lesson for you.
+
+[user]:
+which one?
+
+[ai]:
+any one. i need to sharpen this pencil.
+
+[user]:
+i think there's one on the dining room table.
+
+[ai]:
+i already looked there.
+
+[user]:
+did you look in the desk drawer?
+
+[ai]:
+yes, i looked there, too.
+
+[user]:
+don't we have about five sharpeners?
+
+[ai]:
+yes, but they seem to have legs.
+
+[user]:
+tomorrow i'm going to buy an electric sharpener.
+
+[ai]:
+get one with the rubber suction cups on the bottom.
+
+[user]:
+i'm trying to stretch my dollars.
+
+[ai]:
+how are you doing that?
+
+[user]:
+i started shopping at the dollar store.
+
+[ai]:
+that saves a lot of money.
+
+[user]:
+i bought three pounds of potatoes for a dollar.
+
+[ai]:
+that's a good deal.
+
+[user]:
+yes, even though some of the potatoes had eyes.
+
+[ai]:
+just put them in the fridge.
+
+[user]:
+also, i bought a can of cheap coffee and a bag of good coffee.
+
+[ai]:
+why did you do that?
+
+[user]:
+i mixed them together.
+
+[ai]:
+if the coffee still tastes okay, that's a good idea.
+
+[user]:
+can we afford it?
+
+[ai]:
+they want 20 percent down.
+
+[user]:
+that's a lot of money.
+
+[ai]:
+but the house is so nice.
+
+[user]:
+it's in a great neighborhood.
+
+[ai]:
+it's close to the beach.
+
+[user]:
+it's close to the freeways.
+
+[ai]:
+it's got a big yard.
+
+[user]:
+the kids love the house, too.
+
+[ai]:
+if we don't buy it, someone else will.
+
+[user]:
+we can't afford this house.
+
+[ai]:
+are you sure?
+
+[user]:
+we will be house rich, but cash poor.
+
+[ai]:
+what do you mean?
+
+[user]:
+our monthly payments will be too high.
+
+[ai]:
+we won't have any money for other things?
+
+[user]:
+no, we won't have money for gas or food.
+
+[ai]:
+we'll be eating peanut butter sandwiches?
+
+[user]:
+without the peanut butter!
+
+[ai]:
+that's no good!
+
+[user]:
+we have to find a cheaper house.
+
+[ai]:
+of course. we can't live without gas or peanut butter.
+
+[user]:
+i don't like it.
+
+[ai]:
+what's the matter with it?
+
+[user]:
+it's on the corner.
+
+[ai]:
+so?
+
+[user]:
+that means it gets twice as much traffic.
+
+[ai]:
+you're right.
+
+[user]:
+when you're inside, you will always hear cars stopping and stopping at the intersection.
+
+[ai]:
+or you'll hear the collision if someone doesn't stop.
+
+[user]:
+or you'll see the collision if they crash into the house.
+
+[ai]:
+let's find a house that's at the end of a dead end.
+
+[user]:
+i hate looking for an apartment.
+
+[ai]:
+me, too.
+
+[user]:
+we have a 2 o'clock appointment to see the one on main street.
+
+[ai]:
+we'd better get ready to go.
+
+[user]:
+it's an upstairs unit.
+
+[ai]:
+that's good, because i don't want to live under people with loud feet.
+
+[user]:
+and it's a corner unit.
+
+[ai]:
+that's great. we won't have neighbors on both sides of us.
+
+[user]:
+no pets are allowed.
+
+[ai]:
+perfect. we don't have to listen to barking dogs.
+
+[user]:
+and there are only six units in the whole building.
+
+[ai]:
+where's the checkbook? i'm ready to rent it without even seeing it.
+
+[user]:
+yes. he said he'd come over tomorrow.
+
+[ai]:
+did he say what time?
+
+[user]:
+yes. he said he'd be here at 9 o'clock.
+
+[ai]:
+did he understand what the problem is?
+
+[user]:
+yes. i told him our doorbell doesn't work.
+
+[ai]:
+it shouldn't take him long to fix it.
+
+[user]:
+i don't even know why we need to fix it.
+
+[ai]:
+in case we have visitors.
+
+[user]:
+but they can just knock on the door.
+
+[ai]:
+actually, i want him to look at our carpet, too.
+
+[user]:
+do you like this house?
+
+[ai]:
+yes, it's beautiful.
+
+[user]:
+it's perfect for us and the kids.
+
+[ai]:
+three bedrooms, three bathrooms, and a big back yard.
+
+[user]:
+and we can afford it!
+
+[ai]:
+so are we going to buy it?
+
+[user]:
+i'm afraid not.
+
+[ai]:
+it's too far from your job, isn't it?
+
+[user]:
+i can't spend four hours on the road every day.
+
+[ai]:
+by the time you get home, you'll be too tired to even eat.
+
+[user]:
+i won't be able to play with the kids.
+
+[ai]:
+no, we have to find something closer to your job.
+
+[user]:
+it sure is.
+
+[ai]:
+in fact, it's chilly in the apartment, too.
+
+[user]:
+let's turn on the heat.
+
+[ai]:
+i'll check to make sure that all the windows are shut.
+
+[user]:
+it should be warmer in a few minutes.
+
+[ai]:
+it's so nice to have a heated apartment.
+
+[user]:
+how did they survive in the old days?
+
+[ai]:
+they had fireplaces.
+
+[user]:
+someone had to chop the wood.
+
+[ai]:
+and carry it into the house.
+
+[user]:
+this is a nice neighborhood.
+
+[ai]:
+the streets are clean and quiet.
+
+[user]:
+the neighbors don't party on the weekends.
+
+[ai]:
+people take care of their lawns.
+
+[user]:
+no rusty old cars are sitting in the front yards.
+
+[ai]:
+we never have to call the police about anything.
+
+[user]:
+our kids are completely safe.
+
+[ai]:
+so why are we selling our house?
+
+[user]:
+they're building a 3-story apartment building on the corner.
+
+[ai]:
+so we've got to sell before property values go down?
+
+[user]:
+yes. i still can't believe our city council allowed this building.
+
+[ai]:
+they're probably getting something under the table.
+
+[user]:
+yes, it was.
+
+[ai]:
+they said about 30 houses burned to the ground.
+
+[user]:
+and they were expensive houses.
+
+[ai]:
+i feel so sorry for those people.
+
+[user]:
+why feel sorry for rich people?
+
+[ai]:
+i feel sorry for anyone who loses their home.
+
+[user]:
+so do i, but not if they're rich.
+
+[ai]:
+what does that have to do with it?
+
+[user]:
+rich people think they're better than us.
+
+[ai]:
+how many rich people do you know?
+
+[user]:
+bears are invading our neighborhoods.
+
+[ai]:
+of course they are. they're starving to death.
+
+[user]:
+they should stay in the woods where they belong.
+
+[ai]:
+there's no food in the woods.
+
+[user]:
+can't they eat grass?
+
+[ai]:
+do you think a bear is a cow?
+
+[user]:
+well, i've seen them eating berries.
+
+[ai]:
+berries aren't in season all year round.
+
+[user]:
+it's too dangerous for kids and pets.
+
+[ai]:
+people need to cover their trash cans.
+
+[user]:
+the police need to shoot all the bears.
+
+[ai]:
+you don't solve a problem by shooting it.
+
+[user]:
+i voted for obama.
+
+[ai]:
+me too.
+
+[user]:
+he will be a great president.
+
+[ai]:
+everyone likes him.
+
+[user]:
+he's a good speaker.
+
+[ai]:
+and he's really smart.
+
+[user]:
+he will solve our problems.
+
+[ai]:
+he will end the war.
+
+[user]:
+the next four years will be good years.
+
+[ai]:
+i'll vote for him next time, too.
+
+[user]:
+the election is next week.
+
+[ai]:
+who are you voting for?
+
+[user]:
+i'm not voting for the mayor.
+
+[ai]:
+why not?
+
+[user]:
+he made promises that he didn't keep.
+
+[ai]:
+like what?
+
+[user]:
+he promised to hire 1,000 more police officers.
+
+[ai]:
+how many did he hire?
+
+[user]:
+one hundred!
+
+[ai]:
+maybe he had a good reason.
+
+[user]:
+maybe he's just a liar.
+
+[ai]:
+maybe i'll vote for someone else, too.
+
+[user]:
+only 15 percent of the voters turned out.
+
+[ai]:
+that is a joke.
+
+[user]:
+voting is so important, but people don't bother.
+
+[ai]:
+many people think their vote doesn't matter.
+
+[user]:
+the mayor won by only 2,000 votes.
+
+[ai]:
+we're stuck with him for four more years.
+
+[user]:
+voting is so easy. you can even mail your ballot in.
+
+[ai]:
+all you have to do is vote and put a stamp on it.
+
+[user]:
+how easy is that?
+
+[ai]:
+i guess people just don't care.
+
+[user]:
+well, we have a new president.
+
+[ai]:
+but we have the same old problems.
+
+[user]:
+well, he's made a few changes.
+
+[ai]:
+like what?
+
+[user]:
+i think he closed the bowling alley in the white house.
+
+[ai]:
+oh, yeah. he's changing it to a basketball court.
+
+[user]:
+who's paying for that?
+
+[ai]:
+i think we are!
+
+[user]:
+well, that's okay, as long as it helps him relax and think more clearly.
+
+[ai]:
+yes, we need a relaxed president who thinks clearly.
+
+[user]:
+do any other world leaders have a basketball court?
+
+[ai]:
+they will. you know america always leads the way.
+
+[user]:
+well, more than 50 million people voted for mccain.
+
+[ai]:
+that's 50 million people who don't love obama.
+
+[user]:
+obama's got four years to make everyone happy.
+
+[ai]:
+he's never going to make everyone happy.
+
+[user]:
+can you imagine being president?
+
+[ai]:
+everyone wants you to solve their problems.
+
+[user]:
+i have enough stress from trying to solve my own problems.
+
+[ai]:
+you and everybody else.
+
+[user]:
+i would never want to be president.
+
+[ai]:
+but think about all the power you'd have.
+
+[user]:
+did you read this article?
+
+[ai]:
+what article?
+
+[user]:
+it says the mayor spends only 11 percent of his time on city duties.
+
+[ai]:
+only 11 percent?
+
+[user]:
+about 50 percent of the time he's traveling.
+
+[ai]:
+where does he travel to?
+
+[user]:
+oh, all over the world.
+
+[ai]:
+but he's supposed to be making our city a better place.
+
+[user]:
+he's visiting other cities to get ideas.
+
+[ai]:
+can't he just go online?
+
+[user]:
+the rest of the time he's raising money for his reelection.
+
+[ai]:
+well, he'll never get reelected once this news gets out.
+
+[user]:
+i voted for ralph nader.
+
+[ai]:
+who in the world is ralph nader?
+
+[user]:
+he's the best man for president.
+
+[ai]:
+why's that?
+
+[user]:
+he hates corporations.
+
+[ai]:
+well, most corporations do think only about money.
+
+[user]:
+he hates democrats and republicans.
+
+[ai]:
+well, they do put their party before their country.
+
+[user]:
+he's the only candidate that i trust.
+
+[ai]:
+but he didn't have a chance. nobody voted for him!
+
+[user]:
+i don't know why i bother to vote.
+
+[ai]:
+why's that?
+
+[user]:
+what good does it do?
+
+[ai]:
+you get to put someone in power that you like.
+
+[user]:
+only if my candidate wins.
+
+[ai]:
+well, he can't win unless you and others vote for him.
+
+[user]:
+but even if my candidate wins, he'll break his promises.
+
+[ai]:
+that's true. they promise anything just so they get elected.
+
+[user]:
+and when elected, they go their own way.
+
+[ai]:
+they forget who put them in power.
+
+[user]:
+they forget where they came from.
+
+[ai]:
+maybe you should run for office.
+
+[user]:
+what do you mean?
+
+[ai]:
+there were more votes than voters!
+
+[user]:
+but that's impossible.
+
+[ai]:
+officials said that it's possible.
+
+[user]:
+did they explain how it's possible?
+
+[ai]:
+no. they said there are some things you can't explain.
+
+[user]:
+so are they going to hold another election?
+
+[ai]:
+no. that will cost too much money.
+
+[user]:
+so it's better to save money than to have an honest election?
+
+[ai]:
+well, the democratic party says it was an honest election.
+
+[user]:
+i see that former president bush is at a conference.
+
+[ai]:
+yes. he's telling jokes about his eight years as president.
+
+[user]:
+yes, those eight years were a lot of fun for everyone.
+
+[ai]:
+only 4,000 american soldiers were killed overseas.
+
+[user]:
+not to mention 40,000 wounded soldiers.
+
+[ai]:
+but bush visited some of them in the hospital once.
+
+[user]:
+that's nice that he found the time to make a visit.
+
+[ai]:
+he spoke to them and made them feel better.
+
+[user]:
+did he speak to every family that lost a soldier?
+
+[ai]:
+no, he didn't have time to do that.
+
+[user]:
+well, he's got plenty of time now!
+
+[ai]:
+no, he's too busy writing a book about how hard it was to be president.
+
+[user]:
+yes, with the voter instructions.
+
+[ai]:
+how are you going to vote?
+
+[user]:
+same as ever, by mail. all it costs me is a 42-cent stamp.
+
+[ai]:
+i meant, are you going to vote for or against the new taxes?
+
+[user]:
+against all of them, of course.
+
+[ai]:
+but we need new taxes to pay for highways, schools, and prisons.
+
+[user]:
+we've already voted for new taxes to pay for all that stuff!
+
+[ai]:
+that's true. where did that money go?
+
+[user]:
+our legislators spent it on first-class travel all over the world.
+
+[ai]:
+they are having a good time with our money.
+
+[user]:
+have you decided how you are going to vote?
+
+[ai]:
+do you mean on measures 1, 2, and 3?
+
+[user]:
+yes. the ones that will improve our schools, roads, and hospitals.
+
+[ai]:
+you mean the measures that will raise our taxes.
+
+[user]:
+but the tv ads say that our taxes will not increase.
+
+[ai]:
+do you believe the tv ads?
+
+[user]:
+i like the one where the fireman tells us why we should vote yes.
+
+[ai]:
+don't believe him! whatever the tv ads tell you, the opposite is true.
+
+[user]:
+but the title of measure 1 is "better schools at no cost."
+
+[ai]:
+the title should be "better schools at huge cost."
+
+[user]:
+i can't believe that they would lie to us.
+
+[ai]:
+of course they lieÂ—that's what politicians do!
+
+[user]:
+is it something you ate?
+
+[ai]:
+maybe. i'm not sure.
+
+[user]:
+what did you have for breakfast?
+
+[ai]:
+the usual, cereal with milk and a banana.
+
+[user]:
+maybe the milk was bad.
+
+[ai]:
+it didn't smell bad.
+
+[user]:
+maybe the banana was bad.
+
+[ai]:
+no, the banana was delicious.
+
+[user]:
+maybe you just need to go to the bathroom.
+
+[ai]:
+no, that's not the problem.
+
+[user]:
+what's this stain?
+
+[ai]:
+i don't know.
+
+[user]:
+it looks like blood.
+
+[ai]:
+i think my nose was bleeding.
+
+[user]:
+you should wet your shirt immediately.
+
+[ai]:
+why?
+
+[user]:
+because that gets the blood out of the shirt.
+
+[ai]:
+what's a little blood?
+
+[user]:
+your white shirt is ruined.
+
+[ai]:
+so, i'll just buy another one.
+
+[user]:
+you can wear this one around the house.
+
+[ai]:
+next time i'll soak it immediately.
+
+[user]:
+why do they hurt?
+
+[ai]:
+i type too much.
+
+[user]:
+you should take a break.
+
+[ai]:
+i need to type to make money.
+
+[user]:
+but typing is causing you pain.
+
+[ai]:
+maybe i should see a doctor.
+
+[user]:
+doctors are too expensive.
+
+[ai]:
+he might tell me to rest for a while.
+
+[user]:
+he might want to cut you open.
+
+[ai]:
+he might say i'm okay.
+
+[user]:
+what did the doctor say?
+
+[ai]:
+he thinks i have too much stress.
+
+[user]:
+stress causes your stomachaches?
+
+[ai]:
+stress causes different problems with different people.
+
+[user]:
+so what did he tell you to do?
+
+[ai]:
+he said i need to think positive.
+
+[user]:
+he didn't give you any medication?
+
+[ai]:
+i hate medication. it makes me feel different.
+
+[user]:
+so how do you think positive?
+
+[ai]:
+i think about nice things.
+
+[user]:
+like what?
+
+[ai]:
+like a day at the beach, with my toes in the sand.
+
+[user]:
+how did you do that?
+
+[ai]:
+it's a paper cut.
+
+[user]:
+paper can be dangerous.
+
+[ai]:
+it hurts, too.
+
+[user]:
+paper cuts can hurt a lot.
+
+[ai]:
+where are the band-aids?
+
+[user]:
+i think they're in the medicine cabinet.
+
+[ai]:
+it's on the tip of my finger.
+
+[user]:
+a band-aid might not work.
+
+[ai]:
+i must not use this finger until the cut heals.
+
+[user]:
+do you smell that?
+
+[ai]:
+oh, yes.
+
+[user]:
+i can't stand cigarette smoke.
+
+[ai]:
+it smells so bad.
+
+[user]:
+one cigarette stinks up the whole sidewalk.
+
+[ai]:
+smokers think they are so cool.
+
+[user]:
+they are so weak.
+
+[ai]:
+a little cigarette controls them.
+
+[user]:
+they look so stupid taking a puff.
+
+[ai]:
+and then they blow smoke out of their mouth.
+
+[user]:
+they think it's cool.
+
+[ai]:
+cigarettes stink.
+
+[user]:
+yes, i do.
+
+[ai]:
+how did you get it?
+
+[user]:
+my sister had a cold. she gave it to me.
+
+[ai]:
+have you taken anything for your cold?
+
+[user]:
+no, i just blow my nose a lot.
+
+[ai]:
+your nose is stopped up?
+
+[user]:
+yes. i have to breathe through my mouth.
+
+[ai]:
+have you tried nose drops?
+
+[user]:
+no, i don't like nose drops.
+
+[ai]:
+they work great.
+
+[user]:
+would you put suntan lotion on my back, please?
+
+[ai]:
+sure.
+
+[user]:
+thank you.
+
+[ai]:
+you shouldn't lie in the sun for too long.
+
+[user]:
+i want to get a tan. i don't want to look so pale.
+
+[ai]:
+what's wrong with looking pale?
+
+[user]:
+people think you might be sick.
+
+[ai]:
+who thinks that?
+
+[user]:
+i don't know.
+
+[ai]:
+it's better to be pale than to have skin cancer.
+
+[user]:
+i know that.
+
+[ai]:
+so why are you arguing with me? don't lie in the sun too long!
+
+[user]:
+of course you can.
+
+[ai]:
+i don't have enough will power.
+
+[user]:
+of course you do.
+
+[ai]:
+i wish i had never started.
+
+[user]:
+so does every smoker.
+
+[ai]:
+i've tried to quit so many times.
+
+[user]:
+so has everyone else.
+
+[ai]:
+nothing seems to work.
+
+[user]:
+all it takes is will power, and you have it.
+
+[ai]:
+then why can't i quit?
+
+[user]:
+my back is killing me.
+
+[ai]:
+what did you do?
+
+[user]:
+i got out of my car.
+
+[ai]:
+that's it?
+
+[user]:
+i injured my back one time just by sneezing.
+
+[ai]:
+you should see a doctor.
+
+[user]:
+my doctor said i need surgery.
+
+[ai]:
+so?
+
+[user]:
+so, forget it.
+
+[ai]:
+you don't have the money?
+
+[user]:
+i have no insurance.
+
+[ai]:
+maybe a back rub would help.
+
+[user]:
+three packs of what?
+
+[ai]:
+cigarettes, of course.
+
+[user]:
+how can he do that?
+
+[ai]:
+when he is almost finished with one cigarette, he uses it to light another.
+
+[user]:
+he's a chain smoker.
+
+[ai]:
+he's been a chain smoker for 30 years.
+
+[user]:
+that's unbelievable. can he still breathe?
+
+[ai]:
+he can, but the people around him can't.
+
+[user]:
+how can he still be alive?
+
+[ai]:
+his doctor says his heart and lungs are strong and healthy.
+
+[user]:
+i hate brushing my teeth.
+
+[ai]:
+it's such a chore.
+
+[user]:
+brush, brush. spit, spit.
+
+[ai]:
+what did they do in the old days?
+
+[user]:
+they brushed with their fingers.
+
+[ai]:
+they also ate with their fingers!
+
+[user]:
+why do they call it the good old days?
+
+[ai]:
+maybe because they didn't have to brush and floss.
+
+[user]:
+who invented flossing?
+
+[ai]:
+a dentist, i'm sure.
+
+[user]:
+i hate flossing more than brushing!
+
+[ai]:
+i can't wait till all my teeth fall out.
+
+[user]:
+this trail is hard to climb.
+
+[ai]:
+especially on a hot day like this.
+
+[user]:
+i can't believe we haven't seen any animals.
+
+[ai]:
+thank goodness! i don't want to see any wild animals.
+
+[user]:
+all we've seen so far is a couple of lizards.
+
+[ai]:
+we're hiking to lose weight, not to see goats and bears.
+
+[user]:
+i bet i've lost a couple of pounds already.
+
+[ai]:
+all you've lost is some sweat.
+
+[user]:
+i haven't even lost one pound of fat?
+
+[ai]:
+if you want to lose fat, you've got to do this hike every day.
+
+[user]:
+oh no, another pimple on my face.
+
+[ai]:
+pimples suck.
+
+[user]:
+it seems like i get a new pimple almost every day.
+
+[ai]:
+maybe it's something in your diet.
+
+[user]:
+no, i eat the same things day after day.
+
+[ai]:
+then maybe it's in your genes.
+
+[user]:
+you might be right.
+
+[ai]:
+do pimples run in your family?
+
+[user]:
+not that i've noticed.
+
+[ai]:
+well, maybe it's from the pollution in the air.
+
+[user]:
+whatever the cause, i hate seeing them on my face.
+
+[ai]:
+well, on the bright side, they're fun to pop.
+
+[user]:
+i don't believe anything i don't see with my own eyes.
+
+[ai]:
+you can't believe what you hear on tv or radio.
+
+[user]:
+you can't believe what you read in the newspapers.
+
+[ai]:
+everyone tells you a different story about the same thing.
+
+[user]:
+three different people will give you three different stories.
+
+[ai]:
+and the government will give you a fourth story.
+
+[user]:
+yes, like the government says not to worry about the swine flu.
+
+[ai]:
+but the swine flu just killed 20 people in mexico.
+
+[user]:
+the government says we have nothing to worry about.
+
+[ai]:
+then why are some schools telling the kids to stay home?
+
+[user]:
+don't pick your nose.
+
+[ai]:
+i wasn't picking my nose.
+
+[user]:
+what were you doing?
+
+[ai]:
+i was scratching my nose.
+
+[user]:
+i think i know the difference between picking and scratching.
+
+[ai]:
+okay, mom, maybe i was picking it a little bit.
+
+[user]:
+use a tissue next time.
+
+[ai]:
+i didn't have a tissue.
+
+[user]:
+then wait till you find a tissue.
+
+[ai]:
+i couldn't wait. it was an emergency.
+
+[user]:
+oh, really? maybe you should have called 911.
+
+[ai]:
+it wasn't that kind of emergency.
+
+[user]:
+yes, it's covered with crud.
+
+[ai]:
+i'm going to clean it.
+
+[user]:
+don't use water on it!
+
+[ai]:
+i'll use a damp cloth.
+
+[user]:
+don't let water get into any of the cracks.
+
+[ai]:
+i'll squeeze the cloth so it's almost dry.
+
+[user]:
+don't rub the numbers off the remote.
+
+[ai]:
+i will rub gently but firmly.
+
+[user]:
+do it quickly, please, so i can change channels during commercials.
+
+[ai]:
+i'll give it back to you in a couple of minutes.
+
+[user]:
+my ear is killing me.
+
+[ai]:
+what's the matter?
+
+[user]:
+i was on a plane.
+
+[ai]:
+so?
+
+[user]:
+so, every time the plane goes up, my ear starts to hurt.
+
+[ai]:
+that's no good.
+
+[user]:
+sometimes the pain goes away, and sometimes it doesn't.
+
+[ai]:
+have you seen a doctor?
+
+[user]:
+i've been to two doctors.
+
+[ai]:
+and they couldn't fix your problem?
+
+[user]:
+they both said i have to live with it.
+
+[ai]:
+or you can stay off planes.
+
+[user]:
+did she get a nice job?
+
+[ai]:
+she got an "everything" job!
+
+[user]:
+what do you mean?
+
+[ai]:
+a team of doctors gave her a whole new face.
+
+[user]:
+why did they do that?
+
+[ai]:
+a mad dog bit most of her face off.
+
+[user]:
+oh, that's terrible. what does she look like now?
+
+[ai]:
+her face is really fat, but they say the swelling will go down.
+
+[user]:
+and then will she look normal again?
+
+[ai]:
+i guess so.
+
+[user]:
+there's something wrong with my right hand.
+
+[ai]:
+what's wrong with it?
+
+[user]:
+it aches most of the time.
+
+[ai]:
+what do you think it is?
+
+[user]:
+i don't know. i think it's old age.
+
+[ai]:
+if it's old age, why don't both of your hands hurt?
+
+[user]:
+that's a good question. maybe it's not old age.
+
+[ai]:
+are you right-handed?
+
+[user]:
+yes. all my life.
+
+[ai]:
+you're wearing out your right hand. stop using it so much.
+
