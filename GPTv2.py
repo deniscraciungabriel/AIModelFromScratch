@@ -204,28 +204,50 @@ def estimate_loss():
 
 optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
 
-# Training loop
-for iter in range(max_iters):
-    if iter % eval_iters == 0:
-        losses = estimate_loss()
-        print(f"Step: {iter}, train loss: {losses['train']:.3f}, val loss: {losses['val']:.3f}")
+# Ask the user to choose between training or chatting
+mode = input("Choose mode: 'train' or 'chat': ").strip().lower()
 
-    xb, yb = get_batch('train')
-    logits, loss = model(xb, yb)
-    optimizer.zero_grad(set_to_none=True)
-    loss.backward()
-    optimizer.step()
+if mode == 'train':
+    # Training loop
+    for iter in range(max_iters):
+        if iter % eval_iters == 0:
+            losses = estimate_loss()
+            print(f"Step: {iter}, train loss: {losses['train']:.3f}, val loss: {losses['val']:.3f}")
 
-print("Final loss:", loss.item())
+        xb, yb = get_batch('train')
+        logits, loss = model(xb, yb)
+        optimizer.zero_grad(set_to_none=True)
+        loss.backward()
+        optimizer.step()
 
-with open('model-01.pkl', 'wb') as f:
-    pickle.dump(model, f)
-print('Model saved.')
+    print("Final loss:", loss.item())
 
-# Generation example with a word-level prompt
-prompt = "[user]: hello! how are you? [ai]:"
-context = torch.tensor(encode(prompt), dtype=torch.long, device=device)
-generated_tokens = model.generate(context.unsqueeze(0), max_new_tokens=100)[0].tolist()
-generated_text = decode(generated_tokens)
-print("Generated text:")
-print(generated_text)
+    with open('model-01.pkl', 'wb') as f:
+        pickle.dump(model, f)
+    print('Model saved.')
+
+elif mode == 'chat':
+    # Chatbot interaction loop using your conversation tags
+    while True:
+        # Get the user's input and format the prompt so the model generates a reply as User 2
+        user_input = input("User 1: ")
+        prompt = f"User 1: {user_input}\nUser 2:"  # model will complete as User 2
+        
+        # Encode the prompt and generate tokens
+        context = torch.tensor(encode(prompt), dtype=torch.long, device=device).unsqueeze(0)
+        generated_tokens = model.generate(context, max_new_tokens=100)[0].tolist()
+        generated_text = decode(generated_tokens)
+        
+        # Remove the prompt from the generated text and extract only User 2's response.
+        # We assume the model may generate a new turn with "User 1:".
+        response_section = generated_text[len(prompt):].strip()
+        if "User 1:" in response_section:
+            user2_response = response_section.split("User 1:")[0].strip()
+        else:
+            user2_response = response_section
+        
+        print(f"User 2: {user2_response}")
+
+else:
+    print("Invalid mode selected. Please choose 'train' or 'chat'.")
+
